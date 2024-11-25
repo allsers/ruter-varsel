@@ -4,13 +4,12 @@
 	"type": "module",
 	"scripts": {
 		"dev": "vite dev",
-		"build": "ADAPTER=static vite build",
+		"build": "vite build",
 		"preview": "vite preview",
 		"check": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json",
 		"check:watch": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json --watch",
 		"format": "prettier --write .",
-		"lint": "prettier --check .",
-		"build:static": "ADAPTER=static vite build"
+		"lint": "prettier --check ."
 	},
 	"devDependencies": {
 		"@sveltejs/adapter-auto": "^3.0.0",
