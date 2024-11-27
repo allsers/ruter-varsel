@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Map | bilettkontrollVarsler</title>
+    <link rel="stylesheet" href="menu.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+        }
+        #map {
+            z-index: 1;
+            height: 100vh;
+            width: 100vw;
+        }
+    </style>
+</head>
+<body>
+    <aside id="menu" class="collapsed">
+        <button id="menu-button" aria-label="menu">
+            <i id="menu-icon" class="fas fa-bars"></i>
+        </button>
+        <div class="content">
+            <div class="search-container">
+                <i class="fas fa-search"></i>
+                <input id="search-bar" type="text" placeholder="Søk..">
+            </div>
+            <ul id="item-list"></ul>
+        </div>
+    </aside>
+
+    
+    <div id="map"></div>
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <script>
+        // 1. Sett opp Leaflet-kartet
+        const map = L.map('map').setView([59.91, 10.75], 12);
+        window.map = map
+
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+        }).addTo(map);
+
+        const customIcon = L.icon({ // L brukes i leaflet for å lage markører
+            iconUrl: 'https://cdn3.iconfinder.com/data/icons/flat-pro-basic-set-1-1/32/location-green-512.png',
+            iconSize: [40, 40],
+    
+        });
+
+        const customRedIcon = L.icon({ // L brukes i leaflet for å lage markører
+            iconUrl: 'https://cdn3.iconfinder.com/data/icons/flat-pro-basic-set-1-1/32/location-red-512.png',
+            iconSize: [40, 40],
+        });
+
+        // Definer bounding box for Oslo (ca.)
+        const osloBounds = { // bestemmer et avgrenset område for oslo på kartet som jeg senere bruker for å filtrere stoppene til kunn stopp i oslo
+            minLat: 59.8,
+            maxLat: 60.0,
+            minLng: 10.5,
+            maxLng: 11.0,
+        };
+
+        // 2. Hent stopp fra Entur API
+        const fetchStops = async () => { // forteller hvilket format dataen skal være i, jeg spesifiserer at jeg vil ha med den gitte dataen under i forespørselen
+            const query = `
+            {
+                stopPlaces {
+                    id
+                    name
+                    latitude
+                    longitude
+                }
+            }`;
+
+            try { // try den prøver dette om det ikek fungerer går den til catch
+                const response = await fetch('https://api.entur.io/journey-planner/v3/graphql', { // kjører en fetch request til entur api via en await som gjøt a t den gjør dette før den går videre
+                    method: 'POST',
+                    headers: { // headers er metadata som sendes med requesten, her er det content-type og ET-Client-Name som man mp ha for å få tilgang til apien 
+                        'Content-Type': 'application/json',
+                        'ET-Client-Name': 'fosen_utvikling-departureboard'
+                    },
+                    body: JSON.stringify({ query }) //dette er bodyen som sendes med requesten, her er det query som er definert over
+                }); // return verdier til response blir lik fetch requesten som er innholdet vi får i bodyen
+
+                const data = await response.json();
+
+                // Valider at dataene er tilgjengelige
+                if (!data.data || !data.data.stopPlaces) {
+                    console.error('Ingen data returnert fra API!');
+                    return [];
+                }
+
+                return data.data.stopPlaces;
+            } catch (error) {
+                console.error('Feil ved henting av stopp:', error);
+                return [];
+            }
+        };
+        
+        // 3. Filtrer stopp til de som er innenfor bounding box
+        const filterStopsToOslo = (stops) => {
+            return stops.filter(stop => {
+                const lat = stop.latitude;
+                const lng = stop.longitude;
+                return lat >= osloBounds.minLat && lat <= osloBounds.maxLat &&
+                       lng >= osloBounds.minLng && lng <= osloBounds.maxLng;
+            });
+        };
+
+        // 4. Legg til stopp som markører på kartet
+        fetchStops().then(allStops => {
+            const osloStops = filterStopsToOslo(allStops);
+            const event = new CustomEvent('osloStopsReady', { detail: osloStops });
+            document.dispatchEvent(event);
+
+
+            
+            osloStops.forEach(stop => {
+                if (stop.latitude && stop.longitude) { // Sjekk at koordinatene er gyldige
+                    const popupContent = `
+                        <b>${stop.name}</b>
+                         <p>Er det kontroll?</p>
+                        <div class="popup-buttons">
+                            <button onclick="alert('Du registrerte at det ikke er kontroll på ${stop.name}'); changeColor(${stop.latitude}, ${stop.longitude}, 'green');">X</button>
+                            <button onclick="alert('Du registrerte at det er kontroll på ${stop.name}, takk!'); changeColor(${stop.latitude}, ${stop.longitude}, 'red')">V</button>
+                        </div>`;
+                    L.marker([stop.latitude, stop.longitude], { icon: customIcon })
+                        .addTo(map)
+                        .bindPopup(popupContent);
+                }
+            });
+        });
+        function changeColor(lat, lng, color){
+            const newIcon = color === 'red' ? customRedIcon : customIcon; // hvis color er rød, bruk customRedIcon, ellers customIcon
+
+            map.eachLayer(function(layer){ // går gjennom alle lagene på kartet, layer blir satt til hvert lag
+                if(layer instanceof L.Marker && layer.getLatLng().equals([lat,lng])){ // sjekker om laget er en markør og om markøren er på riktig sted, getLatLng er en funskjon fra leaflet som henter ut koordinatene til markøren
+                    layer.setIcon(newIcon); // endrer markørens ikon basert på newIcon over (rød eller grønn)
+                }
+            });
+        }
+
+    </script>
+    <script src="menu.js" type="module" defer></script>
+</body>
+</html>
