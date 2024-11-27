@@ -34,78 +34,80 @@
     </aside>
 
     <div id="map"></div>
-    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js" defer></script>
     <script>
-        // 1. Sett opp Leaflet-kartet
-        const map = L.map('map').setView([59.91, 10.75], 12);
-        window.map = map;
+        document.addEventListener('DOMContentLoaded', () => {
+            // 1. Sett opp Leaflet-kartet
+            const map = L.map('map').setView([59.91, 10.75], 12);
+            window.map = map;
 
-        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-        }).addTo(map);
+            L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+            }).addTo(map);
 
-        const customIcon = L.icon({
-            iconUrl: 'https://cdn3.iconfinder.com/data/icons/flat-pro-basic-set-1-1/32/location-green-512.png',
-            iconSize: [40, 40],
-        });
+            const customIcon = L.icon({
+                iconUrl: 'https://cdn3.iconfinder.com/data/icons/flat-pro-basic-set-1-1/32/location-green-512.png',
+                iconSize: [40, 40],
+            });
 
-        const customRedIcon = L.icon({
-            iconUrl: 'https://cdn3.iconfinder.com/data/icons/flat-pro-basic-set-1-1/32/location-red-512.png',
-            iconSize: [40, 40],
-        });
+            const customRedIcon = L.icon({
+                iconUrl: 'https://cdn3.iconfinder.com/data/icons/flat-pro-basic-set-1-1/32/location-red-512.png',
+                iconSize: [40, 40],
+            });
 
-        // 2. Hent stopp fra osloStops.json
-        const fetchStops = async () => {
-            try {
-                const response = await fetch('osloStops.json'); // Fetch data from the local JSON file
-                const data = await response.json();
+            // 2. Hent stopp fra osloStops.json
+            const fetchStops = async () => {
+                try {
+                    const response = await fetch('osloStops.json'); // Fetch data from the local JSON file
+                    const data = await response.json();
 
-                // Valider at dataene er tilgjengelige
-                if (!data || !Array.isArray(data)) {
-                    console.error('Ingen data returnert fra JSON-filen!');
+                    // Valider at dataene er tilgjengelige
+                    if (!data || !Array.isArray(data)) {
+                        console.error('Ingen data returnert fra JSON-filen!');
+                        return [];
+                    }
+
+                    return data;
+                } catch (error) {
+                    console.error('Feil ved henting av stopp fra JSON-filen:', error);
                     return [];
                 }
+            };
 
-                return data;
-            } catch (error) {
-                console.error('Feil ved henting av stopp fra JSON-filen:', error);
-                return [];
-            }
-        };
+            // Store markers in a map for easy access
+            const markersMap = new Map();
 
-        // Store markers in a map for easy access
-        const markersMap = new Map();
-
-        // Function to change the color of the marker
-        const changeColor = (lat, lng, color) => {
-            const marker = markersMap.get(`${lat},${lng}`);
-            if (marker) {
-                if (color === 'green') {
-                    marker.setIcon(customIcon);
-                } else if (color === 'red') {
-                    marker.setIcon(customRedIcon);
+            // Function to change the color of the marker
+            const changeColor = (lat, lng, color) => {
+                const marker = markersMap.get(`${lat},${lng}`);
+                if (marker) {
+                    if (color === 'green') {
+                        marker.setIcon(customIcon);
+                    } else if (color === 'red') {
+                        marker.setIcon(customRedIcon);
+                    }
                 }
-            }
-        };
+            };
 
-        // 4. Legg til stopp som markører på kartet
-        fetchStops().then(allStops => {
-            const event = new CustomEvent('osloStopsReady', { detail: allStops });
-            document.dispatchEvent(event);
+            // 4. Legg til stopp som markører på kartet
+            fetchStops().then(allStops => {
+                const event = new CustomEvent('osloStopsReady', { detail: allStops });
+                document.dispatchEvent(event);
 
-            allStops.forEach(stop => {
-                if (stop.latitude && stop.longitude) { // Sjekk at koordinatene er gyldige
-                    const marker = L.marker([stop.latitude, stop.longitude], { icon: customIcon }).addTo(map);
-                    markersMap.set(`${stop.latitude},${stop.longitude}`, marker);
-                    const popupContent = `
-                        <b>${stop.name}</b>
-                         <p>Er det kontroll?</p>
-                        <div class="popup-buttons">
-                            <button onclick="alert('Du registrerte at det ikke er kontroll på ${stop.name}'); changeColor(${stop.latitude}, ${stop.longitude}, 'green');">X</button>
-                            <button onclick="alert('Du registrerte at det er kontroll på ${stop.name}, takk!'); changeColor(${stop.latitude}, ${stop.longitude}, 'red');">V</button>
-                        </div>`;
-                    marker.bindPopup(popupContent);
-                }
+                allStops.forEach(stop => {
+                    if (stop.latitude && stop.longitude) { // Sjekk at koordinatene er gyldige
+                        const marker = L.marker([stop.latitude, stop.longitude], { icon: customIcon }).addTo(map);
+                        markersMap.set(`${stop.latitude},${stop.longitude}`, marker);
+                        const popupContent = `
+                            <b>${stop.name}</b>
+                             <p>Er det kontroll?</p>
+                            <div class="popup-buttons">
+                                <button onclick="alert('Du registrerte at det ikke er kontroll på ${stop.name}'); changeColor(${stop.latitude}, ${stop.longitude}, 'green');">X</button>
+                                <button onclick="alert('Du registrerte at det er kontroll på ${stop.name}, takk!'); changeColor(${stop.latitude}, ${stop.longitude}, 'red');">V</button>
+                            </div>`;
+                        marker.bindPopup(popupContent);
+                    }
+                });
             });
         });
     </script>
