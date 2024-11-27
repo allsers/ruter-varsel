@@ -1,0 +1,9038 @@
+[
+  {
+    "id": "NSR:StopPlace:6710",
+    "name": "Hauketo stasjon",
+    "latitude": 59.84612,
+    "longitude": 10.803321
+  },
+  {
+    "id": "NSR:StopPlace:6713",
+    "name": "Sveavegen",
+    "latitude": 59.840128,
+    "longitude": 10.805211
+  },
+  {
+    "id": "NSR:StopPlace:6714",
+    "name": "Lerdal",
+    "latitude": 59.837149,
+    "longitude": 10.80662
+  },
+  {
+    "id": "NSR:StopPlace:6715",
+    "name": "Ljabru hovedgård",
+    "latitude": 59.849258,
+    "longitude": 10.803688
+  },
+  {
+    "id": "NSR:StopPlace:6717",
+    "name": "Nebbejordet",
+    "latitude": 59.843005,
+    "longitude": 10.813076
+  },
+  {
+    "id": "NSR:StopPlace:6718",
+    "name": "Asperudåsen",
+    "latitude": 59.83994,
+    "longitude": 10.799274
+  },
+  {
+    "id": "NSR:StopPlace:6719",
+    "name": "Asperudtoppen",
+    "latitude": 59.838686,
+    "longitude": 10.800494
+  },
+  {
+    "id": "NSR:StopPlace:6701",
+    "name": "Kronveien",
+    "latitude": 59.850022,
+    "longitude": 10.798472
+  },
+  {
+    "id": "NSR:StopPlace:6702",
+    "name": "Maikollen",
+    "latitude": 59.858452,
+    "longitude": 10.824323
+  },
+  {
+    "id": "NSR:StopPlace:6703",
+    "name": "Granebakken",
+    "latitude": 59.857161,
+    "longitude": 10.825055
+  },
+  {
+    "id": "NSR:StopPlace:6705",
+    "name": "Olasrudveien",
+    "latitude": 59.852474,
+    "longitude": 10.827711
+  },
+  {
+    "id": "NSR:StopPlace:6706",
+    "name": "Hvervenbukta",
+    "latitude": 59.834453,
+    "longitude": 10.77478
+  },
+  {
+    "id": "NSR:StopPlace:6707",
+    "name": "Ljansbruket",
+    "latitude": 59.82911,
+    "longitude": 10.767733
+  },
+  {
+    "id": "NSR:StopPlace:6709",
+    "name": "Gjersjøelva",
+    "latitude": 59.824339,
+    "longitude": 10.772168
+  },
+  {
+    "id": "NSR:StopPlace:6740",
+    "name": "Prinsdal",
+    "latitude": 59.834184,
+    "longitude": 10.807417
+  },
+  {
+    "id": "NSR:StopPlace:6731",
+    "name": "Krummedike",
+    "latitude": 59.82777,
+    "longitude": 10.799064
+  },
+  {
+    "id": "NSR:StopPlace:6733",
+    "name": "Nordåsveien",
+    "latitude": 59.829865,
+    "longitude": 10.794041
+  },
+  {
+    "id": "NSR:StopPlace:6734",
+    "name": "Rosenholmveien",
+    "latitude": 59.829997,
+    "longitude": 10.792902
+  },
+  {
+    "id": "NSR:StopPlace:6735",
+    "name": "Åstun",
+    "latitude": 59.830722,
+    "longitude": 10.788496
+  },
+  {
+    "id": "NSR:StopPlace:6737",
+    "name": "Vestskrenten",
+    "latitude": 59.829562,
+    "longitude": 10.781515
+  },
+  {
+    "id": "NSR:StopPlace:6738",
+    "name": "Grensestien",
+    "latitude": 59.827567,
+    "longitude": 10.779575
+  },
+  {
+    "id": "NSR:StopPlace:6739",
+    "name": "Åsbråten",
+    "latitude": 59.826156,
+    "longitude": 10.782306
+  },
+  {
+    "id": "NSR:StopPlace:6720",
+    "name": "Lerdalstoppen",
+    "latitude": 59.836777,
+    "longitude": 10.80128
+  },
+  {
+    "id": "NSR:StopPlace:6721",
+    "name": "Holmlia stasjon",
+    "latitude": 59.834967,
+    "longitude": 10.796795
+  },
+  {
+    "id": "NSR:StopPlace:6723",
+    "name": "Skovbakken syd",
+    "latitude": 59.837486,
+    "longitude": 10.794545
+  },
+  {
+    "id": "NSR:StopPlace:6724",
+    "name": "Ravnkroken",
+    "latitude": 59.837069,
+    "longitude": 10.789914
+  },
+  {
+    "id": "NSR:StopPlace:6725",
+    "name": "Ravnåsen",
+    "latitude": 59.838039,
+    "longitude": 10.786774
+  },
+  {
+    "id": "NSR:StopPlace:6726",
+    "name": "Sloreåsen",
+    "latitude": 59.842217,
+    "longitude": 10.794973
+  },
+  {
+    "id": "NSR:StopPlace:6728",
+    "name": "Skovbakken nord",
+    "latitude": 59.840422,
+    "longitude": 10.795001
+  },
+  {
+    "id": "NSR:StopPlace:6729",
+    "name": "Hallagerbakken",
+    "latitude": 59.841314,
+    "longitude": 10.793721
+  },
+  {
+    "id": "NSR:StopPlace:6741",
+    "name": "Prinsdalsbakken",
+    "latitude": 59.829223,
+    "longitude": 10.808796
+  },
+  {
+    "id": "NSR:StopPlace:6743",
+    "name": "Trygve Strømbergs vei",
+    "latitude": 59.825798,
+    "longitude": 10.809327
+  },
+  {
+    "id": "NSR:StopPlace:6744",
+    "name": "Berglyveien",
+    "latitude": 59.828811,
+    "longitude": 10.80643
+  },
+  {
+    "id": "NSR:StopPlace:6745",
+    "name": "Høgåsveien",
+    "latitude": 59.830727,
+    "longitude": 10.803583
+  },
+  {
+    "id": "NSR:StopPlace:41",
+    "name": "Hanaborg stasjon",
+    "latitude": 59.938993,
+    "longitude": 10.965481
+  },
+  {
+    "id": "NSR:StopPlace:60",
+    "name": "Rosenholm stasjon",
+    "latitude": 59.823624,
+    "longitude": 10.797858
+  },
+  {
+    "id": "NSR:StopPlace:62",
+    "name": "Rosenholm stasjon",
+    "latitude": 59.823932,
+    "longitude": 10.797302
+  },
+  {
+    "id": "NSR:StopPlace:59501",
+    "name": "Skogen",
+    "latitude": 59.975289,
+    "longitude": 10.647718
+  },
+  {
+    "id": "NSR:StopPlace:59502",
+    "name": "Lillevann",
+    "latitude": 59.980996,
+    "longitude": 10.652597
+  },
+  {
+    "id": "NSR:StopPlace:59500",
+    "name": "Voksenlia T",
+    "latitude": 59.96728,
+    "longitude": 10.653836
+  },
+  {
+    "id": "NSR:StopPlace:59413",
+    "name": "Dronningens gate",
+    "latitude": 59.910242,
+    "longitude": 10.746061
+  },
+  {
+    "id": "NSR:StopPlace:59419",
+    "name": "Nobels gate",
+    "latitude": 59.917664,
+    "longitude": 10.698178
+  },
+  {
+    "id": "NSR:StopPlace:59421",
+    "name": "Sars' gate",
+    "latitude": 59.921554,
+    "longitude": 10.771466
+  },
+  {
+    "id": "NSR:StopPlace:74001",
+    "name": "X Meeting Point Norway",
+    "latitude": 59.983119,
+    "longitude": 10.973282
+  },
+  {
+    "id": "NSR:StopPlace:59472",
+    "name": "Hausmanns bru",
+    "latitude": 59.914542,
+    "longitude": 10.759995
+  },
+  {
+    "id": "NSR:StopPlace:59495",
+    "name": "Hammersborggata",
+    "latitude": 59.915398,
+    "longitude": 10.752198
+  },
+  {
+    "id": "NSR:StopPlace:59498",
+    "name": "Holmenkollen T",
+    "latitude": 59.961331,
+    "longitude": 10.659909
+  },
+  {
+    "id": "NSR:StopPlace:59499",
+    "name": "Holmenkollen T",
+    "latitude": 59.96038,
+    "longitude": 10.664313
+  },
+  {
+    "id": "NSR:StopPlace:59613",
+    "name": "Kjelsåsalléen",
+    "latitude": 59.963081,
+    "longitude": 10.784102
+  },
+  {
+    "id": "NSR:StopPlace:59614",
+    "name": "Kjelsås",
+    "latitude": 59.964234,
+    "longitude": 10.784999
+  },
+  {
+    "id": "NSR:StopPlace:59617",
+    "name": "Høvik kirke",
+    "latitude": 59.898777,
+    "longitude": 10.577782
+  },
+  {
+    "id": "NSR:StopPlace:59570",
+    "name": "Tåsen",
+    "latitude": 59.952874,
+    "longitude": 10.750083
+  },
+  {
+    "id": "NSR:StopPlace:59571",
+    "name": "Holstein T",
+    "latitude": 59.958189,
+    "longitude": 10.738535
+  },
+  {
+    "id": "NSR:StopPlace:59572",
+    "name": "Sognsvann T",
+    "latitude": 59.967386,
+    "longitude": 10.733149
+  },
+  {
+    "id": "NSR:StopPlace:59574",
+    "name": "Tåsen senter",
+    "latitude": 59.952784,
+    "longitude": 10.751383
+  },
+  {
+    "id": "NSR:StopPlace:59569",
+    "name": "Jernbanetorget",
+    "latitude": 59.909201,
+    "longitude": 10.747429
+  },
+  {
+    "id": "NSR:StopPlace:59562",
+    "name": "Jernbanetorget",
+    "latitude": 59.910223,
+    "longitude": 10.748502
+  },
+  {
+    "id": "NSR:StopPlace:61070",
+    "name": "Ullern",
+    "latitude": 59.924631,
+    "longitude": 10.659917
+  },
+  {
+    "id": "NSR:StopPlace:61072",
+    "name": "Furulund",
+    "latitude": 59.920229,
+    "longitude": 10.649461
+  },
+  {
+    "id": "NSR:StopPlace:61065",
+    "name": "Middelalderparken",
+    "latitude": 59.906242,
+    "longitude": 10.764512
+  },
+  {
+    "id": "NSR:StopPlace:61067",
+    "name": "Hoff",
+    "latitude": 59.924328,
+    "longitude": 10.67477
+  },
+  {
+    "id": "NSR:StopPlace:61068",
+    "name": "Abbediengen",
+    "latitude": 59.925221,
+    "longitude": 10.668219
+  },
+  {
+    "id": "NSR:StopPlace:59287",
+    "name": "Solli",
+    "latitude": 59.915182,
+    "longitude": 10.71734
+  },
+  {
+    "id": "NSR:StopPlace:59288",
+    "name": "Ruseløkka",
+    "latitude": 59.912892,
+    "longitude": 10.724038
+  },
+  {
+    "id": "NSR:StopPlace:61012",
+    "name": "Middelalderparken",
+    "latitude": 59.906269,
+    "longitude": 10.764389
+  },
+  {
+    "id": "NSR:StopPlace:59379",
+    "name": "Welhavens gate",
+    "latitude": 59.921483,
+    "longitude": 10.730022
+  },
+  {
+    "id": "NSR:StopPlace:59380",
+    "name": "Welhavens gate",
+    "latitude": 59.92154,
+    "longitude": 10.730142
+  },
+  {
+    "id": "NSR:StopPlace:59381",
+    "name": "Sandaker senter",
+    "latitude": 59.9388,
+    "longitude": 10.768576
+  },
+  {
+    "id": "NSR:StopPlace:59904",
+    "name": "Øvre Sogn",
+    "latitude": 59.956239,
+    "longitude": 10.722106
+  },
+  {
+    "id": "NSR:StopPlace:59921",
+    "name": "Gaustadveien",
+    "latitude": 59.953974,
+    "longitude": 10.71788
+  },
+  {
+    "id": "NSR:StopPlace:59922",
+    "name": "Gaustad sykehus",
+    "latitude": 59.951167,
+    "longitude": 10.716517
+  },
+  {
+    "id": "NSR:StopPlace:59893",
+    "name": "Sagene",
+    "latitude": 59.93759,
+    "longitude": 10.751066
+  },
+  {
+    "id": "NSR:StopPlace:59880",
+    "name": "Sveiva",
+    "latitude": 59.963288,
+    "longitude": 10.903617
+  },
+  {
+    "id": "NSR:StopPlace:59734",
+    "name": "Jernbanetorget",
+    "latitude": 59.912244,
+    "longitude": 10.749948
+  },
+  {
+    "id": "NSR:StopPlace:59737",
+    "name": "Ekebergsletta",
+    "latitude": 59.896556,
+    "longitude": 10.777046
+  },
+  {
+    "id": "NSR:StopPlace:59728",
+    "name": "Sofienbergparken",
+    "latitude": 59.923447,
+    "longitude": 10.76121
+  },
+  {
+    "id": "NSR:StopPlace:59729",
+    "name": "Veitvet T",
+    "latitude": 59.944461,
+    "longitude": 10.846252
+  },
+  {
+    "id": "NSR:StopPlace:59675",
+    "name": "Herslebs gate",
+    "latitude": 59.919303,
+    "longitude": 10.762265
+  },
+  {
+    "id": "NSR:StopPlace:59681",
+    "name": "Sæter",
+    "latitude": 59.86154,
+    "longitude": 10.799881
+  },
+  {
+    "id": "NSR:StopPlace:59682",
+    "name": "Holtet",
+    "latitude": 59.881375,
+    "longitude": 10.787053
+  },
+  {
+    "id": "NSR:StopPlace:59683",
+    "name": "Ekeberg camping",
+    "latitude": 59.898112,
+    "longitude": 10.776101
+  },
+  {
+    "id": "NSR:StopPlace:59685",
+    "name": "Ullevål sykehus",
+    "latitude": 59.935963,
+    "longitude": 10.73572
+  },
+  {
+    "id": "NSR:StopPlace:61422",
+    "name": "Storgata",
+    "latitude": 59.913957,
+    "longitude": 10.751482
+  },
+  {
+    "id": "NSR:StopPlace:61443",
+    "name": "Storgata",
+    "latitude": 59.913919,
+    "longitude": 10.751359
+  },
+  {
+    "id": "NSR:StopPlace:61467",
+    "name": "Vy-tomta",
+    "latitude": 59.910266,
+    "longitude": 10.714851
+  },
+  {
+    "id": "NSR:StopPlace:61482",
+    "name": "Munch Bjørvika",
+    "latitude": 59.905706,
+    "longitude": 10.75356
+  },
+  {
+    "id": "NSR:StopPlace:61483",
+    "name": "Salt brygge",
+    "latitude": 59.906629,
+    "longitude": 10.747142
+  },
+  {
+    "id": "NSR:StopPlace:61191",
+    "name": "Majorstuen",
+    "latitude": 59.929041,
+    "longitude": 10.715905
+  },
+  {
+    "id": "NSR:StopPlace:59806",
+    "name": "Heimdalsgata",
+    "latitude": 59.918625,
+    "longitude": 10.761881
+  },
+  {
+    "id": "NSR:StopPlace:59832",
+    "name": "Tinghuset",
+    "latitude": 59.91515,
+    "longitude": 10.741284
+  },
+  {
+    "id": "NSR:StopPlace:59844",
+    "name": "Trosterudkrysset",
+    "latitude": 59.929461,
+    "longitude": 10.865584
+  },
+  {
+    "id": "NSR:StopPlace:59846",
+    "name": "Jar skole",
+    "latitude": 59.920432,
+    "longitude": 10.625651
+  },
+  {
+    "id": "NSR:StopPlace:59777",
+    "name": "Vinderen T",
+    "latitude": 59.942868,
+    "longitude": 10.705276
+  },
+  {
+    "id": "NSR:StopPlace:59781",
+    "name": "Torshov",
+    "latitude": 59.934608,
+    "longitude": 10.764552
+  },
+  {
+    "id": "NSR:StopPlace:59782",
+    "name": "Bryn skole",
+    "latitude": 59.914005,
+    "longitude": 10.822772
+  },
+  {
+    "id": "NSR:StopPlace:61224",
+    "name": "Lørenskog sentrum",
+    "latitude": 59.92835,
+    "longitude": 10.951948
+  },
+  {
+    "id": "NSR:StopPlace:61247",
+    "name": "Mastemyr hotell",
+    "latitude": 59.822291,
+    "longitude": 10.781855
+  },
+  {
+    "id": "NSR:StopPlace:61249",
+    "name": "Nybrua",
+    "latitude": 59.917074,
+    "longitude": 10.758314
+  },
+  {
+    "id": "NSR:StopPlace:61733",
+    "name": "Jernbanetorget",
+    "latitude": 59.911877,
+    "longitude": 10.754652
+  },
+  {
+    "id": "NSR:StopPlace:61958",
+    "name": "Løren T",
+    "latitude": 59.929609,
+    "longitude": 10.791843
+  },
+  {
+    "id": "NSR:StopPlace:61531",
+    "name": "Hamang terrasse",
+    "latitude": 59.897014,
+    "longitude": 10.500905
+  },
+  {
+    "id": "NSR:StopPlace:61533",
+    "name": "Bjørnegård bru",
+    "latitude": 59.893301,
+    "longitude": 10.510732
+  },
+  {
+    "id": "NSR:StopPlace:3401",
+    "name": "Ingierkollveien",
+    "latitude": 59.807568,
+    "longitude": 10.792482
+  },
+  {
+    "id": "NSR:StopPlace:3404",
+    "name": "Kolbotn torg",
+    "latitude": 59.811122,
+    "longitude": 10.798335
+  },
+  {
+    "id": "NSR:StopPlace:3407",
+    "name": "Skjoldbakken",
+    "latitude": 59.818861,
+    "longitude": 10.80931
+  },
+  {
+    "id": "NSR:StopPlace:3420",
+    "name": "Trollåsveien",
+    "latitude": 59.818207,
+    "longitude": 10.787418
+  },
+  {
+    "id": "NSR:StopPlace:3423",
+    "name": "Ingier bru",
+    "latitude": 59.825964,
+    "longitude": 10.768885
+  },
+  {
+    "id": "NSR:StopPlace:3426",
+    "name": "Bestemorstranda",
+    "latitude": 59.825579,
+    "longitude": 10.758948
+  },
+  {
+    "id": "NSR:StopPlace:3429",
+    "name": "Sandbukta",
+    "latitude": 59.822126,
+    "longitude": 10.754628
+  },
+  {
+    "id": "NSR:StopPlace:3410",
+    "name": "Mellomveien",
+    "latitude": 59.819733,
+    "longitude": 10.80525
+  },
+  {
+    "id": "NSR:StopPlace:3413",
+    "name": "Skogkanten",
+    "latitude": 59.816463,
+    "longitude": 10.804413
+  },
+  {
+    "id": "NSR:StopPlace:3417",
+    "name": "Kolbotn gravlund",
+    "latitude": 59.820767,
+    "longitude": 10.789779
+  },
+  {
+    "id": "NSR:StopPlace:3442",
+    "name": "Strandskogen",
+    "latitude": 59.802094,
+    "longitude": 10.736738
+  },
+  {
+    "id": "NSR:StopPlace:3491",
+    "name": "Kolbotn sentrum",
+    "latitude": 59.810538,
+    "longitude": 10.803965
+  },
+  {
+    "id": "NSR:StopPlace:3494",
+    "name": "Kolbotnkrysset",
+    "latitude": 59.809789,
+    "longitude": 10.806202
+  },
+  {
+    "id": "NSR:StopPlace:3487",
+    "name": "Kolbotn stasjon",
+    "latitude": 59.811259,
+    "longitude": 10.800931
+  },
+  {
+    "id": "NSR:StopPlace:3432",
+    "name": "Ingierstrand",
+    "latitude": 59.817061,
+    "longitude": 10.749599
+  },
+  {
+    "id": "NSR:StopPlace:3435",
+    "name": "Linnebukta",
+    "latitude": 59.81374,
+    "longitude": 10.746242
+  },
+  {
+    "id": "NSR:StopPlace:3438",
+    "name": "Strandkollen",
+    "latitude": 59.808709,
+    "longitude": 10.742545
+  },
+  {
+    "id": "NSR:StopPlace:3604",
+    "name": "Midgarveien",
+    "latitude": 59.918641,
+    "longitude": 10.616496
+  },
+  {
+    "id": "NSR:StopPlace:3606",
+    "name": "Fornebu vest",
+    "latitude": 59.89352,
+    "longitude": 10.622103
+  },
+  {
+    "id": "NSR:StopPlace:3609",
+    "name": "IT Fornebu",
+    "latitude": 59.894932,
+    "longitude": 10.625705
+  },
+  {
+    "id": "NSR:StopPlace:61631",
+    "name": "Dronningens gate",
+    "latitude": 59.91054,
+    "longitude": 10.746836
+  },
+  {
+    "id": "NSR:StopPlace:61632",
+    "name": "Øvre Slottsgate",
+    "latitude": 59.911819,
+    "longitude": 10.741619
+  },
+  {
+    "id": "NSR:StopPlace:61634",
+    "name": "Forskningsparken T",
+    "latitude": 59.944058,
+    "longitude": 10.720685
+  },
+  {
+    "id": "NSR:StopPlace:61635",
+    "name": "Gaustadalléen",
+    "latitude": 59.945583,
+    "longitude": 10.717375
+  },
+  {
+    "id": "NSR:StopPlace:3500",
+    "name": "Nordberg",
+    "latitude": 59.805943,
+    "longitude": 10.8061
+  },
+  {
+    "id": "NSR:StopPlace:3503",
+    "name": "Frøyas vei",
+    "latitude": 59.804107,
+    "longitude": 10.812435
+  },
+  {
+    "id": "NSR:StopPlace:3506",
+    "name": "Kolbotn skole",
+    "latitude": 59.811901,
+    "longitude": 10.804187
+  },
+  {
+    "id": "NSR:StopPlace:3508",
+    "name": "Ødegården",
+    "latitude": 59.802024,
+    "longitude": 10.818759
+  },
+  {
+    "id": "NSR:StopPlace:3521",
+    "name": "Tårnlia",
+    "latitude": 59.814428,
+    "longitude": 10.817378
+  },
+  {
+    "id": "NSR:StopPlace:3511",
+    "name": "Jotunveien",
+    "latitude": 59.805131,
+    "longitude": 10.816869
+  },
+  {
+    "id": "NSR:StopPlace:3515",
+    "name": "Gautes vei",
+    "latitude": 59.808209,
+    "longitude": 10.816932
+  },
+  {
+    "id": "NSR:StopPlace:3518",
+    "name": "Huldrefaret",
+    "latitude": 59.811043,
+    "longitude": 10.817169
+  },
+  {
+    "id": "NSR:StopPlace:3524",
+    "name": "Tårnåsen",
+    "latitude": 59.817418,
+    "longitude": 10.81623
+  },
+  {
+    "id": "NSR:StopPlace:3528",
+    "name": "Høyås",
+    "latitude": 59.819485,
+    "longitude": 10.814106
+  },
+  {
+    "id": "NSR:StopPlace:3533",
+    "name": "Solbråtan stasjon",
+    "latitude": 59.800866,
+    "longitude": 10.804793
+  },
+  {
+    "id": "NSR:StopPlace:3592",
+    "name": "Marstranderveien",
+    "latitude": 59.915776,
+    "longitude": 10.630718
+  },
+  {
+    "id": "NSR:StopPlace:3586",
+    "name": "Lysaker brygge",
+    "latitude": 59.911341,
+    "longitude": 10.641556
+  },
+  {
+    "id": "NSR:StopPlace:3589",
+    "name": "Solliveien",
+    "latitude": 59.913836,
+    "longitude": 10.632783
+  },
+  {
+    "id": "NSR:StopPlace:3583",
+    "name": "Rosenholm stasjon",
+    "latitude": 59.822699,
+    "longitude": 10.796242
+  },
+  {
+    "id": "NSR:StopPlace:3595",
+    "name": "Lillengveien",
+    "latitude": 59.918543,
+    "longitude": 10.628682
+  },
+  {
+    "id": "NSR:StopPlace:3598",
+    "name": "Jar skole",
+    "latitude": 59.920967,
+    "longitude": 10.625896
+  },
+  {
+    "id": "NSR:StopPlace:3298",
+    "name": "Røer gård",
+    "latitude": 59.815147,
+    "longitude": 10.684652
+  },
+  {
+    "id": "NSR:StopPlace:3207",
+    "name": "Granholt",
+    "latitude": 59.860902,
+    "longitude": 10.665434
+  },
+  {
+    "id": "NSR:StopPlace:3270",
+    "name": "Sydhagen",
+    "latitude": 59.803827,
+    "longitude": 10.67266
+  },
+  {
+    "id": "NSR:StopPlace:3274",
+    "name": "Rudsborg",
+    "latitude": 59.800516,
+    "longitude": 10.690987
+  },
+  {
+    "id": "NSR:StopPlace:3266",
+    "name": "Smia",
+    "latitude": 59.805238,
+    "longitude": 10.678515
+  },
+  {
+    "id": "NSR:StopPlace:3263",
+    "name": "Svae",
+    "latitude": 59.805524,
+    "longitude": 10.681808
+  },
+  {
+    "id": "NSR:StopPlace:3258",
+    "name": "Nesodden kirke",
+    "latitude": 59.805538,
+    "longitude": 10.690475
+  },
+  {
+    "id": "NSR:StopPlace:3292",
+    "name": "Solbergtoppen",
+    "latitude": 59.821028,
+    "longitude": 10.682273
+  },
+  {
+    "id": "NSR:StopPlace:3296",
+    "name": "Sørby",
+    "latitude": 59.819472,
+    "longitude": 10.682477
+  },
+  {
+    "id": "NSR:StopPlace:3289",
+    "name": "Flateby",
+    "latitude": 59.827068,
+    "longitude": 10.67934
+  },
+  {
+    "id": "NSR:StopPlace:3280",
+    "name": "Oksval",
+    "latitude": 59.855484,
+    "longitude": 10.670324
+  },
+  {
+    "id": "NSR:StopPlace:3282",
+    "name": "Grøndahls vei",
+    "latitude": 59.852289,
+    "longitude": 10.671559
+  },
+  {
+    "id": "NSR:StopPlace:3286",
+    "name": "Dalsbergstien",
+    "latitude": 59.848338,
+    "longitude": 10.671679
+  },
+  {
+    "id": "NSR:StopPlace:3301",
+    "name": "Lovisenlund",
+    "latitude": 59.813057,
+    "longitude": 10.687045
+  },
+  {
+    "id": "NSR:StopPlace:3305",
+    "name": "Torget",
+    "latitude": 59.810277,
+    "longitude": 10.689856
+  },
+  {
+    "id": "NSR:StopPlace:3342",
+    "name": "Sørli",
+    "latitude": 59.816227,
+    "longitude": 10.629559
+  },
+  {
+    "id": "NSR:StopPlace:3345",
+    "name": "Ellingstad",
+    "latitude": 59.806257,
+    "longitude": 10.62453
+  },
+  {
+    "id": "NSR:StopPlace:3349",
+    "name": "Ellingstadåsen",
+    "latitude": 59.803396,
+    "longitude": 10.619965
+  },
+  {
+    "id": "NSR:StopPlace:3372",
+    "name": "Lienga",
+    "latitude": 59.818485,
+    "longitude": 10.782529
+  },
+  {
+    "id": "NSR:StopPlace:3368",
+    "name": "Gjersjø bru",
+    "latitude": 59.808978,
+    "longitude": 10.776276
+  },
+  {
+    "id": "NSR:StopPlace:3391",
+    "name": "Oppegård næringspark",
+    "latitude": 59.810627,
+    "longitude": 10.777027
+  },
+  {
+    "id": "NSR:StopPlace:3394",
+    "name": "Gjersjøen",
+    "latitude": 59.808151,
+    "longitude": 10.779704
+  },
+  {
+    "id": "NSR:StopPlace:3382",
+    "name": "Trollåsen",
+    "latitude": 59.818196,
+    "longitude": 10.777891
+  },
+  {
+    "id": "NSR:StopPlace:3385",
+    "name": "Sagveien",
+    "latitude": 59.813754,
+    "longitude": 10.776359
+  },
+  {
+    "id": "NSR:StopPlace:3375",
+    "name": "Hvitebjørnveien",
+    "latitude": 59.820682,
+    "longitude": 10.772685
+  },
+  {
+    "id": "NSR:StopPlace:3378",
+    "name": "Mastemyr",
+    "latitude": 59.815484,
+    "longitude": 10.78447
+  },
+  {
+    "id": "NSR:StopPlace:3398",
+    "name": "Ingierodden",
+    "latitude": 59.805607,
+    "longitude": 10.781893
+  },
+  {
+    "id": "NSR:StopPlace:3908",
+    "name": "Haslum",
+    "latitude": 59.915069,
+    "longitude": 10.564383
+  },
+  {
+    "id": "NSR:StopPlace:3902",
+    "name": "Østenåsveien",
+    "latitude": 59.917473,
+    "longitude": 10.560147
+  },
+  {
+    "id": "NSR:StopPlace:3905",
+    "name": "Haslum seniorsenter",
+    "latitude": 59.917011,
+    "longitude": 10.558643
+  },
+  {
+    "id": "NSR:StopPlace:3922",
+    "name": "Snoveien",
+    "latitude": 59.903909,
+    "longitude": 10.584179
+  },
+  {
+    "id": "NSR:StopPlace:3925",
+    "name": "Høvikveien",
+    "latitude": 59.902376,
+    "longitude": 10.574351
+  },
+  {
+    "id": "NSR:StopPlace:3919",
+    "name": "Krokvolden",
+    "latitude": 59.906178,
+    "longitude": 10.590053
+  },
+  {
+    "id": "NSR:StopPlace:3928",
+    "name": "Høvik skole",
+    "latitude": 59.902078,
+    "longitude": 10.570079
+  },
+  {
+    "id": "NSR:StopPlace:3911",
+    "name": "Haslum T",
+    "latitude": 59.914961,
+    "longitude": 10.561442
+  },
+  {
+    "id": "NSR:StopPlace:3914",
+    "name": "Haslum kirke",
+    "latitude": 59.923516,
+    "longitude": 10.564857
+  },
+  {
+    "id": "NSR:StopPlace:3916",
+    "name": "Terrasseveien",
+    "latitude": 59.907688,
+    "longitude": 10.597327
+  },
+  {
+    "id": "NSR:StopPlace:3940",
+    "name": "Bjerkeholtet",
+    "latitude": 59.908097,
+    "longitude": 10.552558
+  },
+  {
+    "id": "NSR:StopPlace:3943",
+    "name": "Ramstadsletta",
+    "latitude": 59.897819,
+    "longitude": 10.568276
+  },
+  {
+    "id": "NSR:StopPlace:3945",
+    "name": "Glassverkveien",
+    "latitude": 59.898061,
+    "longitude": 10.573547
+  },
+  {
+    "id": "NSR:StopPlace:3948",
+    "name": "Solvikveien",
+    "latitude": 59.89567,
+    "longitude": 10.561209
+  },
+  {
+    "id": "NSR:StopPlace:3932",
+    "name": "Dragveien",
+    "latitude": 59.904297,
+    "longitude": 10.5656
+  },
+  {
+    "id": "NSR:StopPlace:3934",
+    "name": "Ekeberg",
+    "latitude": 59.906838,
+    "longitude": 10.564785
+  },
+  {
+    "id": "NSR:StopPlace:3937",
+    "name": "Fossveien",
+    "latitude": 59.909503,
+    "longitude": 10.562457
+  },
+  {
+    "id": "NSR:StopPlace:3963",
+    "name": "Avløs",
+    "latitude": 59.91311,
+    "longitude": 10.548345
+  },
+  {
+    "id": "NSR:StopPlace:3965",
+    "name": "Avløs",
+    "latitude": 59.914849,
+    "longitude": 10.552212
+  },
+  {
+    "id": "NSR:StopPlace:3968",
+    "name": "Kitty Kiellands vei",
+    "latitude": 59.913641,
+    "longitude": 10.546005
+  },
+  {
+    "id": "NSR:StopPlace:3952",
+    "name": "Høvik Verk skole",
+    "latitude": 59.89333,
+    "longitude": 10.571121
+  },
+  {
+    "id": "NSR:StopPlace:3954",
+    "name": "Presteveien",
+    "latitude": 59.906167,
+    "longitude": 10.554101
+  },
+  {
+    "id": "NSR:StopPlace:3957",
+    "name": "Lillehagveien",
+    "latitude": 59.904334,
+    "longitude": 10.54617
+  },
+  {
+    "id": "NSR:StopPlace:3959",
+    "name": "Høvikodden",
+    "latitude": 59.893222,
+    "longitude": 10.55457
+  },
+  {
+    "id": "NSR:StopPlace:61988",
+    "name": "Nybrua",
+    "latitude": 59.917013,
+    "longitude": 10.758241
+  },
+  {
+    "id": "NSR:StopPlace:3861",
+    "name": "Gjønnes",
+    "latitude": 59.915056,
+    "longitude": 10.580089
+  },
+  {
+    "id": "NSR:StopPlace:3864",
+    "name": "Gjønnes",
+    "latitude": 59.914229,
+    "longitude": 10.577154
+  },
+  {
+    "id": "NSR:StopPlace:3868",
+    "name": "Kleivveien",
+    "latitude": 59.908701,
+    "longitude": 10.574684
+  },
+  {
+    "id": "NSR:StopPlace:3850",
+    "name": "Lønnås",
+    "latitude": 59.940243,
+    "longitude": 10.597638
+  },
+  {
+    "id": "NSR:StopPlace:3854",
+    "name": "Lønnåsjordet",
+    "latitude": 59.943271,
+    "longitude": 10.601426
+  },
+  {
+    "id": "NSR:StopPlace:3856",
+    "name": "Hosletoppen skole",
+    "latitude": 59.939765,
+    "longitude": 10.587047
+  },
+  {
+    "id": "NSR:StopPlace:3859",
+    "name": "Lønnås bo- og behandlingssenter",
+    "latitude": 59.943807,
+    "longitude": 10.600011
+  },
+  {
+    "id": "NSR:StopPlace:3890",
+    "name": "Granlytunet",
+    "latitude": 59.898005,
+    "longitude": 10.588325
+  },
+  {
+    "id": "NSR:StopPlace:3881",
+    "name": "Grini næringspark",
+    "latitude": 59.948366,
+    "longitude": 10.605819
+  },
+  {
+    "id": "NSR:StopPlace:3884",
+    "name": "Høvik stasjon",
+    "latitude": 59.900378,
+    "longitude": 10.58088
+  },
+  {
+    "id": "NSR:StopPlace:3887",
+    "name": "Høvik kirke",
+    "latitude": 59.899567,
+    "longitude": 10.578429
+  },
+  {
+    "id": "NSR:StopPlace:3871",
+    "name": "Strand",
+    "latitude": 59.903439,
+    "longitude": 10.598288
+  },
+  {
+    "id": "NSR:StopPlace:3873",
+    "name": "Søråsen",
+    "latitude": 59.913129,
+    "longitude": 10.584653
+  },
+  {
+    "id": "NSR:StopPlace:3878",
+    "name": "Nordgrenda",
+    "latitude": 59.945285,
+    "longitude": 10.604599
+  },
+  {
+    "id": "NSR:StopPlace:3893",
+    "name": "Bjørnekollen",
+    "latitude": 59.91245,
+    "longitude": 10.564459
+  },
+  {
+    "id": "NSR:StopPlace:3896",
+    "name": "Løkebergveien",
+    "latitude": 59.914457,
+    "longitude": 10.571892
+  },
+  {
+    "id": "NSR:StopPlace:3899",
+    "name": "Haslum terrasse",
+    "latitude": 59.920622,
+    "longitude": 10.560802
+  },
+  {
+    "id": "NSR:StopPlace:3990",
+    "name": "Jernbanetorget",
+    "latitude": 59.912244,
+    "longitude": 10.751147
+  },
+  {
+    "id": "NSR:StopPlace:3980",
+    "name": "Lindelia",
+    "latitude": 59.903324,
+    "longitude": 10.529699
+  },
+  {
+    "id": "NSR:StopPlace:3982",
+    "name": "Blommenholm",
+    "latitude": 59.894352,
+    "longitude": 10.54548
+  },
+  {
+    "id": "NSR:StopPlace:3983",
+    "name": "Bjørvika",
+    "latitude": 59.908065,
+    "longitude": 10.756959
+  },
+  {
+    "id": "NSR:StopPlace:3985",
+    "name": "Homans vei",
+    "latitude": 59.897759,
+    "longitude": 10.545204
+  },
+  {
+    "id": "NSR:StopPlace:3986",
+    "name": "Jernbanetorget",
+    "latitude": 59.912282,
+    "longitude": 10.749892
+  },
+  {
+    "id": "NSR:StopPlace:3988",
+    "name": "Anton Walles vei",
+    "latitude": 59.892698,
+    "longitude": 10.531144
+  },
+  {
+    "id": "NSR:StopPlace:3974",
+    "name": "Evje",
+    "latitude": 59.897435,
+    "longitude": 10.521483
+  },
+  {
+    "id": "NSR:StopPlace:3977",
+    "name": "Solberg",
+    "latitude": 59.902211,
+    "longitude": 10.535159
+  },
+  {
+    "id": "NSR:StopPlace:3978",
+    "name": "Jernbanetorget",
+    "latitude": 59.909785,
+    "longitude": 10.749779
+  },
+  {
+    "id": "NSR:StopPlace:3991",
+    "name": "Valler bru",
+    "latitude": 59.90977,
+    "longitude": 10.536135
+  },
+  {
+    "id": "NSR:StopPlace:3994",
+    "name": "Christian Skredsvigs vei",
+    "latitude": 59.911725,
+    "longitude": 10.54102
+  },
+  {
+    "id": "NSR:StopPlace:3995",
+    "name": "Jernbanetorget",
+    "latitude": 59.912204,
+    "longitude": 10.751377
+  },
+  {
+    "id": "NSR:StopPlace:3997",
+    "name": "Stasjonsveien",
+    "latitude": 59.900522,
+    "longitude": 10.559927
+  },
+  {
+    "id": "NSR:StopPlace:3998",
+    "name": "Milesten",
+    "latitude": 59.898033,
+    "longitude": 10.553926
+  },
+  {
+    "id": "NSR:StopPlace:3700",
+    "name": "Lijordet",
+    "latitude": 59.941136,
+    "longitude": 10.616618
+  },
+  {
+    "id": "NSR:StopPlace:3703",
+    "name": "Niels Leuchs vei",
+    "latitude": 59.945813,
+    "longitude": 10.615856
+  },
+  {
+    "id": "NSR:StopPlace:3706",
+    "name": "Rideveien",
+    "latitude": 59.943921,
+    "longitude": 10.613753
+  },
+  {
+    "id": "NSR:StopPlace:3709",
+    "name": "Østerås eldresenter",
+    "latitude": 59.941675,
+    "longitude": 10.612044
+  },
+  {
+    "id": "NSR:StopPlace:3720",
+    "name": "Fossum",
+    "latitude": 59.960347,
+    "longitude": 10.621139
+  },
+  {
+    "id": "NSR:StopPlace:3723",
+    "name": "Syd-Fossum",
+    "latitude": 59.957415,
+    "longitude": 10.626853
+  },
+  {
+    "id": "NSR:StopPlace:3726",
+    "name": "Østerås",
+    "latitude": 59.939426,
+    "longitude": 10.608834
+  },
+  {
+    "id": "NSR:StopPlace:3729",
+    "name": "Østerås T",
+    "latitude": 59.939473,
+    "longitude": 10.609104
+  },
+  {
+    "id": "NSR:StopPlace:3712",
+    "name": "Ovenbakken",
+    "latitude": 59.941508,
+    "longitude": 10.611206
+  },
+  {
+    "id": "NSR:StopPlace:3715",
+    "name": "Østerås senter",
+    "latitude": 59.943013,
+    "longitude": 10.608069
+  },
+  {
+    "id": "NSR:StopPlace:3717",
+    "name": "Grinidammen",
+    "latitude": 59.952919,
+    "longitude": 10.632821
+  },
+  {
+    "id": "NSR:StopPlace:3621",
+    "name": "Fornebuparken",
+    "latitude": 59.903199,
+    "longitude": 10.626982
+  },
+  {
+    "id": "NSR:StopPlace:3625",
+    "name": "Fornebu",
+    "latitude": 59.893704,
+    "longitude": 10.634052
+  },
+  {
+    "id": "NSR:StopPlace:3628",
+    "name": "Rolfstangen",
+    "latitude": 59.891872,
+    "longitude": 10.627826
+  },
+  {
+    "id": "NSR:StopPlace:3612",
+    "name": "Fornebuveien",
+    "latitude": 59.910044,
+    "longitude": 10.629012
+  },
+  {
+    "id": "NSR:StopPlace:3615",
+    "name": "Lilløyveien",
+    "latitude": 59.906621,
+    "longitude": 10.629111
+  },
+  {
+    "id": "NSR:StopPlace:3618",
+    "name": "Telenor Fornebu",
+    "latitude": 59.90005,
+    "longitude": 10.625458
+  },
+  {
+    "id": "NSR:StopPlace:3640",
+    "name": "Snarøya",
+    "latitude": 59.878461,
+    "longitude": 10.611849
+  },
+  {
+    "id": "NSR:StopPlace:3643",
+    "name": "Oksenøyveien",
+    "latitude": 59.90772,
+    "longitude": 10.619952
+  },
+  {
+    "id": "NSR:StopPlace:3648",
+    "name": "Nordveien sør",
+    "latitude": 59.930036,
+    "longitude": 10.614279
+  },
+  {
+    "id": "NSR:StopPlace:3647",
+    "name": "Ekern",
+    "latitude": 59.904702,
+    "longitude": 10.612962
+  },
+  {
+    "id": "NSR:StopPlace:3631",
+    "name": "Langoddveien",
+    "latitude": 59.887683,
+    "longitude": 10.621234
+  },
+  {
+    "id": "NSR:StopPlace:3634",
+    "name": "Halden",
+    "latitude": 59.885534,
+    "longitude": 10.62056
+  },
+  {
+    "id": "NSR:StopPlace:3637",
+    "name": "Bruksveien",
+    "latitude": 59.881631,
+    "longitude": 10.61095
+  },
+  {
+    "id": "NSR:StopPlace:3671",
+    "name": "Lindebergveien",
+    "latitude": 59.932957,
+    "longitude": 10.622143
+  },
+  {
+    "id": "NSR:StopPlace:3662",
+    "name": "Jar",
+    "latitude": 59.92487,
+    "longitude": 10.616594
+  },
+  {
+    "id": "NSR:StopPlace:3651",
+    "name": "Skogveien",
+    "latitude": 59.923997,
+    "longitude": 10.62317
+  },
+  {
+    "id": "NSR:StopPlace:3654",
+    "name": "Stabekk eldresenter",
+    "latitude": 59.91098,
+    "longitude": 10.601578
+  },
+  {
+    "id": "NSR:StopPlace:3657",
+    "name": "Jar bru",
+    "latitude": 59.926906,
+    "longitude": 10.62177
+  },
+  {
+    "id": "NSR:StopPlace:3659",
+    "name": "Jar",
+    "latitude": 59.925829,
+    "longitude": 10.618418
+  },
+  {
+    "id": "NSR:StopPlace:3665",
+    "name": "Bjerkelundsveien",
+    "latitude": 59.930322,
+    "longitude": 10.620335
+  },
+  {
+    "id": "NSR:StopPlace:3691",
+    "name": "Snaret",
+    "latitude": 59.945962,
+    "longitude": 10.626448
+  },
+  {
+    "id": "NSR:StopPlace:3693",
+    "name": "Eiksmarka",
+    "latitude": 59.946997,
+    "longitude": 10.623117
+  },
+  {
+    "id": "NSR:StopPlace:3685",
+    "name": "Nordjordet",
+    "latitude": 59.942857,
+    "longitude": 10.626837
+  },
+  {
+    "id": "NSR:StopPlace:3682",
+    "name": "Stallkroa",
+    "latitude": 59.940635,
+    "longitude": 10.626268
+  },
+  {
+    "id": "NSR:StopPlace:3674",
+    "name": "Grini",
+    "latitude": 59.949708,
+    "longitude": 10.628218
+  },
+  {
+    "id": "NSR:StopPlace:3688",
+    "name": "Ruglandbakken",
+    "latitude": 59.93768,
+    "longitude": 10.630383
+  },
+  {
+    "id": "NSR:StopPlace:3679",
+    "name": "Øvrevoll",
+    "latitude": 59.938293,
+    "longitude": 10.623329
+  },
+  {
+    "id": "NSR:StopPlace:3696",
+    "name": "Eiksmarka T",
+    "latitude": 59.946941,
+    "longitude": 10.622385
+  },
+  {
+    "id": "NSR:StopPlace:3805",
+    "name": "Bekkestua bussterminal",
+    "latitude": 59.917388,
+    "longitude": 10.58892
+  },
+  {
+    "id": "NSR:StopPlace:3808",
+    "name": "Bekkestua",
+    "latitude": 59.917267,
+    "longitude": 10.589876
+  },
+  {
+    "id": "NSR:StopPlace:3822",
+    "name": "Parksvingen",
+    "latitude": 59.92481,
+    "longitude": 10.60215
+  },
+  {
+    "id": "NSR:StopPlace:3825",
+    "name": "Hosleveien",
+    "latitude": 59.928057,
+    "longitude": 10.596072
+  },
+  {
+    "id": "NSR:StopPlace:3829",
+    "name": "Almelien",
+    "latitude": 59.929365,
+    "longitude": 10.610234
+  },
+  {
+    "id": "NSR:StopPlace:3811",
+    "name": "Bekkestua",
+    "latitude": 59.917515,
+    "longitude": 10.590662
+  },
+  {
+    "id": "NSR:StopPlace:3814",
+    "name": "Stabekk skole",
+    "latitude": 59.914882,
+    "longitude": 10.592684
+  },
+  {
+    "id": "NSR:StopPlace:3817",
+    "name": "Nadderudhallen",
+    "latitude": 59.920544,
+    "longitude": 10.588685
+  },
+  {
+    "id": "NSR:StopPlace:3819",
+    "name": "Hans Burums vei",
+    "latitude": 59.922588,
+    "longitude": 10.592261
+  },
+  {
+    "id": "NSR:StopPlace:3843",
+    "name": "Hosle skole",
+    "latitude": 59.93393,
+    "longitude": 10.586859
+  },
+  {
+    "id": "NSR:StopPlace:3846",
+    "name": "Hosle senter",
+    "latitude": 59.935867,
+    "longitude": 10.58448
+  },
+  {
+    "id": "NSR:StopPlace:3831",
+    "name": "Nadderudjordet",
+    "latitude": 59.92822,
+    "longitude": 10.589267
+  },
+  {
+    "id": "NSR:StopPlace:3834",
+    "name": "Dyrefaret",
+    "latitude": 59.932767,
+    "longitude": 10.594294
+  },
+  {
+    "id": "NSR:StopPlace:3837",
+    "name": "Bispeveien",
+    "latitude": 59.935066,
+    "longitude": 10.596389
+  },
+  {
+    "id": "NSR:StopPlace:3839",
+    "name": "Klokkersvingen",
+    "latitude": 59.935216,
+    "longitude": 10.591695
+  },
+  {
+    "id": "NSR:StopPlace:3848",
+    "name": "Jegeråsen",
+    "latitude": 59.938853,
+    "longitude": 10.593905
+  },
+  {
+    "id": "NSR:StopPlace:3740",
+    "name": "Fossumbanen",
+    "latitude": 59.958526,
+    "longitude": 10.614171
+  },
+  {
+    "id": "NSR:StopPlace:3743",
+    "name": "Jøssingveien",
+    "latitude": 59.95407,
+    "longitude": 10.593709
+  },
+  {
+    "id": "NSR:StopPlace:3745",
+    "name": "Ila",
+    "latitude": 59.955333,
+    "longitude": 10.584539
+  },
+  {
+    "id": "NSR:StopPlace:3748",
+    "name": "Listuveien",
+    "latitude": 59.954335,
+    "longitude": 10.609922
+  },
+  {
+    "id": "NSR:StopPlace:3732",
+    "name": "Dæhli stutteri",
+    "latitude": 59.951948,
+    "longitude": 10.603188
+  },
+  {
+    "id": "NSR:StopPlace:3734",
+    "name": "Nordby gård",
+    "latitude": 59.950354,
+    "longitude": 10.599073
+  },
+  {
+    "id": "NSR:StopPlace:3737",
+    "name": "Fossum terrasse",
+    "latitude": 59.95662,
+    "longitude": 10.611985
+  },
+  {
+    "id": "NSR:StopPlace:3762",
+    "name": "Ekeliveien",
+    "latitude": 59.907571,
+    "longitude": 10.613039
+  },
+  {
+    "id": "NSR:StopPlace:3765",
+    "name": "Jar kirke",
+    "latitude": 59.917554,
+    "longitude": 10.617011
+  },
+  {
+    "id": "NSR:StopPlace:3750",
+    "name": "Stabekk stasjon",
+    "latitude": 59.908775,
+    "longitude": 10.605822
+  },
+  {
+    "id": "NSR:StopPlace:3753",
+    "name": "Jernbaneveien",
+    "latitude": 59.904838,
+    "longitude": 10.595911
+  },
+  {
+    "id": "NSR:StopPlace:3756",
+    "name": "Tjernsmyr",
+    "latitude": 59.911054,
+    "longitude": 10.624992
+  },
+  {
+    "id": "NSR:StopPlace:3759",
+    "name": "Nordliveien",
+    "latitude": 59.909119,
+    "longitude": 10.615918
+  },
+  {
+    "id": "NSR:StopPlace:3768",
+    "name": "Trudvangveien",
+    "latitude": 59.91625,
+    "longitude": 10.612573
+  },
+  {
+    "id": "NSR:StopPlace:3771",
+    "name": "Clausenbakken",
+    "latitude": 59.91328,
+    "longitude": 10.608251
+  },
+  {
+    "id": "NSR:StopPlace:3773",
+    "name": "Bakkeveien",
+    "latitude": 59.910356,
+    "longitude": 10.604605
+  },
+  {
+    "id": "NSR:StopPlace:3776",
+    "name": "Stabekk kino",
+    "latitude": 59.909478,
+    "longitude": 10.601667
+  },
+  {
+    "id": "NSR:StopPlace:3779",
+    "name": "Ringstabekk",
+    "latitude": 59.920125,
+    "longitude": 10.604385
+  },
+  {
+    "id": "NSR:StopPlace:3790",
+    "name": "Nordveien",
+    "latitude": 59.937347,
+    "longitude": 10.606176
+  },
+  {
+    "id": "NSR:StopPlace:3782",
+    "name": "Ringstabekkveien",
+    "latitude": 59.914085,
+    "longitude": 10.597129
+  },
+  {
+    "id": "NSR:StopPlace:3784",
+    "name": "Skallum",
+    "latitude": 59.911199,
+    "longitude": 10.598918
+  },
+  {
+    "id": "NSR:StopPlace:3787",
+    "name": "Liomveien",
+    "latitude": 59.933543,
+    "longitude": 10.600555
+  },
+  {
+    "id": "NSR:StopPlace:3793",
+    "name": "Odds vei",
+    "latitude": 59.93008,
+    "longitude": 10.59722
+  },
+  {
+    "id": "NSR:StopPlace:3796",
+    "name": "Eikeli skole",
+    "latitude": 59.93527,
+    "longitude": 10.602705
+  },
+  {
+    "id": "NSR:StopPlace:62020",
+    "name": "Niels Juels gate",
+    "latitude": 59.916325,
+    "longitude": 10.715296
+  },
+  {
+    "id": "NSR:StopPlace:62021",
+    "name": "Lille Frogner allé",
+    "latitude": 59.917954,
+    "longitude": 10.712171
+  },
+  {
+    "id": "NSR:StopPlace:62022",
+    "name": "Olaf Ryes plass",
+    "latitude": 59.922892,
+    "longitude": 10.759215
+  },
+  {
+    "id": "NSR:StopPlace:62023",
+    "name": "Elisenberg",
+    "latitude": 59.919418,
+    "longitude": 10.708819
+  },
+  {
+    "id": "NSR:StopPlace:62024",
+    "name": "Schous plass",
+    "latitude": 59.920792,
+    "longitude": 10.759311
+  },
+  {
+    "id": "NSR:StopPlace:62025",
+    "name": "Rosenhoff",
+    "latitude": 59.930305,
+    "longitude": 10.778191
+  },
+  {
+    "id": "NSR:StopPlace:62028",
+    "name": "Sofienberg",
+    "latitude": 59.923039,
+    "longitude": 10.771813
+  },
+  {
+    "id": "NSR:StopPlace:62029",
+    "name": "Lakkegata skole",
+    "latitude": 59.920627,
+    "longitude": 10.768482
+  },
+  {
+    "id": "NSR:StopPlace:62010",
+    "name": "Glads vei",
+    "latitude": 59.952256,
+    "longitude": 10.785329
+  },
+  {
+    "id": "NSR:StopPlace:62011",
+    "name": "Doktor Smiths vei",
+    "latitude": 59.949754,
+    "longitude": 10.790154
+  },
+  {
+    "id": "NSR:StopPlace:62012",
+    "name": "Disen",
+    "latitude": 59.946285,
+    "longitude": 10.787531
+  },
+  {
+    "id": "NSR:StopPlace:62014",
+    "name": "Grefsenveien",
+    "latitude": 59.942597,
+    "longitude": 10.77317
+  },
+  {
+    "id": "NSR:StopPlace:62015",
+    "name": "Biermanns gate",
+    "latitude": 59.930419,
+    "longitude": 10.761049
+  },
+  {
+    "id": "NSR:StopPlace:62016",
+    "name": "St. Halvards plass",
+    "latitude": 59.906124,
+    "longitude": 10.767868
+  },
+  {
+    "id": "NSR:StopPlace:62017",
+    "name": "Munkegata",
+    "latitude": 59.90834,
+    "longitude": 10.76794
+  },
+  {
+    "id": "NSR:StopPlace:62018",
+    "name": "Oslo bussterminal",
+    "latitude": 59.911032,
+    "longitude": 10.759816
+  },
+  {
+    "id": "NSR:StopPlace:62019",
+    "name": "Solli",
+    "latitude": 59.914827,
+    "longitude": 10.718877
+  },
+  {
+    "id": "NSR:StopPlace:62048",
+    "name": "Kabelgata",
+    "latitude": 59.927076,
+    "longitude": 10.811861
+  },
+  {
+    "id": "NSR:StopPlace:62031",
+    "name": "Heimdalsgata",
+    "latitude": 59.918352,
+    "longitude": 10.760808
+  },
+  {
+    "id": "NSR:StopPlace:62032",
+    "name": "Holbergs plass",
+    "latitude": 59.918686,
+    "longitude": 10.734541
+  },
+  {
+    "id": "NSR:StopPlace:62034",
+    "name": "Homansbyen",
+    "latitude": 59.922565,
+    "longitude": 10.726527
+  },
+  {
+    "id": "NSR:StopPlace:62036",
+    "name": "Frydenlund",
+    "latitude": 59.920847,
+    "longitude": 10.733171
+  },
+  {
+    "id": "NSR:StopPlace:62037",
+    "name": "Stensgata",
+    "latitude": 59.929599,
+    "longitude": 10.733036
+  },
+  {
+    "id": "NSR:StopPlace:62038",
+    "name": "Dalsbergstien",
+    "latitude": 59.92351,
+    "longitude": 10.731621
+  },
+  {
+    "id": "NSR:StopPlace:62039",
+    "name": "Bislett",
+    "latitude": 59.92601,
+    "longitude": 10.731097
+  },
+  {
+    "id": "NSR:StopPlace:62030",
+    "name": "Bogstadveien",
+    "latitude": 59.926248,
+    "longitude": 10.721476
+  },
+  {
+    "id": "NSR:StopPlace:62089",
+    "name": "Storøya skole",
+    "latitude": 59.893939,
+    "longitude": 10.609888
+  },
+  {
+    "id": "NSR:StopPlace:62088",
+    "name": "Oksenøya",
+    "latitude": 59.898561,
+    "longitude": 10.610328
+  },
+  {
+    "id": "NSR:StopPlace:62091",
+    "name": "Jernbanetorget",
+    "latitude": 59.910465,
+    "longitude": 10.749983
+  },
+  {
+    "id": "NSR:StopPlace:2",
+    "name": "Oslo S Trelastgata",
+    "latitude": 59.909584,
+    "longitude": 10.755165
+  },
+  {
+    "id": "NSR:StopPlace:62009",
+    "name": "Grefsenplatået",
+    "latitude": 59.955922,
+    "longitude": 10.785734
+  },
+  {
+    "id": "NSR:StopPlace:4042",
+    "name": "Sykehusveien",
+    "latitude": 59.901994,
+    "longitude": 10.516754
+  },
+  {
+    "id": "NSR:StopPlace:4045",
+    "name": "Levreveien",
+    "latitude": 59.904488,
+    "longitude": 10.514509
+  },
+  {
+    "id": "NSR:StopPlace:4036",
+    "name": "Øvre Slottsgate",
+    "latitude": 59.911775,
+    "longitude": 10.741778
+  },
+  {
+    "id": "NSR:StopPlace:4037",
+    "name": "Vallerveien",
+    "latitude": 59.901582,
+    "longitude": 10.523178
+  },
+  {
+    "id": "NSR:StopPlace:4030",
+    "name": "Sandvika bussterminal",
+    "latitude": 59.892905,
+    "longitude": 10.524556
+  },
+  {
+    "id": "NSR:StopPlace:4034",
+    "name": "Valler skole",
+    "latitude": 59.900195,
+    "longitude": 10.527456
+  },
+  {
+    "id": "NSR:StopPlace:4025",
+    "name": "Lakseberget",
+    "latitude": 59.892247,
+    "longitude": 10.535929
+  },
+  {
+    "id": "NSR:StopPlace:4024",
+    "name": "Dronningens gate",
+    "latitude": 59.910511,
+    "longitude": 10.74698
+  },
+  {
+    "id": "NSR:StopPlace:4027",
+    "name": "Bærum rådhus",
+    "latitude": 59.890371,
+    "longitude": 10.525648
+  },
+  {
+    "id": "NSR:StopPlace:4029",
+    "name": "Stortinget",
+    "latitude": 59.913437,
+    "longitude": 10.743256
+  },
+  {
+    "id": "NSR:StopPlace:4060",
+    "name": "Kolsås",
+    "latitude": 59.914288,
+    "longitude": 10.501339
+  },
+  {
+    "id": "NSR:StopPlace:4062",
+    "name": "Kolsås",
+    "latitude": 59.914823,
+    "longitude": 10.500666
+  },
+  {
+    "id": "NSR:StopPlace:4067",
+    "name": "Nationaltheatret",
+    "latitude": 59.91529,
+    "longitude": 10.732339
+  },
+  {
+    "id": "NSR:StopPlace:4066",
+    "name": "Elias Smiths vei",
+    "latitude": 59.891694,
+    "longitude": 10.516275
+  },
+  {
+    "id": "NSR:StopPlace:4057",
+    "name": "Kolsås senter",
+    "latitude": 59.91696,
+    "longitude": 10.500513
+  },
+  {
+    "id": "NSR:StopPlace:4051",
+    "name": "Hauger",
+    "latitude": 59.911116,
+    "longitude": 10.510043
+  },
+  {
+    "id": "NSR:StopPlace:4054",
+    "name": "Hauger",
+    "latitude": 59.911799,
+    "longitude": 10.506304
+  },
+  {
+    "id": "NSR:StopPlace:4055",
+    "name": "Wessels plass",
+    "latitude": 59.912233,
+    "longitude": 10.73913
+  },
+  {
+    "id": "NSR:StopPlace:4049",
+    "name": "Toppåsveien",
+    "latitude": 59.908446,
+    "longitude": 10.512511
+  },
+  {
+    "id": "NSR:StopPlace:4081",
+    "name": "Nationaltheatret",
+    "latitude": 59.914627,
+    "longitude": 10.732892
+  },
+  {
+    "id": "NSR:StopPlace:4082",
+    "name": "Bjørnegård",
+    "latitude": 59.89308,
+    "longitude": 10.507833
+  },
+  {
+    "id": "NSR:StopPlace:4086",
+    "name": "Industriveien",
+    "latitude": 59.891699,
+    "longitude": 10.512867
+  },
+  {
+    "id": "NSR:StopPlace:4089",
+    "name": "Nationaltheatret",
+    "latitude": 59.914192,
+    "longitude": 10.731263
+  },
+  {
+    "id": "NSR:StopPlace:4088",
+    "name": "Jong",
+    "latitude": 59.889922,
+    "longitude": 10.501554
+  },
+  {
+    "id": "NSR:StopPlace:4079",
+    "name": "Kampebråten",
+    "latitude": 59.889177,
+    "longitude": 10.508017
+  },
+  {
+    "id": "NSR:StopPlace:4072",
+    "name": "Hamang",
+    "latitude": 59.89651,
+    "longitude": 10.50762
+  },
+  {
+    "id": "NSR:StopPlace:4074",
+    "name": "Jongsstubben",
+    "latitude": 59.888312,
+    "longitude": 10.513017
+  },
+  {
+    "id": "NSR:StopPlace:4076",
+    "name": "Nationaltheatret",
+    "latitude": 59.914663,
+    "longitude": 10.732827
+  },
+  {
+    "id": "NSR:StopPlace:4077",
+    "name": "Måneveien",
+    "latitude": 59.885247,
+    "longitude": 10.508737
+  },
+  {
+    "id": "NSR:StopPlace:4069",
+    "name": "Hamangskogen",
+    "latitude": 59.893286,
+    "longitude": 10.512838
+  },
+  {
+    "id": "NSR:StopPlace:4090",
+    "name": "Kjørbo",
+    "latitude": 59.88829,
+    "longitude": 10.525306
+  },
+  {
+    "id": "NSR:StopPlace:4092",
+    "name": "Konvallia",
+    "latitude": 59.883666,
+    "longitude": 10.510912
+  },
+  {
+    "id": "NSR:StopPlace:4094",
+    "name": "Nationaltheatret",
+    "latitude": 59.916006,
+    "longitude": 10.733852
+  },
+  {
+    "id": "NSR:StopPlace:4095",
+    "name": "Kjørbokollen",
+    "latitude": 59.886824,
+    "longitude": 10.519189
+  },
+  {
+    "id": "NSR:StopPlace:4097",
+    "name": "Sandvika storsenter",
+    "latitude": 59.890782,
+    "longitude": 10.51648
+  },
+  {
+    "id": "NSR:StopPlace:4099",
+    "name": "Nationaltheatret",
+    "latitude": 59.913414,
+    "longitude": 10.732669
+  },
+  {
+    "id": "NSR:StopPlace:62122",
+    "name": "Jernbanetorget",
+    "latitude": 59.909264,
+    "longitude": 10.748797
+  },
+  {
+    "id": "NSR:StopPlace:4000",
+    "name": "Jernbanetorget",
+    "latitude": 59.911596,
+    "longitude": 10.750103
+  },
+  {
+    "id": "NSR:StopPlace:4011",
+    "name": "Levretoppen",
+    "latitude": 59.905993,
+    "longitude": 10.521568
+  },
+  {
+    "id": "NSR:StopPlace:4002",
+    "name": "Gjettum skole",
+    "latitude": 59.907434,
+    "longitude": 10.5334
+  },
+  {
+    "id": "NSR:StopPlace:4005",
+    "name": "Gjettumtunet",
+    "latitude": 59.905848,
+    "longitude": 10.529639
+  },
+  {
+    "id": "NSR:StopPlace:4004",
+    "name": "Jernbanetorget",
+    "latitude": 59.91156,
+    "longitude": 10.750063
+  },
+  {
+    "id": "NSR:StopPlace:4007",
+    "name": "Gjettum",
+    "latitude": 59.908516,
+    "longitude": 10.530621
+  },
+  {
+    "id": "NSR:StopPlace:4022",
+    "name": "Bærum rådhus",
+    "latitude": 59.889845,
+    "longitude": 10.52782
+  },
+  {
+    "id": "NSR:StopPlace:4014",
+    "name": "Blommenholm skole",
+    "latitude": 59.898468,
+    "longitude": 10.548517
+  },
+  {
+    "id": "NSR:StopPlace:4013",
+    "name": "Jernbanetorget",
+    "latitude": 59.909414,
+    "longitude": 10.749009
+  },
+  {
+    "id": "NSR:StopPlace:4016",
+    "name": "Kvadraturen",
+    "latitude": 59.910398,
+    "longitude": 10.744216
+  },
+  {
+    "id": "NSR:StopPlace:4017",
+    "name": "Engervannet",
+    "latitude": 59.900496,
+    "longitude": 10.544761
+  },
+  {
+    "id": "NSR:StopPlace:4019",
+    "name": "Henie Onstad seniorsenter",
+    "latitude": 59.891761,
+    "longitude": 10.55766
+  },
+  {
+    "id": "NSR:StopPlace:62721",
+    "name": "Bjørnveien",
+    "latitude": 59.946455,
+    "longitude": 10.685422
+  },
+  {
+    "id": "NSR:StopPlace:4390",
+    "name": "Lijordet-Rideveien",
+    "latitude": 59.942154,
+    "longitude": 10.619183
+  },
+  {
+    "id": "NSR:StopPlace:4393",
+    "name": "Bygdøynes",
+    "latitude": 59.903122,
+    "longitude": 10.698243
+  },
+  {
+    "id": "NSR:StopPlace:4392",
+    "name": "Slependen",
+    "latitude": 59.877907,
+    "longitude": 10.503412
+  },
+  {
+    "id": "NSR:StopPlace:4395",
+    "name": "Grønsund",
+    "latitude": 59.874345,
+    "longitude": 10.507565
+  },
+  {
+    "id": "NSR:StopPlace:4397",
+    "name": "Herbernveien",
+    "latitude": 59.902042,
+    "longitude": 10.695153
+  },
+  {
+    "id": "NSR:StopPlace:4387",
+    "name": "General Fleischers vei",
+    "latitude": 59.938969,
+    "longitude": 10.615208
+  },
+  {
+    "id": "NSR:StopPlace:4389",
+    "name": "Folkemuseet",
+    "latitude": 59.907515,
+    "longitude": 10.686893
+  },
+  {
+    "id": "NSR:StopPlace:4399",
+    "name": "Hals",
+    "latitude": 59.872689,
+    "longitude": 10.514715
+  },
+  {
+    "id": "NSR:StopPlace:4310",
+    "name": "Nedre Toppenhaug",
+    "latitude": 59.941542,
+    "longitude": 10.507366
+  },
+  {
+    "id": "NSR:StopPlace:4312",
+    "name": "Bærums verk",
+    "latitude": 59.941924,
+    "longitude": 10.502908
+  },
+  {
+    "id": "NSR:StopPlace:4314",
+    "name": "Observatoriegata",
+    "latitude": 59.91283,
+    "longitude": 10.719552
+  },
+  {
+    "id": "NSR:StopPlace:4315",
+    "name": "Helsetveien",
+    "latitude": 59.944464,
+    "longitude": 10.513752
+  },
+  {
+    "id": "NSR:StopPlace:4317",
+    "name": "Ruseløkka",
+    "latitude": 59.91282,
+    "longitude": 10.724174
+  },
+  {
+    "id": "NSR:StopPlace:4318",
+    "name": "Linderudveien",
+    "latitude": 59.947872,
+    "longitude": 10.511717
+  },
+  {
+    "id": "NSR:StopPlace:4300",
+    "name": "Skillebekk",
+    "latitude": 59.912813,
+    "longitude": 10.71113
+  },
+  {
+    "id": "NSR:StopPlace:4302",
+    "name": "Knabberudveien",
+    "latitude": 59.935574,
+    "longitude": 10.538077
+  },
+  {
+    "id": "NSR:StopPlace:4304",
+    "name": "Skarpsno",
+    "latitude": 59.914301,
+    "longitude": 10.70247
+  },
+  {
+    "id": "NSR:StopPlace:4305",
+    "name": "Steinskogen",
+    "latitude": 59.938008,
+    "longitude": 10.526729
+  },
+  {
+    "id": "NSR:StopPlace:4307",
+    "name": "Øvre Toppenhaug",
+    "latitude": 59.939176,
+    "longitude": 10.519211
+  },
+  {
+    "id": "NSR:StopPlace:4309",
+    "name": "Nobels gate",
+    "latitude": 59.917641,
+    "longitude": 10.698318
+  },
+  {
+    "id": "NSR:StopPlace:4341",
+    "name": "Olav Kyrres plass",
+    "latitude": 59.919242,
+    "longitude": 10.697834
+  },
+  {
+    "id": "NSR:StopPlace:4332",
+    "name": "Odins gate",
+    "latitude": 59.919467,
+    "longitude": 10.703625
+  },
+  {
+    "id": "NSR:StopPlace:4336",
+    "name": "Lille Frogner allé",
+    "latitude": 59.917896,
+    "longitude": 10.712244
+  },
+  {
+    "id": "NSR:StopPlace:4331",
+    "name": "Guldbrandslia",
+    "latitude": 59.943216,
+    "longitude": 10.50713
+  },
+  {
+    "id": "NSR:StopPlace:4321",
+    "name": "Sleiverudåsen",
+    "latitude": 59.94475,
+    "longitude": 10.50304
+  },
+  {
+    "id": "NSR:StopPlace:4322",
+    "name": "Elisenberg",
+    "latitude": 59.919492,
+    "longitude": 10.708719
+  },
+  {
+    "id": "NSR:StopPlace:4327",
+    "name": "Frogner kirke",
+    "latitude": 59.917678,
+    "longitude": 10.70732
+  },
+  {
+    "id": "NSR:StopPlace:4360",
+    "name": "Huk",
+    "latitude": 59.898538,
+    "longitude": 10.674685
+  },
+  {
+    "id": "NSR:StopPlace:4355",
+    "name": "Kongsgården",
+    "latitude": 59.909299,
+    "longitude": 10.680964
+  },
+  {
+    "id": "NSR:StopPlace:4350",
+    "name": "Frognerkilen",
+    "latitude": 59.916842,
+    "longitude": 10.686918
+  },
+  {
+    "id": "NSR:StopPlace:4346",
+    "name": "Karenslyst allé",
+    "latitude": 59.91834,
+    "longitude": 10.688446
+  },
+  {
+    "id": "NSR:StopPlace:4382",
+    "name": "Lysaker brygge",
+    "latitude": 59.911458,
+    "longitude": 10.639122
+  },
+  {
+    "id": "NSR:StopPlace:4384",
+    "name": "Vikingskipene",
+    "latitude": 59.904681,
+    "longitude": 10.686613
+  },
+  {
+    "id": "NSR:StopPlace:4385",
+    "name": "Jar",
+    "latitude": 59.927055,
+    "longitude": 10.620984
+  },
+  {
+    "id": "NSR:StopPlace:4377",
+    "name": "Lysaker stasjon",
+    "latitude": 59.913093,
+    "longitude": 10.637742
+  },
+  {
+    "id": "NSR:StopPlace:4379",
+    "name": "Fredriksborg",
+    "latitude": 59.903385,
+    "longitude": 10.686857
+  },
+  {
+    "id": "NSR:StopPlace:4370",
+    "name": "Frimurerhjemmet",
+    "latitude": 59.901189,
+    "longitude": 10.678884
+  },
+  {
+    "id": "NSR:StopPlace:4372",
+    "name": "Strandveien",
+    "latitude": 59.912756,
+    "longitude": 10.639328
+  },
+  {
+    "id": "NSR:StopPlace:4374",
+    "name": "Lysakerlokket",
+    "latitude": 59.913005,
+    "longitude": 10.634276
+  },
+  {
+    "id": "NSR:StopPlace:4375",
+    "name": "Bygdøhus",
+    "latitude": 59.901365,
+    "longitude": 10.682021
+  },
+  {
+    "id": "NSR:StopPlace:4365",
+    "name": "Ro",
+    "latitude": 59.900925,
+    "longitude": 10.675687
+  },
+  {
+    "id": "NSR:StopPlace:4369",
+    "name": "Annikveien",
+    "latitude": 59.953152,
+    "longitude": 10.507546
+  },
+  {
+    "id": "NSR:StopPlace:4411",
+    "name": "Hovedøya",
+    "latitude": 59.898898,
+    "longitude": 10.730714
+  },
+  {
+    "id": "NSR:StopPlace:4412",
+    "name": "Tjernveien",
+    "latitude": 59.862947,
+    "longitude": 10.514431
+  },
+  {
+    "id": "NSR:StopPlace:4414",
+    "name": "Søndre brygge",
+    "latitude": 59.859508,
+    "longitude": 10.517143
+  },
+  {
+    "id": "NSR:StopPlace:4416",
+    "name": "Lindøya vest",
+    "latitude": 59.890075,
+    "longitude": 10.706523
+  },
+  {
+    "id": "NSR:StopPlace:4418",
+    "name": "Vendla",
+    "latitude": 59.860713,
+    "longitude": 10.522322
+  },
+  {
+    "id": "NSR:StopPlace:4401",
+    "name": "IKEA Slependen",
+    "latitude": 59.875769,
+    "longitude": 10.500488
+  },
+  {
+    "id": "NSR:StopPlace:4402",
+    "name": "Langvik",
+    "latitude": 59.901651,
+    "longitude": 10.687581
+  },
+  {
+    "id": "NSR:StopPlace:4404",
+    "name": "Otto Blehrs vei",
+    "latitude": 59.871087,
+    "longitude": 10.51651
+  },
+  {
+    "id": "NSR:StopPlace:4406",
+    "name": "Gråtenveien",
+    "latitude": 59.871931,
+    "longitude": 10.521598
+  },
+  {
+    "id": "NSR:StopPlace:4409",
+    "name": "Vesthellinga",
+    "latitude": 59.868937,
+    "longitude": 10.514039
+  },
+  {
+    "id": "NSR:StopPlace:4431",
+    "name": "Bleikøya",
+    "latitude": 59.889019,
+    "longitude": 10.734917
+  },
+  {
+    "id": "NSR:StopPlace:4433",
+    "name": "Hovedgårdsveien",
+    "latitude": 59.873163,
+    "longitude": 10.525774
+  },
+  {
+    "id": "NSR:StopPlace:4434",
+    "name": "Gressholmen",
+    "latitude": 59.886429,
+    "longitude": 10.725419
+  },
+  {
+    "id": "NSR:StopPlace:4436",
+    "name": "Lindøya øst",
+    "latitude": 59.890546,
+    "longitude": 10.71955
+  },
+  {
+    "id": "NSR:StopPlace:4430",
+    "name": "Taglugnveien",
+    "latitude": 59.873532,
+    "longitude": 10.535055
+  },
+  {
+    "id": "NSR:StopPlace:4421",
+    "name": "Nakkholmen",
+    "latitude": 59.890694,
+    "longitude": 10.696821
+  },
+  {
+    "id": "NSR:StopPlace:4420",
+    "name": "Søndre vei",
+    "latitude": 59.86278,
+    "longitude": 10.528834
+  },
+  {
+    "id": "NSR:StopPlace:4422",
+    "name": "Kalkbukta",
+    "latitude": 59.86532,
+    "longitude": 10.533842
+  },
+  {
+    "id": "NSR:StopPlace:4425",
+    "name": "Sjøheim",
+    "latitude": 59.868609,
+    "longitude": 10.541991
+  },
+  {
+    "id": "NSR:StopPlace:4428",
+    "name": "Margretes vei",
+    "latitude": 59.871845,
+    "longitude": 10.53995
+  },
+  {
+    "id": "NSR:StopPlace:4452",
+    "name": "Majorstuen",
+    "latitude": 59.930181,
+    "longitude": 10.714666
+  },
+  {
+    "id": "NSR:StopPlace:4443",
+    "name": "Langøyene",
+    "latitude": 59.871439,
+    "longitude": 10.725556
+  },
+  {
+    "id": "NSR:StopPlace:4446",
+    "name": "Malmøykalven",
+    "latitude": 59.865953,
+    "longitude": 10.74612
+  },
+  {
+    "id": "NSR:StopPlace:4483",
+    "name": "Majorstuen",
+    "latitude": 59.929676,
+    "longitude": 10.715988
+  },
+  {
+    "id": "NSR:StopPlace:4478",
+    "name": "Majorstuen",
+    "latitude": 59.929596,
+    "longitude": 10.713674
+  },
+  {
+    "id": "NSR:StopPlace:62596",
+    "name": "Skullerud",
+    "latitude": 59.868323,
+    "longitude": 10.839863
+  },
+  {
+    "id": "NSR:StopPlace:4473",
+    "name": "Majorstuen",
+    "latitude": 59.929062,
+    "longitude": 10.715951
+  },
+  {
+    "id": "NSR:StopPlace:4468",
+    "name": "Majorstuen",
+    "latitude": 59.928623,
+    "longitude": 10.716149
+  },
+  {
+    "id": "NSR:StopPlace:4490",
+    "name": "Gamle Konglungvei",
+    "latitude": 59.837147,
+    "longitude": 10.50225
+  },
+  {
+    "id": "NSR:StopPlace:4492",
+    "name": "Majorstuen",
+    "latitude": 59.930017,
+    "longitude": 10.712104
+  },
+  {
+    "id": "NSR:StopPlace:4495",
+    "name": "Homansbyen",
+    "latitude": 59.922623,
+    "longitude": 10.726508
+  },
+  {
+    "id": "NSR:StopPlace:4487",
+    "name": "Konglungen",
+    "latitude": 59.83931,
+    "longitude": 10.510008
+  },
+  {
+    "id": "NSR:StopPlace:4488",
+    "name": "Majorstuen",
+    "latitude": 59.929609,
+    "longitude": 10.717431
+  },
+  {
+    "id": "NSR:StopPlace:4160",
+    "name": "Stortorvet",
+    "latitude": 59.912988,
+    "longitude": 10.745383
+  },
+  {
+    "id": "NSR:StopPlace:4163",
+    "name": "Prof. Aschehougs plass",
+    "latitude": 59.914761,
+    "longitude": 10.740555
+  },
+  {
+    "id": "NSR:StopPlace:4151",
+    "name": "Stortorvet",
+    "latitude": 59.912942,
+    "longitude": 10.745514
+  },
+  {
+    "id": "NSR:StopPlace:4183",
+    "name": "Holbergs plass",
+    "latitude": 59.918791,
+    "longitude": 10.734528
+  },
+  {
+    "id": "NSR:StopPlace:4187",
+    "name": "Holbergs plass",
+    "latitude": 59.919882,
+    "longitude": 10.735547
+  },
+  {
+    "id": "NSR:StopPlace:4179",
+    "name": "St. Olavs plass",
+    "latitude": 59.917295,
+    "longitude": 10.73928
+  },
+  {
+    "id": "NSR:StopPlace:4174",
+    "name": "Tullinløkka",
+    "latitude": 59.916793,
+    "longitude": 10.737269
+  },
+  {
+    "id": "NSR:StopPlace:4168",
+    "name": "Tinghuset",
+    "latitude": 59.915218,
+    "longitude": 10.741257
+  },
+  {
+    "id": "NSR:StopPlace:4192",
+    "name": "Radisson Blu Scandinavia",
+    "latitude": 59.918824,
+    "longitude": 10.733889
+  },
+  {
+    "id": "NSR:StopPlace:4100",
+    "name": "Gyssestad",
+    "latitude": 59.881313,
+    "longitude": 10.514203
+  },
+  {
+    "id": "NSR:StopPlace:4120",
+    "name": "Aker brygge",
+    "latitude": 59.911006,
+    "longitude": 10.729895
+  },
+  {
+    "id": "NSR:StopPlace:4119",
+    "name": "Malerstua",
+    "latitude": 59.884535,
+    "longitude": 10.501459
+  },
+  {
+    "id": "NSR:StopPlace:4104",
+    "name": "Sandvika storsenter",
+    "latitude": 59.890115,
+    "longitude": 10.521329
+  },
+  {
+    "id": "NSR:StopPlace:4106",
+    "name": "Nedre Ås",
+    "latitude": 59.887435,
+    "longitude": 10.500167
+  },
+  {
+    "id": "NSR:StopPlace:4107",
+    "name": "Dronning Mauds gate",
+    "latitude": 59.913072,
+    "longitude": 10.727361
+  },
+  {
+    "id": "NSR:StopPlace:4142",
+    "name": "Aker brygge",
+    "latitude": 59.910707,
+    "longitude": 10.72992
+  },
+  {
+    "id": "NSR:StopPlace:4124",
+    "name": "Dokkveien",
+    "latitude": 59.912453,
+    "longitude": 10.727657
+  },
+  {
+    "id": "NSR:StopPlace:4129",
+    "name": "Nationaltheatret",
+    "latitude": 59.913039,
+    "longitude": 10.73136
+  },
+  {
+    "id": "NSR:StopPlace:4280",
+    "name": "Nadderud stadion",
+    "latitude": 59.919038,
+    "longitude": 10.580751
+  },
+  {
+    "id": "NSR:StopPlace:4281",
+    "name": "Solli",
+    "latitude": 59.914853,
+    "longitude": 10.719027
+  },
+  {
+    "id": "NSR:StopPlace:4283",
+    "name": "Øygardveien",
+    "latitude": 59.921076,
+    "longitude": 10.576116
+  },
+  {
+    "id": "NSR:StopPlace:4286",
+    "name": "Haslum skole",
+    "latitude": 59.924846,
+    "longitude": 10.570771
+  },
+  {
+    "id": "NSR:StopPlace:4277",
+    "name": "Inkognitogata",
+    "latitude": 59.915806,
+    "longitude": 10.721186
+  },
+  {
+    "id": "NSR:StopPlace:4273",
+    "name": "Filipstadveien",
+    "latitude": 59.90857,
+    "longitude": 10.713236
+  },
+  {
+    "id": "NSR:StopPlace:4268",
+    "name": "Filipstad",
+    "latitude": 59.908529,
+    "longitude": 10.709752
+  },
+  {
+    "id": "NSR:StopPlace:4299",
+    "name": "Stein gård",
+    "latitude": 59.934145,
+    "longitude": 10.543067
+  },
+  {
+    "id": "NSR:StopPlace:4290",
+    "name": "Solli",
+    "latitude": 59.915246,
+    "longitude": 10.717281
+  },
+  {
+    "id": "NSR:StopPlace:4291",
+    "name": "Åsterud",
+    "latitude": 59.928842,
+    "longitude": 10.558022
+  },
+  {
+    "id": "NSR:StopPlace:4293",
+    "name": "Niels Juels gate",
+    "latitude": 59.91634,
+    "longitude": 10.715157
+  },
+  {
+    "id": "NSR:StopPlace:4294",
+    "name": "Steinskogen gravlund",
+    "latitude": 59.932249,
+    "longitude": 10.551405
+  },
+  {
+    "id": "NSR:StopPlace:4297",
+    "name": "Godthåb",
+    "latitude": 59.929834,
+    "longitude": 10.553387
+  },
+  {
+    "id": "NSR:StopPlace:4288",
+    "name": "Griniveien",
+    "latitude": 59.928271,
+    "longitude": 10.568148
+  },
+  {
+    "id": "NSR:StopPlace:4220",
+    "name": "Vebekkveien",
+    "latitude": 59.904576,
+    "longitude": 10.505584
+  },
+  {
+    "id": "NSR:StopPlace:4212",
+    "name": "Dønskitoppen",
+    "latitude": 59.901537,
+    "longitude": 10.502012
+  },
+  {
+    "id": "NSR:StopPlace:4207",
+    "name": "Bærum sykehus",
+    "latitude": 59.898516,
+    "longitude": 10.509152
+  },
+  {
+    "id": "NSR:StopPlace:4213",
+    "name": "Hammersborggata",
+    "latitude": 59.915144,
+    "longitude": 10.751651
+  },
+  {
+    "id": "NSR:StopPlace:4218",
+    "name": "Dønski bo- og behandlingssenter",
+    "latitude": 59.902133,
+    "longitude": 10.50442
+  },
+  {
+    "id": "NSR:StopPlace:4243",
+    "name": "Løkenhavna",
+    "latitude": 59.923543,
+    "longitude": 10.505409
+  },
+  {
+    "id": "NSR:StopPlace:4233",
+    "name": "Verksgata",
+    "latitude": 59.937052,
+    "longitude": 10.501326
+  },
+  {
+    "id": "NSR:StopPlace:4223",
+    "name": "Rudsdalen",
+    "latitude": 59.906092,
+    "longitude": 10.503014
+  },
+  {
+    "id": "NSR:StopPlace:4227",
+    "name": "Vippetangen",
+    "latitude": 59.903209,
+    "longitude": 10.74122
+  },
+  {
+    "id": "NSR:StopPlace:4263",
+    "name": "Vika atrium",
+    "latitude": 59.910792,
+    "longitude": 10.722659
+  },
+  {
+    "id": "NSR:StopPlace:4258",
+    "name": "Tjuvholmen",
+    "latitude": 59.909746,
+    "longitude": 10.722069
+  },
+  {
+    "id": "NSR:StopPlace:4254",
+    "name": "Keysers gate",
+    "latitude": 59.916938,
+    "longitude": 10.743693
+  },
+  {
+    "id": "NSR:StopPlace:4245",
+    "name": "Kontraskjæret",
+    "latitude": 59.91089,
+    "longitude": 10.735779
+  },
+  {
+    "id": "NSR:StopPlace:4249",
+    "name": "Arne Garborgs plass",
+    "latitude": 59.916548,
+    "longitude": 10.74457
+  },
+  {
+    "id": "NSR:StopPlace:4712",
+    "name": "Skyset",
+    "latitude": 59.999825,
+    "longitude": 10.926982
+  },
+  {
+    "id": "NSR:StopPlace:4715",
+    "name": "Ulverud skole",
+    "latitude": 59.998547,
+    "longitude": 10.921926
+  },
+  {
+    "id": "NSR:StopPlace:4720",
+    "name": "Velhuset",
+    "latitude": 59.980011,
+    "longitude": 10.937223
+  },
+  {
+    "id": "NSR:StopPlace:4798",
+    "name": "Krokhol",
+    "latitude": 59.802048,
+    "longitude": 10.927132
+  },
+  {
+    "id": "NSR:StopPlace:4799",
+    "name": "Sørmarka",
+    "latitude": 59.811365,
+    "longitude": 10.909609
+  },
+  {
+    "id": "NSR:StopPlace:62942",
+    "name": "Formerveien",
+    "latitude": 59.900706,
+    "longitude": 10.843948
+  },
+  {
+    "id": "NSR:StopPlace:4882",
+    "name": "Rabben",
+    "latitude": 59.807324,
+    "longitude": 10.881572
+  },
+  {
+    "id": "NSR:StopPlace:4884",
+    "name": "Saga",
+    "latitude": 59.802338,
+    "longitude": 10.881572
+  },
+  {
+    "id": "NSR:StopPlace:4511",
+    "name": "Bogstadveien",
+    "latitude": 59.9262,
+    "longitude": 10.721546
+  },
+  {
+    "id": "NSR:StopPlace:4516",
+    "name": "Frogner plass",
+    "latitude": 59.921895,
+    "longitude": 10.704887
+  },
+  {
+    "id": "NSR:StopPlace:4500",
+    "name": "Homansbyen",
+    "latitude": 59.923525,
+    "longitude": 10.727225
+  },
+  {
+    "id": "NSR:StopPlace:4506",
+    "name": "Rosenborg",
+    "latitude": 59.924133,
+    "longitude": 10.723756
+  },
+  {
+    "id": "NSR:StopPlace:4531",
+    "name": "Vigelandsparken",
+    "latitude": 59.924537,
+    "longitude": 10.708103
+  },
+  {
+    "id": "NSR:StopPlace:4537",
+    "name": "Frogner stadion",
+    "latitude": 59.927256,
+    "longitude": 10.712754
+  },
+  {
+    "id": "NSR:StopPlace:4522",
+    "name": "Frogner plass",
+    "latitude": 59.922546,
+    "longitude": 10.704942
+  },
+  {
+    "id": "NSR:StopPlace:4527",
+    "name": "Vigelandsparken",
+    "latitude": 59.924594,
+    "longitude": 10.708207
+  },
+  {
+    "id": "NSR:StopPlace:4552",
+    "name": "Uranienborgveien",
+    "latitude": 59.92109,
+    "longitude": 10.72245
+  },
+  {
+    "id": "NSR:StopPlace:4557",
+    "name": "Riddervolds plass",
+    "latitude": 59.918944,
+    "longitude": 10.720277
+  },
+  {
+    "id": "NSR:StopPlace:4542",
+    "name": "Frogner stadion",
+    "latitude": 59.927211,
+    "longitude": 10.712668
+  },
+  {
+    "id": "NSR:StopPlace:4547",
+    "name": "Briskeby",
+    "latitude": 59.919992,
+    "longitude": 10.718067
+  },
+  {
+    "id": "NSR:StopPlace:4632",
+    "name": "Gjelleråsen",
+    "latitude": 59.985777,
+    "longitude": 10.928069
+  },
+  {
+    "id": "NSR:StopPlace:4634",
+    "name": "Ospelia",
+    "latitude": 59.976483,
+    "longitude": 10.930978
+  },
+  {
+    "id": "NSR:StopPlace:4636",
+    "name": "Gamle Trondheimsvei",
+    "latitude": 59.975921,
+    "longitude": 10.934339
+  },
+  {
+    "id": "NSR:StopPlace:4660",
+    "name": "Myrlia",
+    "latitude": 59.992777,
+    "longitude": 10.904757
+  },
+  {
+    "id": "NSR:StopPlace:4658",
+    "name": "Seterhaugen",
+    "latitude": 59.995716,
+    "longitude": 10.903013
+  },
+  {
+    "id": "NSR:StopPlace:4681",
+    "name": "Hagan",
+    "latitude": 59.998058,
+    "longitude": 10.917428
+  },
+  {
+    "id": "NSR:StopPlace:4683",
+    "name": "Morteveien",
+    "latitude": 59.988978,
+    "longitude": 10.937961
+  },
+  {
+    "id": "NSR:StopPlace:4673",
+    "name": "Mortetjern",
+    "latitude": 59.987237,
+    "longitude": 10.938943
+  },
+  {
+    "id": "NSR:StopPlace:4676",
+    "name": "Tjernslia",
+    "latitude": 59.978254,
+    "longitude": 10.935707
+  },
+  {
+    "id": "NSR:StopPlace:4678",
+    "name": "Industriveien",
+    "latitude": 59.991408,
+    "longitude": 10.910812
+  },
+  {
+    "id": "NSR:StopPlace:4670",
+    "name": "Saga",
+    "latitude": 59.995223,
+    "longitude": 10.918863
+  },
+  {
+    "id": "NSR:StopPlace:4666",
+    "name": "Skytta servicesenter",
+    "latitude": 59.99121,
+    "longitude": 10.907274
+  },
+  {
+    "id": "NSR:StopPlace:4667",
+    "name": "Briskeveien",
+    "latitude": 59.993044,
+    "longitude": 10.913654
+  },
+  {
+    "id": "NSR:StopPlace:4691",
+    "name": "Lahaugmoen",
+    "latitude": 59.983911,
+    "longitude": 10.960842
+  },
+  {
+    "id": "NSR:StopPlace:4693",
+    "name": "Gjelleråstoppen",
+    "latitude": 59.988962,
+    "longitude": 10.930562
+  },
+  {
+    "id": "NSR:StopPlace:4686",
+    "name": "Holumskogen skole",
+    "latitude": 59.983999,
+    "longitude": 10.938939
+  },
+  {
+    "id": "NSR:StopPlace:4688",
+    "name": "Mortens kro",
+    "latitude": 59.985458,
+    "longitude": 10.95129
+  },
+  {
+    "id": "NSR:StopPlace:57596",
+    "name": "Brobekkveien",
+    "latitude": 59.931379,
+    "longitude": 10.830044
+  },
+  {
+    "id": "NSR:StopPlace:57953",
+    "name": "Oslo Vippetangen",
+    "latitude": 59.90276,
+    "longitude": 10.743419
+  },
+  {
+    "id": "NSR:StopPlace:57960",
+    "name": "Oslo Hjortneskaien",
+    "latitude": 59.908545,
+    "longitude": 10.709331
+  },
+  {
+    "id": "NSR:StopPlace:57988",
+    "name": "Bygdøynes kai",
+    "latitude": 59.904156,
+    "longitude": 10.700959
+  },
+  {
+    "id": "NSR:StopPlace:57989",
+    "name": "Dronningen",
+    "latitude": 59.907367,
+    "longitude": 10.696317
+  },
+  {
+    "id": "NSR:StopPlace:63280",
+    "name": "Holbergs plass",
+    "latitude": 59.91777,
+    "longitude": 10.734476
+  },
+  {
+    "id": "NSR:StopPlace:63281",
+    "name": "Historisk museum",
+    "latitude": 59.916915,
+    "longitude": 10.735021
+  },
+  {
+    "id": "NSR:StopPlace:63206",
+    "name": "Huitfeldts gate",
+    "latitude": 59.915279,
+    "longitude": 10.725859
+  },
+  {
+    "id": "NSR:StopPlace:63081",
+    "name": "Majorstuen",
+    "latitude": 59.928039,
+    "longitude": 10.715312
+  },
+  {
+    "id": "NSR:StopPlace:63475",
+    "name": "Nationaltheatret",
+    "latitude": 59.914096,
+    "longitude": 10.730373
+  },
+  {
+    "id": "NSR:StopPlace:63487",
+    "name": "Universitetet Blindern",
+    "latitude": 59.941119,
+    "longitude": 10.721629
+  },
+  {
+    "id": "NSR:StopPlace:5362",
+    "name": "Lørenskog sentrum",
+    "latitude": 59.928653,
+    "longitude": 10.953828
+  },
+  {
+    "id": "NSR:StopPlace:5364",
+    "name": "Lørenskog sentrum",
+    "latitude": 59.927594,
+    "longitude": 10.953579
+  },
+  {
+    "id": "NSR:StopPlace:5355",
+    "name": "Snorres vei",
+    "latitude": 59.930095,
+    "longitude": 10.944883
+  },
+  {
+    "id": "NSR:StopPlace:5358",
+    "name": "Haralds vei",
+    "latitude": 59.930079,
+    "longitude": 10.952768
+  },
+  {
+    "id": "NSR:StopPlace:5372",
+    "name": "Finstadsletta",
+    "latitude": 59.914558,
+    "longitude": 10.961097
+  },
+  {
+    "id": "NSR:StopPlace:5367",
+    "name": "Lørenskog sentrum",
+    "latitude": 59.927947,
+    "longitude": 10.954844
+  },
+  {
+    "id": "NSR:StopPlace:5369",
+    "name": "Bergerveien",
+    "latitude": 59.917184,
+    "longitude": 10.958294
+  },
+  {
+    "id": "NSR:StopPlace:5380",
+    "name": "Nesåsen",
+    "latitude": 59.911613,
+    "longitude": 10.975798
+  },
+  {
+    "id": "NSR:StopPlace:5383",
+    "name": "Ahus",
+    "latitude": 59.933367,
+    "longitude": 10.993733
+  },
+  {
+    "id": "NSR:StopPlace:5385",
+    "name": "Fjellhamar stasjon",
+    "latitude": 59.941166,
+    "longitude": 10.981109
+  },
+  {
+    "id": "NSR:StopPlace:5378",
+    "name": "Finstadlia",
+    "latitude": 59.91474,
+    "longitude": 10.967078
+  },
+  {
+    "id": "NSR:StopPlace:5393",
+    "name": "Hanaborg",
+    "latitude": 59.939508,
+    "longitude": 10.9681
+  },
+  {
+    "id": "NSR:StopPlace:5395",
+    "name": "Fjellsrud skole",
+    "latitude": 59.937458,
+    "longitude": 10.978432
+  },
+  {
+    "id": "NSR:StopPlace:5397",
+    "name": "Knatten",
+    "latitude": 59.928184,
+    "longitude": 10.96396
+  },
+  {
+    "id": "NSR:StopPlace:5388",
+    "name": "Arne Garborgs vei",
+    "latitude": 59.936458,
+    "longitude": 10.971557
+  },
+  {
+    "id": "NSR:StopPlace:5350",
+    "name": "Postterminalen vest",
+    "latitude": 59.940749,
+    "longitude": 10.942296
+  },
+  {
+    "id": "NSR:StopPlace:5353",
+    "name": "Georg Stangs vei",
+    "latitude": 59.933567,
+    "longitude": 10.939594
+  },
+  {
+    "id": "NSR:StopPlace:5348",
+    "name": "Postterminalen øst",
+    "latitude": 59.94094,
+    "longitude": 10.947967
+  },
+  {
+    "id": "NSR:StopPlace:5070",
+    "name": "Rolandsveien",
+    "latitude": 59.815638,
+    "longitude": 10.904876
+  },
+  {
+    "id": "NSR:StopPlace:5139",
+    "name": "Brokkenhus",
+    "latitude": 59.817914,
+    "longitude": 10.898271
+  },
+  {
+    "id": "NSR:StopPlace:5600",
+    "name": "Nesodden vgs.",
+    "latitude": 59.841067,
+    "longitude": 10.677173
+  },
+  {
+    "id": "NSR:StopPlace:5603",
+    "name": "Postens godssenter",
+    "latitude": 59.934228,
+    "longitude": 10.851342
+  },
+  {
+    "id": "NSR:StopPlace:5604",
+    "name": "Flaskebekk",
+    "latitude": 59.860644,
+    "longitude": 10.652967
+  },
+  {
+    "id": "NSR:StopPlace:5601",
+    "name": "Postnord",
+    "latitude": 59.934432,
+    "longitude": 10.848387
+  },
+  {
+    "id": "NSR:StopPlace:5602",
+    "name": "Flaskebekkrysset",
+    "latitude": 59.850449,
+    "longitude": 10.655829
+  },
+  {
+    "id": "NSR:StopPlace:5607",
+    "name": "Lindeberg",
+    "latitude": 59.932874,
+    "longitude": 10.882135
+  },
+  {
+    "id": "NSR:StopPlace:5608",
+    "name": "Varden",
+    "latitude": 59.841838,
+    "longitude": 10.649301
+  },
+  {
+    "id": "NSR:StopPlace:5606",
+    "name": "Flaskebekktjernet",
+    "latitude": 59.84816,
+    "longitude": 10.654185
+  },
+  {
+    "id": "NSR:StopPlace:5609",
+    "name": "Lindeberg T",
+    "latitude": 59.932881,
+    "longitude": 10.880942
+  },
+  {
+    "id": "NSR:StopPlace:5621",
+    "name": "Skoklefall kirke",
+    "latitude": 59.846084,
+    "longitude": 10.671233
+  },
+  {
+    "id": "NSR:StopPlace:5620",
+    "name": "Furuset skole",
+    "latitude": 59.937467,
+    "longitude": 10.892263
+  },
+  {
+    "id": "NSR:StopPlace:5625",
+    "name": "Furuset",
+    "latitude": 59.941344,
+    "longitude": 10.897107
+  },
+  {
+    "id": "NSR:StopPlace:5626",
+    "name": "Ildjernet",
+    "latitude": 59.843639,
+    "longitude": 10.641273
+  },
+  {
+    "id": "NSR:StopPlace:5624",
+    "name": "Skoklekroken",
+    "latitude": 59.848401,
+    "longitude": 10.663396
+  },
+  {
+    "id": "NSR:StopPlace:5627",
+    "name": "Furuset T",
+    "latitude": 59.94126,
+    "longitude": 10.897291
+  },
+  {
+    "id": "NSR:StopPlace:5628",
+    "name": "Ommen",
+    "latitude": 59.803635,
+    "longitude": 10.60672
+  },
+  {
+    "id": "NSR:StopPlace:5610",
+    "name": "Håkonskastet",
+    "latitude": 59.837725,
+    "longitude": 10.645674
+  },
+  {
+    "id": "NSR:StopPlace:5611",
+    "name": "Lindeberghjemmet",
+    "latitude": 59.930833,
+    "longitude": 10.875911
+  },
+  {
+    "id": "NSR:StopPlace:5614",
+    "name": "Sjøstrand",
+    "latitude": 59.851651,
+    "longitude": 10.649003
+  },
+  {
+    "id": "NSR:StopPlace:5613",
+    "name": "Jeriko skole",
+    "latitude": 59.934974,
+    "longitude": 10.885665
+  },
+  {
+    "id": "NSR:StopPlace:5619",
+    "name": "Hellvikskog",
+    "latitude": 59.841499,
+    "longitude": 10.678356
+  },
+  {
+    "id": "NSR:StopPlace:5616",
+    "name": "Skoklefall gård",
+    "latitude": 59.841198,
+    "longitude": 10.674122
+  },
+  {
+    "id": "NSR:StopPlace:5650",
+    "name": "IKEA Furuset",
+    "latitude": 59.934739,
+    "longitude": 10.871241
+  },
+  {
+    "id": "NSR:StopPlace:5651",
+    "name": "Sunnaas",
+    "latitude": 59.835202,
+    "longitude": 10.643512
+  },
+  {
+    "id": "NSR:StopPlace:5643",
+    "name": "Edvard Munchs vei",
+    "latitude": 59.938953,
+    "longitude": 10.91102
+  },
+  {
+    "id": "NSR:StopPlace:5644",
+    "name": "Berger",
+    "latitude": 59.833725,
+    "longitude": 10.685266
+  },
+  {
+    "id": "NSR:StopPlace:5641",
+    "name": "Ellingsrudåsen T",
+    "latitude": 59.936586,
+    "longitude": 10.917157
+  },
+  {
+    "id": "NSR:StopPlace:5647",
+    "name": "Karihaugen",
+    "latitude": 59.937585,
+    "longitude": 10.92668
+  },
+  {
+    "id": "NSR:StopPlace:5648",
+    "name": "Berger stadion",
+    "latitude": 59.834999,
+    "longitude": 10.676941
+  },
+  {
+    "id": "NSR:StopPlace:5645",
+    "name": "Erling Michelsens vei",
+    "latitude": 59.936907,
+    "longitude": 10.904413
+  },
+  {
+    "id": "NSR:StopPlace:5646",
+    "name": "Ekelund",
+    "latitude": 59.832464,
+    "longitude": 10.681563
+  },
+  {
+    "id": "NSR:StopPlace:5640",
+    "name": "Solåsen",
+    "latitude": 59.838862,
+    "longitude": 10.688571
+  },
+  {
+    "id": "NSR:StopPlace:5632",
+    "name": "Gransletta",
+    "latitude": 59.944821,
+    "longitude": 10.899685
+  },
+  {
+    "id": "NSR:StopPlace:5630",
+    "name": "Nordre Gran",
+    "latitude": 59.941953,
+    "longitude": 10.902509
+  },
+  {
+    "id": "NSR:StopPlace:5631",
+    "name": "Ommen",
+    "latitude": 59.800625,
+    "longitude": 10.616594
+  },
+  {
+    "id": "NSR:StopPlace:5637",
+    "name": "Stjerneblokkveien",
+    "latitude": 59.949331,
+    "longitude": 10.888983
+  },
+  {
+    "id": "NSR:StopPlace:5634",
+    "name": "Vestre Haugen",
+    "latitude": 59.948412,
+    "longitude": 10.896192
+  },
+  {
+    "id": "NSR:StopPlace:5635",
+    "name": "Berger veiskille",
+    "latitude": 59.831913,
+    "longitude": 10.677646
+  },
+  {
+    "id": "NSR:StopPlace:5638",
+    "name": "Hellvik",
+    "latitude": 59.842332,
+    "longitude": 10.686758
+  },
+  {
+    "id": "NSR:StopPlace:5639",
+    "name": "Ellingsrudåsen",
+    "latitude": 59.936548,
+    "longitude": 10.916765
+  },
+  {
+    "id": "NSR:StopPlace:5670",
+    "name": "Myra nordre",
+    "latitude": 59.802346,
+    "longitude": 10.66064
+  },
+  {
+    "id": "NSR:StopPlace:5673",
+    "name": "Alfasetveien",
+    "latitude": 59.937088,
+    "longitude": 10.858548
+  },
+  {
+    "id": "NSR:StopPlace:5671",
+    "name": "Kjelsrud",
+    "latitude": 59.932858,
+    "longitude": 10.859865
+  },
+  {
+    "id": "NSR:StopPlace:5665",
+    "name": "Alværn ungdomsskole",
+    "latitude": 59.820939,
+    "longitude": 10.633676
+  },
+  {
+    "id": "NSR:StopPlace:5666",
+    "name": "Karlstad",
+    "latitude": 59.803435,
+    "longitude": 10.66979
+  },
+  {
+    "id": "NSR:StopPlace:5668",
+    "name": "Kjelsrud",
+    "latitude": 59.932054,
+    "longitude": 10.860624
+  },
+  {
+    "id": "NSR:StopPlace:5669",
+    "name": "Bjerklund",
+    "latitude": 59.80339,
+    "longitude": 10.665541
+  },
+  {
+    "id": "NSR:StopPlace:5661",
+    "name": "Alværn",
+    "latitude": 59.821871,
+    "longitude": 10.634238
+  },
+  {
+    "id": "NSR:StopPlace:5662",
+    "name": "Trosterudkrysset",
+    "latitude": 59.928057,
+    "longitude": 10.86539
+  },
+  {
+    "id": "NSR:StopPlace:5660",
+    "name": "Skjønhaug",
+    "latitude": 59.92975,
+    "longitude": 10.870017
+  },
+  {
+    "id": "NSR:StopPlace:5654",
+    "name": "Alnaparkveien",
+    "latitude": 59.939844,
+    "longitude": 10.88099
+  },
+  {
+    "id": "NSR:StopPlace:5655",
+    "name": "Bjørnemyr",
+    "latitude": 59.831253,
+    "longitude": 10.641248
+  },
+  {
+    "id": "NSR:StopPlace:5652",
+    "name": "Sam Eydes vei",
+    "latitude": 59.936839,
+    "longitude": 10.880768
+  },
+  {
+    "id": "NSR:StopPlace:5658",
+    "name": "Prof. Birkelands vei",
+    "latitude": 59.943598,
+    "longitude": 10.885079
+  },
+  {
+    "id": "NSR:StopPlace:5659",
+    "name": "Fjordvangen",
+    "latitude": 59.829783,
+    "longitude": 10.678445
+  },
+  {
+    "id": "NSR:StopPlace:5657",
+    "name": "To vest",
+    "latitude": 59.827917,
+    "longitude": 10.63869
+  },
+  {
+    "id": "NSR:StopPlace:5690",
+    "name": "Mortensrud T",
+    "latitude": 59.849605,
+    "longitude": 10.829163
+  },
+  {
+    "id": "NSR:StopPlace:5691",
+    "name": "Bikuben",
+    "latitude": 59.944311,
+    "longitude": 10.924565
+  },
+  {
+    "id": "NSR:StopPlace:5692",
+    "name": "Mortensrud T",
+    "latitude": 59.849871,
+    "longitude": 10.82929
+  },
+  {
+    "id": "NSR:StopPlace:5694",
+    "name": "Karl Andersens vei",
+    "latitude": 59.941618,
+    "longitude": 10.92587
+  },
+  {
+    "id": "NSR:StopPlace:5695",
+    "name": "Lofsrudhøgda",
+    "latitude": 59.847033,
+    "longitude": 10.828279
+  },
+  {
+    "id": "NSR:StopPlace:5685",
+    "name": "Liakollen",
+    "latitude": 59.829351,
+    "longitude": 10.799217
+  },
+  {
+    "id": "NSR:StopPlace:5687",
+    "name": "Mortensrud",
+    "latitude": 59.849323,
+    "longitude": 10.829668
+  },
+  {
+    "id": "NSR:StopPlace:5688",
+    "name": "Høybråten kirke",
+    "latitude": 59.944504,
+    "longitude": 10.910623
+  },
+  {
+    "id": "NSR:StopPlace:5689",
+    "name": "Solbakken",
+    "latitude": 59.944371,
+    "longitude": 10.916811
+  },
+  {
+    "id": "NSR:StopPlace:5680",
+    "name": "Folkvangveien",
+    "latitude": 59.941012,
+    "longitude": 10.917624
+  },
+  {
+    "id": "NSR:StopPlace:5683",
+    "name": "Nordbråtan",
+    "latitude": 59.824951,
+    "longitude": 10.804635
+  },
+  {
+    "id": "NSR:StopPlace:5684",
+    "name": "Høystakkveien",
+    "latitude": 59.946194,
+    "longitude": 10.905186
+  },
+  {
+    "id": "NSR:StopPlace:5681",
+    "name": "Toppåsveien",
+    "latitude": 59.82809,
+    "longitude": 10.803915
+  },
+  {
+    "id": "NSR:StopPlace:5682",
+    "name": "Bjørnheim",
+    "latitude": 59.942058,
+    "longitude": 10.913089
+  },
+  {
+    "id": "NSR:StopPlace:5677",
+    "name": "Trosterud",
+    "latitude": 59.929102,
+    "longitude": 10.864327
+  },
+  {
+    "id": "NSR:StopPlace:5674",
+    "name": "Myra søndre",
+    "latitude": 59.801092,
+    "longitude": 10.657229
+  },
+  {
+    "id": "NSR:StopPlace:5696",
+    "name": "Granliveien",
+    "latitude": 59.940273,
+    "longitude": 10.928583
+  },
+  {
+    "id": "NSR:StopPlace:5698",
+    "name": "Fjellborg",
+    "latitude": 59.942616,
+    "longitude": 10.932097
+  },
+  {
+    "id": "NSR:StopPlace:5699",
+    "name": "Blakkens vei",
+    "latitude": 59.841894,
+    "longitude": 10.831468
+  },
+  {
+    "id": "NSR:StopPlace:5697",
+    "name": "Brunas vei",
+    "latitude": 59.844234,
+    "longitude": 10.82962
+  },
+  {
+    "id": "NSR:StopPlace:5702",
+    "name": "Oredalen",
+    "latitude": 59.840018,
+    "longitude": 10.828732
+  },
+  {
+    "id": "NSR:StopPlace:5703",
+    "name": "Høybråten park",
+    "latitude": 59.945771,
+    "longitude": 10.933656
+  },
+  {
+    "id": "NSR:StopPlace:5700",
+    "name": "Vardeheim",
+    "latitude": 59.944625,
+    "longitude": 10.930414
+  },
+  {
+    "id": "NSR:StopPlace:5707",
+    "name": "Rommen",
+    "latitude": 59.963652,
+    "longitude": 10.908667
+  },
+  {
+    "id": "NSR:StopPlace:5704",
+    "name": "Bjørnerud",
+    "latitude": 59.843969,
+    "longitude": 10.81909
+  },
+  {
+    "id": "NSR:StopPlace:5705",
+    "name": "Rommen",
+    "latitude": 59.962095,
+    "longitude": 10.909373
+  },
+  {
+    "id": "NSR:StopPlace:5709",
+    "name": "Lofsrud",
+    "latitude": 59.844469,
+    "longitude": 10.837487
+  },
+  {
+    "id": "NSR:StopPlace:5720",
+    "name": "Stovner",
+    "latitude": 59.96223,
+    "longitude": 10.923355
+  },
+  {
+    "id": "NSR:StopPlace:5721",
+    "name": "Kantarellen terrasse",
+    "latitude": 59.849075,
+    "longitude": 10.814691
+  },
+  {
+    "id": "NSR:StopPlace:5724",
+    "name": "Kantarellen",
+    "latitude": 59.85003,
+    "longitude": 10.812803
+  },
+  {
+    "id": "NSR:StopPlace:5725",
+    "name": "Øvre Fossum",
+    "latitude": 59.958886,
+    "longitude": 10.926535
+  },
+  {
+    "id": "NSR:StopPlace:5722",
+    "name": "Stovner T",
+    "latitude": 59.961356,
+    "longitude": 10.922736
+  },
+  {
+    "id": "NSR:StopPlace:5728",
+    "name": "Mortensrudkrysset",
+    "latitude": 59.849446,
+    "longitude": 10.836012
+  },
+  {
+    "id": "NSR:StopPlace:5729",
+    "name": "Johnny Svorkmos vei",
+    "latitude": 59.957266,
+    "longitude": 10.934567
+  },
+  {
+    "id": "NSR:StopPlace:5726",
+    "name": "Tangen",
+    "latitude": 59.847778,
+    "longitude": 10.810379
+  },
+  {
+    "id": "NSR:StopPlace:5727",
+    "name": "Olaus Fjørtofts vei",
+    "latitude": 59.959455,
+    "longitude": 10.930581
+  },
+  {
+    "id": "NSR:StopPlace:5710",
+    "name": "Tokeruddalen",
+    "latitude": 59.963037,
+    "longitude": 10.916532
+  },
+  {
+    "id": "NSR:StopPlace:5713",
+    "name": "Mortensrudkrysset",
+    "latitude": 59.850316,
+    "longitude": 10.83289
+  },
+  {
+    "id": "NSR:StopPlace:5714",
+    "name": "Sveiva",
+    "latitude": 59.963455,
+    "longitude": 10.901003
+  },
+  {
+    "id": "NSR:StopPlace:5717",
+    "name": "Stenbråten",
+    "latitude": 59.849582,
+    "longitude": 10.824918
+  },
+  {
+    "id": "NSR:StopPlace:5718",
+    "name": "Romsåsfoten",
+    "latitude": 59.960549,
+    "longitude": 10.895735
+  },
+  {
+    "id": "NSR:StopPlace:5716",
+    "name": "Dalsåsen",
+    "latitude": 59.849933,
+    "longitude": 10.835961
+  },
+  {
+    "id": "NSR:StopPlace:5719",
+    "name": "Kantarellen legesenter",
+    "latitude": 59.848728,
+    "longitude": 10.816429
+  },
+  {
+    "id": "NSR:StopPlace:5750",
+    "name": "Haugenstua torg",
+    "latitude": 59.952743,
+    "longitude": 10.908965
+  },
+  {
+    "id": "NSR:StopPlace:5741",
+    "name": "Bjørndal senter",
+    "latitude": 59.825986,
+    "longitude": 10.835639
+  },
+  {
+    "id": "NSR:StopPlace:5743",
+    "name": "Meklenborg",
+    "latitude": 59.823955,
+    "longitude": 10.835577
+  },
+  {
+    "id": "NSR:StopPlace:5744",
+    "name": "Bånkallstubben",
+    "latitude": 59.973576,
+    "longitude": 10.919206
+  },
+  {
+    "id": "NSR:StopPlace:5745",
+    "name": "Bjørndal",
+    "latitude": 59.821317,
+    "longitude": 10.839773
+  },
+  {
+    "id": "NSR:StopPlace:5746",
+    "name": "Tokerudbekken",
+    "latitude": 59.975787,
+    "longitude": 10.926944
+  },
+  {
+    "id": "NSR:StopPlace:5748",
+    "name": "Langteigåsen",
+    "latitude": 59.817967,
+    "longitude": 10.839965
+  },
+  {
+    "id": "NSR:StopPlace:5749",
+    "name": "Haugenstua stasjon",
+    "latitude": 59.95145,
+    "longitude": 10.910883
+  },
+  {
+    "id": "NSR:StopPlace:5730",
+    "name": "Vestli",
+    "latitude": 59.972727,
+    "longitude": 10.92965
+  },
+  {
+    "id": "NSR:StopPlace:5731",
+    "name": "Bjørnholt nedre",
+    "latitude": 59.836367,
+    "longitude": 10.835057
+  },
+  {
+    "id": "NSR:StopPlace:5735",
+    "name": "Gullberget",
+    "latitude": 59.968616,
+    "longitude": 10.922559
+  },
+  {
+    "id": "NSR:StopPlace:5771",
+    "name": "Stovner bru",
+    "latitude": 59.946888,
+    "longitude": 10.939357
+  },
+  {
+    "id": "NSR:StopPlace:5772",
+    "name": "Lille Stensrud",
+    "latitude": 59.819825,
+    "longitude": 10.876728
+  },
+  {
+    "id": "NSR:StopPlace:5764",
+    "name": "Godheim",
+    "latitude": 59.832856,
+    "longitude": 10.860118
+  },
+  {
+    "id": "NSR:StopPlace:5765",
+    "name": "Jorines vei",
+    "latitude": 59.953024,
+    "longitude": 10.928522
+  },
+  {
+    "id": "NSR:StopPlace:5762",
+    "name": "Smiuvegen",
+    "latitude": 59.952929,
+    "longitude": 10.923778
+  },
+  {
+    "id": "NSR:StopPlace:5768",
+    "name": "Stovnerfaret",
+    "latitude": 59.954851,
+    "longitude": 10.934182
+  },
+  {
+    "id": "NSR:StopPlace:5760",
+    "name": "Haugenstua skole",
+    "latitude": 59.953246,
+    "longitude": 10.921981
+  },
+  {
+    "id": "NSR:StopPlace:5761",
+    "name": "Maurtuveien",
+    "latitude": 59.832342,
+    "longitude": 10.851868
+  },
+  {
+    "id": "NSR:StopPlace:5751",
+    "name": "Bjørnholt skole",
+    "latitude": 59.834386,
+    "longitude": 10.838123
+  },
+  {
+    "id": "NSR:StopPlace:5752",
+    "name": "Haavard Martinsens vei",
+    "latitude": 59.954607,
+    "longitude": 10.898706
+  },
+  {
+    "id": "NSR:StopPlace:5758",
+    "name": "Smedstua",
+    "latitude": 59.953057,
+    "longitude": 10.913346
+  },
+  {
+    "id": "NSR:StopPlace:5755",
+    "name": "Jernkroken",
+    "latitude": 59.954297,
+    "longitude": 10.896968
+  },
+  {
+    "id": "NSR:StopPlace:5759",
+    "name": "Klemetsrud skole",
+    "latitude": 59.834326,
+    "longitude": 10.843405
+  },
+  {
+    "id": "NSR:StopPlace:5769",
+    "name": "Hanåveien",
+    "latitude": 59.823804,
+    "longitude": 10.872364
+  },
+  {
+    "id": "NSR:StopPlace:5766",
+    "name": "Store Stensrud",
+    "latitude": 59.828522,
+    "longitude": 10.866492
+  },
+  {
+    "id": "NSR:StopPlace:5767",
+    "name": "Stovnerskogen sykehjem",
+    "latitude": 59.949372,
+    "longitude": 10.931528
+  },
+  {
+    "id": "NSR:StopPlace:5790",
+    "name": "Bratli",
+    "latitude": 59.844397,
+    "longitude": 10.843675
+  },
+  {
+    "id": "NSR:StopPlace:5793",
+    "name": "Romsås kirke",
+    "latitude": 59.968399,
+    "longitude": 10.890396
+  },
+  {
+    "id": "NSR:StopPlace:5794",
+    "name": "Pasop",
+    "latitude": 59.842337,
+    "longitude": 10.846148
+  },
+  {
+    "id": "NSR:StopPlace:5791",
+    "name": "Ravnkollbakken",
+    "latitude": 59.967022,
+    "longitude": 10.890072
+  },
+  {
+    "id": "NSR:StopPlace:5786",
+    "name": "Dalsroa",
+    "latitude": 59.848263,
+    "longitude": 10.840338
+  },
+  {
+    "id": "NSR:StopPlace:5787",
+    "name": "Gangtunnelen",
+    "latitude": 59.962218,
+    "longitude": 10.896887
+  },
+  {
+    "id": "NSR:StopPlace:5785",
+    "name": "Orremyr",
+    "latitude": 59.965199,
+    "longitude": 10.898306
+  },
+  {
+    "id": "NSR:StopPlace:5788",
+    "name": "Brenna",
+    "latitude": 59.846428,
+    "longitude": 10.84227
+  },
+  {
+    "id": "NSR:StopPlace:5789",
+    "name": "Ravnkollen",
+    "latitude": 59.965192,
+    "longitude": 10.889476
+  },
+  {
+    "id": "NSR:StopPlace:5736",
+    "name": "Mina Beiteplukks vei",
+    "latitude": 59.831854,
+    "longitude": 10.834585
+  },
+  {
+    "id": "NSR:StopPlace:5733",
+    "name": "Vestli T",
+    "latitude": 59.971289,
+    "longitude": 10.928446
+  },
+  {
+    "id": "NSR:StopPlace:5734",
+    "name": "Bjørnholt øvre",
+    "latitude": 59.83644,
+    "longitude": 10.834156
+  },
+  {
+    "id": "NSR:StopPlace:5780",
+    "name": "Romsås",
+    "latitude": 59.962536,
+    "longitude": 10.892702
+  },
+  {
+    "id": "NSR:StopPlace:5781",
+    "name": "Dalssvingen",
+    "latitude": 59.85026,
+    "longitude": 10.837418
+  },
+  {
+    "id": "NSR:StopPlace:5782",
+    "name": "Tiurleiken",
+    "latitude": 59.963036,
+    "longitude": 10.890149
+  },
+  {
+    "id": "NSR:StopPlace:5783",
+    "name": "Romsås senter",
+    "latitude": 59.964662,
+    "longitude": 10.895318
+  },
+  {
+    "id": "NSR:StopPlace:5775",
+    "name": "Tjonerudveien",
+    "latitude": 59.952305,
+    "longitude": 10.938266
+  },
+  {
+    "id": "NSR:StopPlace:5776",
+    "name": "Sværsvann",
+    "latitude": 59.818393,
+    "longitude": 10.887426
+  },
+  {
+    "id": "NSR:StopPlace:5773",
+    "name": "Fjellstuveien",
+    "latitude": 59.949986,
+    "longitude": 10.93832
+  },
+  {
+    "id": "NSR:StopPlace:5774",
+    "name": "Sværsvann bru",
+    "latitude": 59.81777,
+    "longitude": 10.889903
+  },
+  {
+    "id": "NSR:StopPlace:5779",
+    "name": "Engersbråten",
+    "latitude": 59.81411,
+    "longitude": 10.882205
+  },
+  {
+    "id": "NSR:StopPlace:5777",
+    "name": "Stovnerbakken",
+    "latitude": 59.954683,
+    "longitude": 10.935709
+  },
+  {
+    "id": "NSR:StopPlace:5739",
+    "name": "Rommi",
+    "latitude": 59.96669,
+    "longitude": 10.908031
+  },
+  {
+    "id": "NSR:StopPlace:5737",
+    "name": "Jacobine Ryes vei",
+    "latitude": 59.966259,
+    "longitude": 10.918791
+  },
+  {
+    "id": "NSR:StopPlace:5738",
+    "name": "Nyjordet",
+    "latitude": 59.831091,
+    "longitude": 10.837549
+  },
+  {
+    "id": "NSR:StopPlace:5797",
+    "name": "Øvre Svarttjern",
+    "latitude": 59.971897,
+    "longitude": 10.904371
+  },
+  {
+    "id": "NSR:StopPlace:5798",
+    "name": "Lambertseter",
+    "latitude": 59.873572,
+    "longitude": 10.810222
+  },
+  {
+    "id": "NSR:StopPlace:5795",
+    "name": "Røverkollen",
+    "latitude": 59.971822,
+    "longitude": 10.899312
+  },
+  {
+    "id": "NSR:StopPlace:5796",
+    "name": "Karlsrud T",
+    "latitude": 59.879705,
+    "longitude": 10.805825
+  },
+  {
+    "id": "NSR:StopPlace:5492",
+    "name": "Visperud",
+    "latitude": 59.935149,
+    "longitude": 10.935005
+  },
+  {
+    "id": "NSR:StopPlace:5494",
+    "name": "Visperud",
+    "latitude": 59.93652,
+    "longitude": 10.937029
+  },
+  {
+    "id": "NSR:StopPlace:5497",
+    "name": "Lørenskog stasjon",
+    "latitude": 59.944479,
+    "longitude": 10.944906
+  },
+  {
+    "id": "NSR:StopPlace:5489",
+    "name": "Løkenåsfaret",
+    "latitude": 59.918594,
+    "longitude": 10.962263
+  },
+  {
+    "id": "NSR:StopPlace:5482",
+    "name": "Røykås",
+    "latitude": 59.921438,
+    "longitude": 10.931974
+  },
+  {
+    "id": "NSR:StopPlace:5484",
+    "name": "Sønnaveien",
+    "latitude": 59.915514,
+    "longitude": 10.929015
+  },
+  {
+    "id": "NSR:StopPlace:5486",
+    "name": "Kleiva sør",
+    "latitude": 59.914068,
+    "longitude": 10.927736
+  },
+  {
+    "id": "NSR:StopPlace:5477",
+    "name": "Njåls vei",
+    "latitude": 59.933317,
+    "longitude": 10.935253
+  },
+  {
+    "id": "NSR:StopPlace:5479",
+    "name": "Røykås nordre",
+    "latitude": 59.928832,
+    "longitude": 10.931606
+  },
+  {
+    "id": "NSR:StopPlace:5401",
+    "name": "Sørlihavna",
+    "latitude": 59.919643,
+    "longitude": 10.97716
+  },
+  {
+    "id": "NSR:StopPlace:5403",
+    "name": "Triaden",
+    "latitude": 59.918366,
+    "longitude": 10.95415
+  },
+  {
+    "id": "NSR:StopPlace:5406",
+    "name": "Triaden",
+    "latitude": 59.919606,
+    "longitude": 10.955057
+  },
+  {
+    "id": "NSR:StopPlace:5407",
+    "name": "Vallerudveien",
+    "latitude": 59.918142,
+    "longitude": 10.948723
+  },
+  {
+    "id": "NSR:StopPlace:5409",
+    "name": "Rasta skole",
+    "latitude": 59.919777,
+    "longitude": 10.938864
+  },
+  {
+    "id": "NSR:StopPlace:5431",
+    "name": "Skogveien",
+    "latitude": 59.933988,
+    "longitude": 10.949767
+  },
+  {
+    "id": "NSR:StopPlace:5421",
+    "name": "Tistilveien",
+    "latitude": 59.913296,
+    "longitude": 10.93093
+  },
+  {
+    "id": "NSR:StopPlace:5424",
+    "name": "Kleiva",
+    "latitude": 59.917397,
+    "longitude": 10.929226
+  },
+  {
+    "id": "NSR:StopPlace:5426",
+    "name": "Røykås terrasse",
+    "latitude": 59.924822,
+    "longitude": 10.930534
+  },
+  {
+    "id": "NSR:StopPlace:5429",
+    "name": "Vittenberg",
+    "latitude": 59.93911,
+    "longitude": 10.999715
+  },
+  {
+    "id": "NSR:StopPlace:5412",
+    "name": "Vallerudlia",
+    "latitude": 59.915622,
+    "longitude": 10.934463
+  },
+  {
+    "id": "NSR:StopPlace:5414",
+    "name": "Nordbyhagen",
+    "latitude": 59.936014,
+    "longitude": 10.991102
+  },
+  {
+    "id": "NSR:StopPlace:5419",
+    "name": "Vallerudtoppen",
+    "latitude": 59.91198,
+    "longitude": 10.940578
+  },
+  {
+    "id": "NSR:StopPlace:5451",
+    "name": "Østbyveien",
+    "latitude": 59.926551,
+    "longitude": 10.991639
+  },
+  {
+    "id": "NSR:StopPlace:5446",
+    "name": "Hovelsrudveien",
+    "latitude": 59.929395,
+    "longitude": 10.997776
+  },
+  {
+    "id": "NSR:StopPlace:5435",
+    "name": "Lindeveien",
+    "latitude": 59.939527,
+    "longitude": 10.949179
+  },
+  {
+    "id": "NSR:StopPlace:5433",
+    "name": "Håkons vei",
+    "latitude": 59.935882,
+    "longitude": 10.949205
+  },
+  {
+    "id": "NSR:StopPlace:5439",
+    "name": "Dovre trygdesenter",
+    "latitude": 59.93404,
+    "longitude": 10.97278
+  },
+  {
+    "id": "NSR:StopPlace:5437",
+    "name": "Kloppaveien",
+    "latitude": 59.932873,
+    "longitude": 10.982447
+  },
+  {
+    "id": "NSR:StopPlace:5470",
+    "name": "Rasta senter",
+    "latitude": 59.923539,
+    "longitude": 10.938386
+  },
+  {
+    "id": "NSR:StopPlace:5475",
+    "name": "Røykåsveien",
+    "latitude": 59.928376,
+    "longitude": 10.93517
+  },
+  {
+    "id": "NSR:StopPlace:5466",
+    "name": "Løkenåsveien",
+    "latitude": 59.917889,
+    "longitude": 10.965993
+  },
+  {
+    "id": "NSR:StopPlace:5469",
+    "name": "Glenneveien",
+    "latitude": 59.919417,
+    "longitude": 10.941479
+  },
+  {
+    "id": "NSR:StopPlace:5463",
+    "name": "Sørlitoppen",
+    "latitude": 59.919594,
+    "longitude": 10.973657
+  },
+  {
+    "id": "NSR:StopPlace:5456",
+    "name": "Rolvsrud",
+    "latitude": 59.924246,
+    "longitude": 10.954155
+  },
+  {
+    "id": "NSR:StopPlace:5454",
+    "name": "Lørenskog kirke",
+    "latitude": 59.923934,
+    "longitude": 10.984939
+  },
+  {
+    "id": "NSR:StopPlace:5459",
+    "name": "Skåreråsen",
+    "latitude": 59.921231,
+    "longitude": 10.959278
+  },
+  {
+    "id": "NSR:StopPlace:5599",
+    "name": "Nordre Hovin",
+    "latitude": 59.931211,
+    "longitude": 10.828496
+  },
+  {
+    "id": "NSR:StopPlace:5597",
+    "name": "Skogen",
+    "latitude": 59.85388,
+    "longitude": 10.659909
+  },
+  {
+    "id": "NSR:StopPlace:5522",
+    "name": "Hellerud",
+    "latitude": 59.980591,
+    "longitude": 10.972056
+  },
+  {
+    "id": "NSR:StopPlace:5520",
+    "name": "Svømmehallen",
+    "latitude": 59.961317,
+    "longitude": 10.996212
+  },
+  {
+    "id": "NSR:StopPlace:5527",
+    "name": "Plantasjen",
+    "latitude": 59.981242,
+    "longitude": 10.989053
+  },
+  {
+    "id": "NSR:StopPlace:5524",
+    "name": "Hellerudsletta",
+    "latitude": 59.981454,
+    "longitude": 10.979185
+  },
+  {
+    "id": "NSR:StopPlace:5512",
+    "name": "Skjetten senter",
+    "latitude": 59.967817,
+    "longitude": 10.999085
+  },
+  {
+    "id": "NSR:StopPlace:5543",
+    "name": "Landskronaveien",
+    "latitude": 59.968738,
+    "longitude": 10.992827
+  },
+  {
+    "id": "NSR:StopPlace:5541",
+    "name": "Rikard Nordraaks vei",
+    "latitude": 59.962605,
+    "longitude": 10.994737
+  },
+  {
+    "id": "NSR:StopPlace:5531",
+    "name": "Guldhaug-Tømte",
+    "latitude": 59.960975,
+    "longitude": 10.983177
+  },
+  {
+    "id": "NSR:StopPlace:5583",
+    "name": "Nesoddtangen",
+    "latitude": 59.870887,
+    "longitude": 10.657175
+  },
+  {
+    "id": "NSR:StopPlace:5590",
+    "name": "Tangen terrasse",
+    "latitude": 59.863929,
+    "longitude": 10.662516
+  },
+  {
+    "id": "NSR:StopPlace:5595",
+    "name": "Tangenåsen",
+    "latitude": 59.856389,
+    "longitude": 10.662589
+  },
+  {
+    "id": "NSR:StopPlace:5593",
+    "name": "Nedre Movei",
+    "latitude": 59.866551,
+    "longitude": 10.662022
+  },
+  {
+    "id": "NSR:StopPlace:5587",
+    "name": "Nesoddtangen",
+    "latitude": 59.870676,
+    "longitude": 10.656821
+  },
+  {
+    "id": "NSR:StopPlace:5900",
+    "name": "Ryen",
+    "latitude": 59.895691,
+    "longitude": 10.80488
+  },
+  {
+    "id": "NSR:StopPlace:5901",
+    "name": "Vestbyveien",
+    "latitude": 59.95282,
+    "longitude": 10.890753
+  },
+  {
+    "id": "NSR:StopPlace:5902",
+    "name": "Ryen T",
+    "latitude": 59.895309,
+    "longitude": 10.804539
+  },
+  {
+    "id": "NSR:StopPlace:5903",
+    "name": "Grorud stasjon",
+    "latitude": 59.951306,
+    "longitude": 10.885536
+  },
+  {
+    "id": "NSR:StopPlace:5905",
+    "name": "Økern",
+    "latitude": 59.928244,
+    "longitude": 10.80609
+  },
+  {
+    "id": "NSR:StopPlace:5907",
+    "name": "Økern T",
+    "latitude": 59.928416,
+    "longitude": 10.806762
+  },
+  {
+    "id": "NSR:StopPlace:5908",
+    "name": "Bjørvika",
+    "latitude": 59.908087,
+    "longitude": 10.756836
+  },
+  {
+    "id": "NSR:StopPlace:5909",
+    "name": "Ryenberget",
+    "latitude": 59.897525,
+    "longitude": 10.802618
+  },
+  {
+    "id": "NSR:StopPlace:5800",
+    "name": "Svarttjern",
+    "latitude": 59.969327,
+    "longitude": 10.905618
+  },
+  {
+    "id": "NSR:StopPlace:5801",
+    "name": "Lambertseter T",
+    "latitude": 59.873479,
+    "longitude": 10.810307
+  },
+  {
+    "id": "NSR:StopPlace:5802",
+    "name": "Emanuelfjell",
+    "latitude": 59.966822,
+    "longitude": 10.90039
+  },
+  {
+    "id": "NSR:StopPlace:5803",
+    "name": "Rødtvet",
+    "latitude": 59.951383,
+    "longitude": 10.859271
+  },
+  {
+    "id": "NSR:StopPlace:5804",
+    "name": "Lambertseter senter",
+    "latitude": 59.873447,
+    "longitude": 10.812309
+  },
+  {
+    "id": "NSR:StopPlace:5805",
+    "name": "Rødtvet T",
+    "latitude": 59.950337,
+    "longitude": 10.857056
+  },
+  {
+    "id": "NSR:StopPlace:5809",
+    "name": "Søndre Hellerud",
+    "latitude": 59.871617,
+    "longitude": 10.805615
+  },
+  {
+    "id": "NSR:StopPlace:5807",
+    "name": "Gina Krogs vei",
+    "latitude": 59.875321,
+    "longitude": 10.816101
+  },
+  {
+    "id": "NSR:StopPlace:5821",
+    "name": "Langbølgen",
+    "latitude": 59.865678,
+    "longitude": 10.814422
+  },
+  {
+    "id": "NSR:StopPlace:5822",
+    "name": "Grønlund",
+    "latitude": 59.953949,
+    "longitude": 10.875222
+  },
+  {
+    "id": "NSR:StopPlace:5823",
+    "name": "Bergkrystallen",
+    "latitude": 59.867076,
+    "longitude": 10.821721
+  },
+  {
+    "id": "NSR:StopPlace:5824",
+    "name": "Sagstuveien",
+    "latitude": 59.954149,
+    "longitude": 10.880565
+  },
+  {
+    "id": "NSR:StopPlace:5825",
+    "name": "Bergkrystallen T",
+    "latitude": 59.866646,
+    "longitude": 10.821941
+  },
+  {
+    "id": "NSR:StopPlace:5826",
+    "name": "Grorud skole",
+    "latitude": 59.958267,
+    "longitude": 10.882789
+  },
+  {
+    "id": "NSR:StopPlace:5828",
+    "name": "Blåfjellet",
+    "latitude": 59.869097,
+    "longitude": 10.814899
+  },
+  {
+    "id": "NSR:StopPlace:5829",
+    "name": "Ammerud",
+    "latitude": 59.95827,
+    "longitude": 10.87197
+  },
+  {
+    "id": "NSR:StopPlace:5810",
+    "name": "Kalbakken",
+    "latitude": 59.954565,
+    "longitude": 10.8668
+  },
+  {
+    "id": "NSR:StopPlace:5811",
+    "name": "Lambertseterveien",
+    "latitude": 59.871268,
+    "longitude": 10.807075
+  },
+  {
+    "id": "NSR:StopPlace:5812",
+    "name": "Flaen",
+    "latitude": 59.954632,
+    "longitude": 10.868257
+  },
+  {
+    "id": "NSR:StopPlace:5816",
+    "name": "Munkelia",
+    "latitude": 59.86887,
+    "longitude": 10.812663
+  },
+  {
+    "id": "NSR:StopPlace:5817",
+    "name": "Kalbakkstubben",
+    "latitude": 59.950534,
+    "longitude": 10.86635
+  },
+  {
+    "id": "NSR:StopPlace:5814",
+    "name": "Mylskerudveien",
+    "latitude": 59.874953,
+    "longitude": 10.805311
+  },
+  {
+    "id": "NSR:StopPlace:5815",
+    "name": "Kalbakkveien",
+    "latitude": 59.951492,
+    "longitude": 10.865288
+  },
+  {
+    "id": "NSR:StopPlace:5818",
+    "name": "Munkelia T",
+    "latitude": 59.868224,
+    "longitude": 10.813342
+  },
+  {
+    "id": "NSR:StopPlace:5819",
+    "name": "Nordtvetveien",
+    "latitude": 59.952306,
+    "longitude": 10.870347
+  },
+  {
+    "id": "NSR:StopPlace:5840",
+    "name": "Alundamveien",
+    "latitude": 59.966437,
+    "longitude": 10.870197
+  },
+  {
+    "id": "NSR:StopPlace:5841",
+    "name": "Seterbråten",
+    "latitude": 59.83309,
+    "longitude": 10.827867
+  },
+  {
+    "id": "NSR:StopPlace:5842",
+    "name": "Breisjøgrenda",
+    "latitude": 59.969009,
+    "longitude": 10.871036
+  },
+  {
+    "id": "NSR:StopPlace:5844",
+    "name": "Huken",
+    "latitude": 59.971599,
+    "longitude": 10.874024
+  },
+  {
+    "id": "NSR:StopPlace:5846",
+    "name": "Ammerudlunden",
+    "latitude": 59.960725,
+    "longitude": 10.872155
+  },
+  {
+    "id": "NSR:StopPlace:5847",
+    "name": "Ulsrud",
+    "latitude": 59.889424,
+    "longitude": 10.849649
+  },
+  {
+    "id": "NSR:StopPlace:5848",
+    "name": "Grorud",
+    "latitude": 59.961425,
+    "longitude": 10.880775
+  },
+  {
+    "id": "NSR:StopPlace:5849",
+    "name": "Ulsrud T",
+    "latitude": 59.889643,
+    "longitude": 10.849225
+  },
+  {
+    "id": "NSR:StopPlace:5830",
+    "name": "Mellombølgen",
+    "latitude": 59.86986,
+    "longitude": 10.815426
+  },
+  {
+    "id": "NSR:StopPlace:5831",
+    "name": "Ammerud T",
+    "latitude": 59.95815,
+    "longitude": 10.870634
+  },
+  {
+    "id": "NSR:StopPlace:5832",
+    "name": "Glimmerveien",
+    "latitude": 59.870331,
+    "longitude": 10.820468
+  },
+  {
+    "id": "NSR:StopPlace:5834",
+    "name": "Feltspatveien",
+    "latitude": 59.873032,
+    "longitude": 10.820664
+  },
+  {
+    "id": "NSR:StopPlace:5835",
+    "name": "Ammerudhellinga",
+    "latitude": 59.962665,
+    "longitude": 10.872447
+  },
+  {
+    "id": "NSR:StopPlace:5833",
+    "name": "Ammerud",
+    "latitude": 59.957911,
+    "longitude": 10.873611
+  },
+  {
+    "id": "NSR:StopPlace:5838",
+    "name": "Ammerud skole",
+    "latitude": 59.964443,
+    "longitude": 10.87172
+  },
+  {
+    "id": "NSR:StopPlace:5839",
+    "name": "Nylænde",
+    "latitude": 59.875749,
+    "longitude": 10.819444
+  },
+  {
+    "id": "NSR:StopPlace:5837",
+    "name": "Marmorveien",
+    "latitude": 59.874561,
+    "longitude": 10.821691
+  },
+  {
+    "id": "NSR:StopPlace:5870",
+    "name": "Bøler eldresenter",
+    "latitude": 59.883337,
+    "longitude": 10.846373
+  },
+  {
+    "id": "NSR:StopPlace:5861",
+    "name": "Hagelundveien",
+    "latitude": 59.965402,
+    "longitude": 10.883543
+  },
+  {
+    "id": "NSR:StopPlace:5862",
+    "name": "Bøler",
+    "latitude": 59.884238,
+    "longitude": 10.84539
+  },
+  {
+    "id": "NSR:StopPlace:5863",
+    "name": "Skogstad",
+    "latitude": 59.967991,
+    "longitude": 10.882004
+  },
+  {
+    "id": "NSR:StopPlace:5864",
+    "name": "Lillomarka barnehage",
+    "latitude": 59.970066,
+    "longitude": 10.876889
+  },
+  {
+    "id": "NSR:StopPlace:5865",
+    "name": "Bøler T",
+    "latitude": 59.883543,
+    "longitude": 10.843903
+  },
+  {
+    "id": "NSR:StopPlace:5867",
+    "name": "Bølerskrenten",
+    "latitude": 59.882908,
+    "longitude": 10.844321
+  },
+  {
+    "id": "NSR:StopPlace:5866",
+    "name": "Bredtvet",
+    "latitude": 59.946134,
+    "longitude": 10.863117
+  },
+  {
+    "id": "NSR:StopPlace:5850",
+    "name": "Grorud T",
+    "latitude": 59.960904,
+    "longitude": 10.882942
+  },
+  {
+    "id": "NSR:StopPlace:5851",
+    "name": "Østbyveien",
+    "latitude": 59.888751,
+    "longitude": 10.843321
+  },
+  {
+    "id": "NSR:StopPlace:5853",
+    "name": "Jøranstien",
+    "latitude": 59.888412,
+    "longitude": 10.836292
+  },
+  {
+    "id": "NSR:StopPlace:5856",
+    "name": "Grorudkrysset",
+    "latitude": 59.959748,
+    "longitude": 10.885694
+  },
+  {
+    "id": "NSR:StopPlace:5857",
+    "name": "Østmarkveien",
+    "latitude": 59.89175,
+    "longitude": 10.854978
+  },
+  {
+    "id": "NSR:StopPlace:5855",
+    "name": "Ulsrudveien",
+    "latitude": 59.89248,
+    "longitude": 10.848821
+  },
+  {
+    "id": "NSR:StopPlace:5858",
+    "name": "Grorud senter",
+    "latitude": 59.961715,
+    "longitude": 10.882288
+  },
+  {
+    "id": "NSR:StopPlace:5859",
+    "name": "Olav Nygards veg",
+    "latitude": 59.888638,
+    "longitude": 10.852258
+  },
+  {
+    "id": "NSR:StopPlace:5891",
+    "name": "Langerudhjemmet",
+    "latitude": 59.869366,
+    "longitude": 10.835847
+  },
+  {
+    "id": "NSR:StopPlace:5892",
+    "name": "Bekkenstenveien",
+    "latitude": 59.953213,
+    "longitude": 10.886048
+  },
+  {
+    "id": "NSR:StopPlace:5885",
+    "name": "Skullerud",
+    "latitude": 59.866545,
+    "longitude": 10.840085
+  },
+  {
+    "id": "NSR:StopPlace:5887",
+    "name": "Skullerud",
+    "latitude": 59.866866,
+    "longitude": 10.839944
+  },
+  {
+    "id": "NSR:StopPlace:5888",
+    "name": "Grorud stasjon",
+    "latitude": 59.951258,
+    "longitude": 10.886196
+  },
+  {
+    "id": "NSR:StopPlace:5889",
+    "name": "Grorud stasjon",
+    "latitude": 59.950026,
+    "longitude": 10.885128
+  },
+  {
+    "id": "NSR:StopPlace:5880",
+    "name": "Stanseveien",
+    "latitude": 59.946832,
+    "longitude": 10.877479
+  },
+  {
+    "id": "NSR:StopPlace:5882",
+    "name": "Skullerudveien",
+    "latitude": 59.867388,
+    "longitude": 10.844159
+  },
+  {
+    "id": "NSR:StopPlace:5872",
+    "name": "Martin Linges vei",
+    "latitude": 59.880368,
+    "longitude": 10.839845
+  },
+  {
+    "id": "NSR:StopPlace:5874",
+    "name": "Bogerud",
+    "latitude": 59.87606,
+    "longitude": 10.842064
+  },
+  {
+    "id": "NSR:StopPlace:5875",
+    "name": "Nedre Kalbakkvei",
+    "latitude": 59.942745,
+    "longitude": 10.858996
+  },
+  {
+    "id": "NSR:StopPlace:5878",
+    "name": "Nyland stasjon",
+    "latitude": 59.944154,
+    "longitude": 10.869993
+  },
+  {
+    "id": "NSR:StopPlace:5879",
+    "name": "Welding Olsens vei",
+    "latitude": 59.870498,
+    "longitude": 10.847312
+  },
+  {
+    "id": "NSR:StopPlace:5877",
+    "name": "Bogerud T",
+    "latitude": 59.875179,
+    "longitude": 10.841964
+  },
+  {
+    "id": "NSR:StopPlace:5895",
+    "name": "Skullerudbakken",
+    "latitude": 59.863953,
+    "longitude": 10.837263
+  },
+  {
+    "id": "NSR:StopPlace:5897",
+    "name": "Skullerudkrysset",
+    "latitude": 59.863551,
+    "longitude": 10.83201
+  },
+  {
+    "id": "NSR:StopPlace:5899",
+    "name": "Vestbyveien",
+    "latitude": 59.953365,
+    "longitude": 10.887819
+  },
+  {
+    "id": "NSR:StopPlace:5920",
+    "name": "Ulven torg",
+    "latitude": 59.92559,
+    "longitude": 10.811818
+  },
+  {
+    "id": "NSR:StopPlace:5922",
+    "name": "Risløkka",
+    "latitude": 59.932473,
+    "longitude": 10.822987
+  },
+  {
+    "id": "NSR:StopPlace:5923",
+    "name": "Manglerud senter",
+    "latitude": 59.896798,
+    "longitude": 10.814195
+  },
+  {
+    "id": "NSR:StopPlace:5924",
+    "name": "Traktorveien",
+    "latitude": 59.900378,
+    "longitude": 10.814382
+  },
+  {
+    "id": "NSR:StopPlace:5925",
+    "name": "Risløkkalléen",
+    "latitude": 59.930959,
+    "longitude": 10.823332
+  },
+  {
+    "id": "NSR:StopPlace:5926",
+    "name": "Manglerudveien",
+    "latitude": 59.899908,
+    "longitude": 10.803375
+  },
+  {
+    "id": "NSR:StopPlace:5928",
+    "name": "Nedre Risløkka",
+    "latitude": 59.930135,
+    "longitude": 10.811833
+  },
+  {
+    "id": "NSR:StopPlace:5929",
+    "name": "Furuveien",
+    "latitude": 59.903443,
+    "longitude": 10.80264
+  },
+  {
+    "id": "NSR:StopPlace:5911",
+    "name": "Ryensvingen",
+    "latitude": 59.8944,
+    "longitude": 10.805961
+  },
+  {
+    "id": "NSR:StopPlace:5914",
+    "name": "Økern aldershjem",
+    "latitude": 59.93255,
+    "longitude": 10.808331
+  },
+  {
+    "id": "NSR:StopPlace:5915",
+    "name": "Sandstuveien",
+    "latitude": 59.891196,
+    "longitude": 10.809791
+  },
+  {
+    "id": "NSR:StopPlace:5917",
+    "name": "Manglerud",
+    "latitude": 59.898015,
+    "longitude": 10.812788
+  },
+  {
+    "id": "NSR:StopPlace:5919",
+    "name": "Manglerud T",
+    "latitude": 59.898123,
+    "longitude": 10.81363
+  },
+  {
+    "id": "NSR:StopPlace:5941",
+    "name": "Kroklia",
+    "latitude": 59.93711,
+    "longitude": 10.819532
+  },
+  {
+    "id": "NSR:StopPlace:5943",
+    "name": "Øvre Risløkka",
+    "latitude": 59.937961,
+    "longitude": 10.82348
+  },
+  {
+    "id": "NSR:StopPlace:5944",
+    "name": "Rognerud",
+    "latitude": 59.901921,
+    "longitude": 10.825349
+  },
+  {
+    "id": "NSR:StopPlace:5945",
+    "name": "Økernbråten",
+    "latitude": 59.939963,
+    "longitude": 10.825063
+  },
+  {
+    "id": "NSR:StopPlace:5946",
+    "name": "Manglerud skole",
+    "latitude": 59.8945,
+    "longitude": 10.820919
+  },
+  {
+    "id": "NSR:StopPlace:5947",
+    "name": "Linderud",
+    "latitude": 59.940986,
+    "longitude": 10.838503
+  },
+  {
+    "id": "NSR:StopPlace:5948",
+    "name": "Skuronnveien",
+    "latitude": 59.891925,
+    "longitude": 10.821828
+  },
+  {
+    "id": "NSR:StopPlace:5930",
+    "name": "Rabbeveien",
+    "latitude": 59.932022,
+    "longitude": 10.813881
+  },
+  {
+    "id": "NSR:StopPlace:5931",
+    "name": "Rugveien",
+    "latitude": 59.89557,
+    "longitude": 10.818349
+  },
+  {
+    "id": "NSR:StopPlace:5932",
+    "name": "Anton Tschudis vei",
+    "latitude": 59.935423,
+    "longitude": 10.815466
+  },
+  {
+    "id": "NSR:StopPlace:5933",
+    "name": "Lundliveien",
+    "latitude": 59.935902,
+    "longitude": 10.811368
+  },
+  {
+    "id": "NSR:StopPlace:5935",
+    "name": "Høyenhall",
+    "latitude": 59.906183,
+    "longitude": 10.819524
+  },
+  {
+    "id": "NSR:StopPlace:5936",
+    "name": "Vollebekk",
+    "latitude": 59.935919,
+    "longitude": 10.831136
+  },
+  {
+    "id": "NSR:StopPlace:5937",
+    "name": "Høyenhall T",
+    "latitude": 59.906911,
+    "longitude": 10.819333
+  },
+  {
+    "id": "NSR:StopPlace:5938",
+    "name": "Vollebekkveien",
+    "latitude": 59.936876,
+    "longitude": 10.825599
+  },
+  {
+    "id": "NSR:StopPlace:5939",
+    "name": "Bryn senter",
+    "latitude": 59.904626,
+    "longitude": 10.821791
+  },
+  {
+    "id": "NSR:StopPlace:5960",
+    "name": "Veitvetveien",
+    "latitude": 59.940401,
+    "longitude": 10.854854
+  },
+  {
+    "id": "NSR:StopPlace:5963",
+    "name": "Veitvet",
+    "latitude": 59.944551,
+    "longitude": 10.846992
+  },
+  {
+    "id": "NSR:StopPlace:5961",
+    "name": "Bogerudmyra",
+    "latitude": 59.881978,
+    "longitude": 10.833922
+  },
+  {
+    "id": "NSR:StopPlace:5964",
+    "name": "Lille Langerud",
+    "latitude": 59.876185,
+    "longitude": 10.828306
+  },
+  {
+    "id": "NSR:StopPlace:5966",
+    "name": "Langerudveien",
+    "latitude": 59.873769,
+    "longitude": 10.829655
+  },
+  {
+    "id": "NSR:StopPlace:5967",
+    "name": "Veitvetstubben",
+    "latitude": 59.943708,
+    "longitude": 10.841499
+  },
+  {
+    "id": "NSR:StopPlace:5965",
+    "name": "Veitvet",
+    "latitude": 59.945474,
+    "longitude": 10.844843
+  },
+  {
+    "id": "NSR:StopPlace:5968",
+    "name": "Godlia",
+    "latitude": 59.907148,
+    "longitude": 10.835914
+  },
+  {
+    "id": "NSR:StopPlace:5950",
+    "name": "Linderud T",
+    "latitude": 59.941395,
+    "longitude": 10.838548
+  },
+  {
+    "id": "NSR:StopPlace:5951",
+    "name": "Treskeveien",
+    "latitude": 59.889118,
+    "longitude": 10.817973
+  },
+  {
+    "id": "NSR:StopPlace:5952",
+    "name": "Linne hotell",
+    "latitude": 59.93967,
+    "longitude": 10.829521
+  },
+  {
+    "id": "NSR:StopPlace:5953",
+    "name": "Abildsø",
+    "latitude": 59.879916,
+    "longitude": 10.825983
+  },
+  {
+    "id": "NSR:StopPlace:5954",
+    "name": "Nedre Vollebekk",
+    "latitude": 59.933637,
+    "longitude": 10.827497
+  },
+  {
+    "id": "NSR:StopPlace:5956",
+    "name": "Smedberg",
+    "latitude": 59.884468,
+    "longitude": 10.818378
+  },
+  {
+    "id": "NSR:StopPlace:5957",
+    "name": "Siemens",
+    "latitude": 59.937978,
+    "longitude": 10.837374
+  },
+  {
+    "id": "NSR:StopPlace:5958",
+    "name": "Alléen",
+    "latitude": 59.888132,
+    "longitude": 10.814404
+  },
+  {
+    "id": "NSR:StopPlace:5959",
+    "name": "Vollebekk",
+    "latitude": 59.93602,
+    "longitude": 10.833109
+  },
+  {
+    "id": "NSR:StopPlace:5991",
+    "name": "Oppsal kirke",
+    "latitude": 59.900853,
+    "longitude": 10.841977
+  },
+  {
+    "id": "NSR:StopPlace:5990",
+    "name": "Refstadsvingen",
+    "latitude": 59.941752,
+    "longitude": 10.81689
+  },
+  {
+    "id": "NSR:StopPlace:5982",
+    "name": "Persveien",
+    "latitude": 59.922818,
+    "longitude": 10.816344
+  },
+  {
+    "id": "NSR:StopPlace:5985",
+    "name": "Travbanen",
+    "latitude": 59.942212,
+    "longitude": 10.811735
+  },
+  {
+    "id": "NSR:StopPlace:5983",
+    "name": "Solhøgda",
+    "latitude": 59.901395,
+    "longitude": 10.847374
+  },
+  {
+    "id": "NSR:StopPlace:5986",
+    "name": "Oppsal skole",
+    "latitude": 59.897344,
+    "longitude": 10.845676
+  },
+  {
+    "id": "NSR:StopPlace:5988",
+    "name": "Østensjø skole",
+    "latitude": 59.899209,
+    "longitude": 10.83227
+  },
+  {
+    "id": "NSR:StopPlace:5980",
+    "name": "Haraldrudveien",
+    "latitude": 59.924476,
+    "longitude": 10.825681
+  },
+  {
+    "id": "NSR:StopPlace:5981",
+    "name": "Skøyenlia",
+    "latitude": 59.902051,
+    "longitude": 10.841116
+  },
+  {
+    "id": "NSR:StopPlace:5971",
+    "name": "Skøyenåsen",
+    "latitude": 59.899003,
+    "longitude": 10.836647
+  },
+  {
+    "id": "NSR:StopPlace:5972",
+    "name": "Linderudsletta",
+    "latitude": 59.944204,
+    "longitude": 10.835776
+  },
+  {
+    "id": "NSR:StopPlace:5973",
+    "name": "Skøyenåsen T",
+    "latitude": 59.900554,
+    "longitude": 10.836283
+  },
+  {
+    "id": "NSR:StopPlace:5974",
+    "name": "Linderud senter",
+    "latitude": 59.943705,
+    "longitude": 10.836749
+  },
+  {
+    "id": "NSR:StopPlace:5975",
+    "name": "Skøyenkroken",
+    "latitude": 59.8977,
+    "longitude": 10.83804
+  },
+  {
+    "id": "NSR:StopPlace:5976",
+    "name": "Øvre Lunden",
+    "latitude": 59.943153,
+    "longitude": 10.828973
+  },
+  {
+    "id": "NSR:StopPlace:5978",
+    "name": "Kolåsbakken",
+    "latitude": 59.94441,
+    "longitude": 10.832118
+  },
+  {
+    "id": "NSR:StopPlace:5979",
+    "name": "Skøyenåsveien",
+    "latitude": 59.899106,
+    "longitude": 10.840899
+  },
+  {
+    "id": "NSR:StopPlace:5995",
+    "name": "Oppsal senter",
+    "latitude": 59.893052,
+    "longitude": 10.840537
+  },
+  {
+    "id": "NSR:StopPlace:5996",
+    "name": "Brobekk",
+    "latitude": 59.94416,
+    "longitude": 10.817589
+  },
+  {
+    "id": "NSR:StopPlace:5993",
+    "name": "Bjerkedalen park",
+    "latitude": 59.940348,
+    "longitude": 10.82215
+  },
+  {
+    "id": "NSR:StopPlace:5994",
+    "name": "Oppsal",
+    "latitude": 59.89291,
+    "longitude": 10.840011
+  },
+  {
+    "id": "NSR:StopPlace:5999",
+    "name": "Årvoll senter",
+    "latitude": 59.944805,
+    "longitude": 10.808356
+  },
+  {
+    "id": "NSR:StopPlace:5997",
+    "name": "Løypeveien",
+    "latitude": 59.896345,
+    "longitude": 10.841694
+  },
+  {
+    "id": "NSR:StopPlace:58100",
+    "name": "Hjortnes",
+    "latitude": 59.910091,
+    "longitude": 10.710329
+  },
+  {
+    "id": "NSR:StopPlace:58162",
+    "name": "Fougners vei",
+    "latitude": 59.924802,
+    "longitude": 10.781208
+  },
+  {
+    "id": "NSR:StopPlace:58163",
+    "name": "Løren",
+    "latitude": 59.929823,
+    "longitude": 10.790303
+  },
+  {
+    "id": "NSR:StopPlace:58161",
+    "name": "Prost Hallings vei",
+    "latitude": 59.916345,
+    "longitude": 10.819991
+  },
+  {
+    "id": "NSR:StopPlace:58175",
+    "name": "Rådhusbrygge 3",
+    "latitude": 59.910649,
+    "longitude": 10.731717
+  },
+  {
+    "id": "NSR:StopPlace:58013",
+    "name": "Åsland",
+    "latitude": 59.818722,
+    "longitude": 10.847728
+  },
+  {
+    "id": "NSR:StopPlace:58074",
+    "name": "Vippetangen ferjeterminal",
+    "latitude": 59.903172,
+    "longitude": 10.743095
+  },
+  {
+    "id": "NSR:StopPlace:60030",
+    "name": "Inkognitogata",
+    "latitude": 59.915899,
+    "longitude": 10.721202
+  },
+  {
+    "id": "NSR:StopPlace:60032",
+    "name": "Riddervolds plass",
+    "latitude": 59.918951,
+    "longitude": 10.720202
+  },
+  {
+    "id": "NSR:StopPlace:60035",
+    "name": "Rosenborg",
+    "latitude": 59.924205,
+    "longitude": 10.723836
+  },
+  {
+    "id": "NSR:StopPlace:60033",
+    "name": "Briskeby",
+    "latitude": 59.920076,
+    "longitude": 10.71796
+  },
+  {
+    "id": "NSR:StopPlace:58408",
+    "name": "Nakkholmen varebrygga",
+    "latitude": 59.891469,
+    "longitude": 10.693096
+  },
+  {
+    "id": "NSR:StopPlace:58311",
+    "name": "Skillebekk",
+    "latitude": 59.912815,
+    "longitude": 10.711061
+  },
+  {
+    "id": "NSR:StopPlace:58312",
+    "name": "Skarpsno",
+    "latitude": 59.914348,
+    "longitude": 10.702357
+  },
+  {
+    "id": "NSR:StopPlace:60158",
+    "name": "Oslo Tollbugata",
+    "latitude": 59.90903,
+    "longitude": 10.748819
+  },
+  {
+    "id": "NSR:StopPlace:60178",
+    "name": "Steilene",
+    "latitude": 59.816328,
+    "longitude": 10.615451
+  },
+  {
+    "id": "NSR:StopPlace:167",
+    "name": "Haugenstua stasjon",
+    "latitude": 59.951563,
+    "longitude": 10.908195
+  },
+  {
+    "id": "NSR:StopPlace:163",
+    "name": "Lørenskog stasjon",
+    "latitude": 59.944815,
+    "longitude": 10.94521
+  },
+  {
+    "id": "NSR:StopPlace:157",
+    "name": "Lysaker stasjon",
+    "latitude": 59.913446,
+    "longitude": 10.637247
+  },
+  {
+    "id": "NSR:StopPlace:152",
+    "name": "Skøyen stasjon",
+    "latitude": 59.922353,
+    "longitude": 10.678831
+  },
+  {
+    "id": "NSR:StopPlace:153",
+    "name": "Skøyen stasjon",
+    "latitude": 59.921956,
+    "longitude": 10.677136
+  },
+  {
+    "id": "NSR:StopPlace:60512",
+    "name": "Durudveien",
+    "latitude": 59.90974,
+    "longitude": 10.543115
+  },
+  {
+    "id": "NSR:StopPlace:60513",
+    "name": "Frøys vei",
+    "latitude": 59.911158,
+    "longitude": 10.550953
+  },
+  {
+    "id": "NSR:StopPlace:64014",
+    "name": "Sommerro",
+    "latitude": 59.829234,
+    "longitude": 10.830366
+  },
+  {
+    "id": "NSR:StopPlace:64015",
+    "name": "Nationaltheatret",
+    "latitude": 59.915152,
+    "longitude": 10.73062
+  },
+  {
+    "id": "NSR:StopPlace:64016",
+    "name": "Oslo Hospital",
+    "latitude": 59.903121,
+    "longitude": 10.767495
+  },
+  {
+    "id": "NSR:StopPlace:433",
+    "name": "Ljan stasjon",
+    "latitude": 59.852688,
+    "longitude": 10.784618
+  },
+  {
+    "id": "NSR:StopPlace:437",
+    "name": "Ljan stasjon",
+    "latitude": 59.852803,
+    "longitude": 10.784765
+  },
+  {
+    "id": "NSR:StopPlace:498",
+    "name": "Blommenholm stasjon",
+    "latitude": 59.896794,
+    "longitude": 10.554557
+  },
+  {
+    "id": "NSR:StopPlace:493",
+    "name": "Blommenholm stasjon",
+    "latitude": 59.897268,
+    "longitude": 10.555106
+  },
+  {
+    "id": "NSR:StopPlace:58981",
+    "name": "Fossum snuplass",
+    "latitude": 59.961213,
+    "longitude": 10.621448
+  },
+  {
+    "id": "NSR:StopPlace:60221",
+    "name": "Wilses vei",
+    "latitude": 59.929376,
+    "longitude": 10.62313
+  },
+  {
+    "id": "NSR:StopPlace:60222",
+    "name": "Ruglandveien",
+    "latitude": 59.94534,
+    "longitude": 10.631421
+  },
+  {
+    "id": "NSR:StopPlace:60223",
+    "name": "Ringhøyden seniorsenter",
+    "latitude": 59.916421,
+    "longitude": 10.595341
+  },
+  {
+    "id": "NSR:StopPlace:60224",
+    "name": "Kalkbrennerveien",
+    "latitude": 59.932643,
+    "longitude": 10.585998
+  },
+  {
+    "id": "NSR:StopPlace:60225",
+    "name": "Grevlingbakken",
+    "latitude": 59.939541,
+    "longitude": 10.58901
+  },
+  {
+    "id": "NSR:StopPlace:60226",
+    "name": "Sørhalla",
+    "latitude": 59.90975,
+    "longitude": 10.554374
+  },
+  {
+    "id": "NSR:StopPlace:60227",
+    "name": "Solbergbekken",
+    "latitude": 59.90541,
+    "longitude": 10.543359
+  },
+  {
+    "id": "NSR:StopPlace:60228",
+    "name": "Conradis vei",
+    "latitude": 59.902401,
+    "longitude": 10.531619
+  },
+  {
+    "id": "NSR:StopPlace:60246",
+    "name": "Bislett",
+    "latitude": 59.924934,
+    "longitude": 10.730242
+  },
+  {
+    "id": "NSR:StopPlace:60237",
+    "name": "Oslo bussterminal",
+    "latitude": 59.911557,
+    "longitude": 10.761925
+  },
+  {
+    "id": "NSR:StopPlace:529",
+    "name": "Bryn stasjon",
+    "latitude": 59.90836,
+    "longitude": 10.81861
+  },
+  {
+    "id": "NSR:StopPlace:530",
+    "name": "Kjelsås stasjon",
+    "latitude": 59.966081,
+    "longitude": 10.783277
+  },
+  {
+    "id": "NSR:StopPlace:533",
+    "name": "Bryn stasjon",
+    "latitude": 59.908811,
+    "longitude": 10.817931
+  },
+  {
+    "id": "NSR:StopPlace:60290",
+    "name": "Fyrstikktorget",
+    "latitude": 59.913954,
+    "longitude": 10.799968
+  },
+  {
+    "id": "NSR:StopPlace:572",
+    "name": "Kolbotn stasjon",
+    "latitude": 59.810923,
+    "longitude": 10.800822
+  },
+  {
+    "id": "NSR:StopPlace:288",
+    "name": "Nationaltheatret stasjon",
+    "latitude": 59.91539,
+    "longitude": 10.728133
+  },
+  {
+    "id": "NSR:StopPlace:281",
+    "name": "Nordstrand stasjon",
+    "latitude": 59.864128,
+    "longitude": 10.785913
+  },
+  {
+    "id": "NSR:StopPlace:287",
+    "name": "Hauketo stasjon",
+    "latitude": 59.845877,
+    "longitude": 10.802873
+  },
+  {
+    "id": "NSR:StopPlace:279",
+    "name": "Nordstrand stasjon",
+    "latitude": 59.863731,
+    "longitude": 10.785608
+  },
+  {
+    "id": "NSR:StopPlace:290",
+    "name": "Nationaltheatret stasjon",
+    "latitude": 59.914722,
+    "longitude": 10.730708
+  },
+  {
+    "id": "NSR:StopPlace:60321",
+    "name": "Tullinløkka",
+    "latitude": 59.916838,
+    "longitude": 10.737124
+  },
+  {
+    "id": "NSR:StopPlace:202",
+    "name": "Holmlia stasjon",
+    "latitude": 59.835163,
+    "longitude": 10.797166
+  },
+  {
+    "id": "NSR:StopPlace:208",
+    "name": "Fjellhamar stasjon",
+    "latitude": 59.940709,
+    "longitude": 10.981768
+  },
+  {
+    "id": "NSR:StopPlace:212",
+    "name": "Fjellhamar stasjon",
+    "latitude": 59.939265,
+    "longitude": 10.981361
+  },
+  {
+    "id": "NSR:StopPlace:60978",
+    "name": "Majorstuen",
+    "latitude": 59.928617,
+    "longitude": 10.716197
+  },
+  {
+    "id": "NSR:StopPlace:301",
+    "name": "Nydalen stasjon",
+    "latitude": 59.951739,
+    "longitude": 10.771783
+  },
+  {
+    "id": "NSR:StopPlace:303",
+    "name": "Høvik stasjon",
+    "latitude": 59.901072,
+    "longitude": 10.582718
+  },
+  {
+    "id": "NSR:StopPlace:305",
+    "name": "Nyland stasjon",
+    "latitude": 59.943941,
+    "longitude": 10.871645
+  },
+  {
+    "id": "NSR:StopPlace:308",
+    "name": "Høvik stasjon",
+    "latitude": 59.901266,
+    "longitude": 10.58448
+  },
+  {
+    "id": "NSR:StopPlace:313",
+    "name": "Høybråten stasjon",
+    "latitude": 59.948092,
+    "longitude": 10.927655
+  },
+  {
+    "id": "NSR:StopPlace:317",
+    "name": "Høybråten Stovnerbakken",
+    "latitude": 59.950922,
+    "longitude": 10.929383
+  },
+  {
+    "id": "NSR:StopPlace:343",
+    "name": "Grefsen stasjon",
+    "latitude": 59.941666,
+    "longitude": 10.78064
+  },
+  {
+    "id": "NSR:StopPlace:337",
+    "name": "Oslo S",
+    "latitude": 59.910925,
+    "longitude": 10.753276
+  },
+  {
+    "id": "NSR:StopPlace:339",
+    "name": "Tøyen stasjon",
+    "latitude": 59.920895,
+    "longitude": 10.780583
+  },
+  {
+    "id": "NSR:StopPlace:363",
+    "name": "Grorud stasjon",
+    "latitude": 59.949691,
+    "longitude": 10.886181
+  },
+  {
+    "id": "NSR:StopPlace:359",
+    "name": "Grorud stasjon",
+    "latitude": 59.949755,
+    "longitude": 10.887813
+  },
+  {
+    "id": "NSR:StopPlace:389",
+    "name": "Alna stasjon",
+    "latitude": 59.931251,
+    "longitude": 10.833684
+  },
+  {
+    "id": "NSR:StopPlace:385",
+    "name": "Alna stasjon",
+    "latitude": 59.932421,
+    "longitude": 10.835269
+  },
+  {
+    "id": "NSR:StopPlace:60760",
+    "name": "Torshov",
+    "latitude": 59.934428,
+    "longitude": 10.76367
+  },
+  {
+    "id": "NSR:StopPlace:60757",
+    "name": "Industrigata",
+    "latitude": 59.92481,
+    "longitude": 10.718912
+  },
+  {
+    "id": "NSR:StopPlace:6101",
+    "name": "Teisenkrysset",
+    "latitude": 59.917376,
+    "longitude": 10.811134
+  },
+  {
+    "id": "NSR:StopPlace:6102",
+    "name": "Grefsenkollveien",
+    "latitude": 59.951376,
+    "longitude": 10.795905
+  },
+  {
+    "id": "NSR:StopPlace:6100",
+    "name": "Akebakken",
+    "latitude": 59.952641,
+    "longitude": 10.797167
+  },
+  {
+    "id": "NSR:StopPlace:6123",
+    "name": "Ole Deviks vei",
+    "latitude": 59.922979,
+    "longitude": 10.831026
+  },
+  {
+    "id": "NSR:StopPlace:6124",
+    "name": "Kjelsås",
+    "latitude": 59.964197,
+    "longitude": 10.784881
+  },
+  {
+    "id": "NSR:StopPlace:6121",
+    "name": "Kjelsås stasjon",
+    "latitude": 59.965662,
+    "longitude": 10.782258
+  },
+  {
+    "id": "NSR:StopPlace:6122",
+    "name": "Fjellhus",
+    "latitude": 59.920929,
+    "longitude": 10.825235
+  },
+  {
+    "id": "NSR:StopPlace:6116",
+    "name": "Rønningen",
+    "latitude": 59.966741,
+    "longitude": 10.795548
+  },
+  {
+    "id": "NSR:StopPlace:6114",
+    "name": "Bryn skole",
+    "latitude": 59.913863,
+    "longitude": 10.824561
+  },
+  {
+    "id": "NSR:StopPlace:6118",
+    "name": "Rundhaugen",
+    "latitude": 59.968584,
+    "longitude": 10.795835
+  },
+  {
+    "id": "NSR:StopPlace:6119",
+    "name": "Ulvenkrysset",
+    "latitude": 59.919128,
+    "longitude": 10.816731
+  },
+  {
+    "id": "NSR:StopPlace:706",
+    "name": "Stabekk stasjon",
+    "latitude": 59.90803,
+    "longitude": 10.607257
+  },
+  {
+    "id": "NSR:StopPlace:707",
+    "name": "Stabekk stasjon",
+    "latitude": 59.908195,
+    "longitude": 10.607771
+  },
+  {
+    "id": "NSR:StopPlace:6110",
+    "name": "Kirketomta",
+    "latitude": 59.960037,
+    "longitude": 10.797506
+  },
+  {
+    "id": "NSR:StopPlace:6111",
+    "name": "Klosterheim",
+    "latitude": 59.912937,
+    "longitude": 10.821797
+  },
+  {
+    "id": "NSR:StopPlace:6112",
+    "name": "Gulldalen",
+    "latitude": 59.962626,
+    "longitude": 10.795897
+  },
+  {
+    "id": "NSR:StopPlace:6113",
+    "name": "Heia",
+    "latitude": 59.964951,
+    "longitude": 10.796231
+  },
+  {
+    "id": "NSR:StopPlace:6103",
+    "name": "Valle Hovin",
+    "latitude": 59.918768,
+    "longitude": 10.808514
+  },
+  {
+    "id": "NSR:StopPlace:6104",
+    "name": "Grefsenseteren",
+    "latitude": 59.955393,
+    "longitude": 10.798542
+  },
+  {
+    "id": "NSR:StopPlace:6108",
+    "name": "Trollveiskrysset",
+    "latitude": 59.958423,
+    "longitude": 10.798198
+  },
+  {
+    "id": "NSR:StopPlace:6109",
+    "name": "Tveten bru",
+    "latitude": 59.912822,
+    "longitude": 10.824521
+  },
+  {
+    "id": "NSR:StopPlace:6140",
+    "name": "Hellerud",
+    "latitude": 59.910065,
+    "longitude": 10.82985
+  },
+  {
+    "id": "NSR:StopPlace:6141",
+    "name": "Grefsenlia",
+    "latitude": 59.950597,
+    "longitude": 10.796825
+  },
+  {
+    "id": "NSR:StopPlace:6142",
+    "name": "Hellerud",
+    "latitude": 59.910475,
+    "longitude": 10.831613
+  },
+  {
+    "id": "NSR:StopPlace:6143",
+    "name": "Frysja",
+    "latitude": 59.966794,
+    "longitude": 10.773956
+  },
+  {
+    "id": "NSR:StopPlace:6145",
+    "name": "Tveten gård",
+    "latitude": 59.911382,
+    "longitude": 10.837313
+  },
+  {
+    "id": "NSR:StopPlace:6146",
+    "name": "Stillatorvet",
+    "latitude": 59.966148,
+    "longitude": 10.776762
+  },
+  {
+    "id": "NSR:StopPlace:6137",
+    "name": "Lyngåsveien",
+    "latitude": 59.956375,
+    "longitude": 10.788671
+  },
+  {
+    "id": "NSR:StopPlace:6139",
+    "name": "Brannvaktveien",
+    "latitude": 59.953289,
+    "longitude": 10.792394
+  },
+  {
+    "id": "NSR:StopPlace:6130",
+    "name": "Grefsen stadion",
+    "latitude": 59.96012,
+    "longitude": 10.784798
+  },
+  {
+    "id": "NSR:StopPlace:6134",
+    "name": "Grefsen stadion",
+    "latitude": 59.96011,
+    "longitude": 10.784704
+  },
+  {
+    "id": "NSR:StopPlace:6125",
+    "name": "Kjelsåsalléen",
+    "latitude": 59.963117,
+    "longitude": 10.784122
+  },
+  {
+    "id": "NSR:StopPlace:6126",
+    "name": "Caspar Storms vei",
+    "latitude": 59.919765,
+    "longitude": 10.829875
+  },
+  {
+    "id": "NSR:StopPlace:6128",
+    "name": "Kjelsåsalléen",
+    "latitude": 59.963134,
+    "longitude": 10.783068
+  },
+  {
+    "id": "NSR:StopPlace:6129",
+    "name": "Fretex",
+    "latitude": 59.916899,
+    "longitude": 10.827039
+  },
+  {
+    "id": "NSR:StopPlace:6162",
+    "name": "Solvang",
+    "latitude": 59.953919,
+    "longitude": 10.728501
+  },
+  {
+    "id": "NSR:StopPlace:6163",
+    "name": "Tveita",
+    "latitude": 59.913994,
+    "longitude": 10.842189
+  },
+  {
+    "id": "NSR:StopPlace:6164",
+    "name": "Ullevål stadion",
+    "latitude": 59.949713,
+    "longitude": 10.731368
+  },
+  {
+    "id": "NSR:StopPlace:6165",
+    "name": "Tveita T",
+    "latitude": 59.913908,
+    "longitude": 10.842383
+  },
+  {
+    "id": "NSR:StopPlace:6166",
+    "name": "Ullevål stadion T",
+    "latitude": 59.947221,
+    "longitude": 10.732782
+  },
+  {
+    "id": "NSR:StopPlace:6167",
+    "name": "Tveita",
+    "latitude": 59.913641,
+    "longitude": 10.84394
+  },
+  {
+    "id": "NSR:StopPlace:6168",
+    "name": "Berg",
+    "latitude": 59.951225,
+    "longitude": 10.744663
+  },
+  {
+    "id": "NSR:StopPlace:6158",
+    "name": "Blindern vgs.",
+    "latitude": 59.951129,
+    "longitude": 10.728831
+  },
+  {
+    "id": "NSR:StopPlace:6159",
+    "name": "Nåkkves vei",
+    "latitude": 59.91827,
+    "longitude": 10.846073
+  },
+  {
+    "id": "NSR:StopPlace:6148",
+    "name": "Brekke",
+    "latitude": 59.96919,
+    "longitude": 10.774468
+  },
+  {
+    "id": "NSR:StopPlace:6149",
+    "name": "Ullevål stadion",
+    "latitude": 59.946816,
+    "longitude": 10.7322
+  },
+  {
+    "id": "NSR:StopPlace:610",
+    "name": "Sandvika stasjon",
+    "latitude": 59.892903,
+    "longitude": 10.525746
+  },
+  {
+    "id": "NSR:StopPlace:6180",
+    "name": "Haugerud",
+    "latitude": 59.922196,
+    "longitude": 10.854619
+  },
+  {
+    "id": "NSR:StopPlace:6181",
+    "name": "Tåsen senter",
+    "latitude": 59.952018,
+    "longitude": 10.750758
+  },
+  {
+    "id": "NSR:StopPlace:6182",
+    "name": "Haugerud T",
+    "latitude": 59.921944,
+    "longitude": 10.854978
+  },
+  {
+    "id": "NSR:StopPlace:6184",
+    "name": "Haugerudveien",
+    "latitude": 59.918038,
+    "longitude": 10.850941
+  },
+  {
+    "id": "NSR:StopPlace:6185",
+    "name": "Bergrådveien",
+    "latitude": 59.953254,
+    "longitude": 10.757214
+  },
+  {
+    "id": "NSR:StopPlace:6186",
+    "name": "Øvre Stabburvei",
+    "latitude": 59.954065,
+    "longitude": 10.760805
+  },
+  {
+    "id": "NSR:StopPlace:6189",
+    "name": "Haugerudhagan",
+    "latitude": 59.918228,
+    "longitude": 10.849708
+  },
+  {
+    "id": "NSR:StopPlace:648",
+    "name": "Slependen stasjon",
+    "latitude": 59.885628,
+    "longitude": 10.502743
+  },
+  {
+    "id": "NSR:StopPlace:6170",
+    "name": "Berg",
+    "latitude": 59.951905,
+    "longitude": 10.74381
+  },
+  {
+    "id": "NSR:StopPlace:6172",
+    "name": "Tveita bedriftsområde",
+    "latitude": 59.915925,
+    "longitude": 10.84853
+  },
+  {
+    "id": "NSR:StopPlace:6174",
+    "name": "Stordamveien",
+    "latitude": 59.911096,
+    "longitude": 10.846899
+  },
+  {
+    "id": "NSR:StopPlace:6175",
+    "name": "Østhellinga",
+    "latitude": 59.94739,
+    "longitude": 10.749528
+  },
+  {
+    "id": "NSR:StopPlace:6178",
+    "name": "Postkassene",
+    "latitude": 59.912292,
+    "longitude": 10.851358
+  },
+  {
+    "id": "NSR:StopPlace:6179",
+    "name": "Tåsen",
+    "latitude": 59.953654,
+    "longitude": 10.752383
+  },
+  {
+    "id": "NSR:StopPlace:6177",
+    "name": "Tåsen allé",
+    "latitude": 59.944156,
+    "longitude": 10.748376
+  },
+  {
+    "id": "NSR:StopPlace:6190",
+    "name": "Blåsbortveien",
+    "latitude": 59.950826,
+    "longitude": 10.760941
+  },
+  {
+    "id": "NSR:StopPlace:6192",
+    "name": "Solfjellet",
+    "latitude": 59.920412,
+    "longitude": 10.86138
+  },
+  {
+    "id": "NSR:StopPlace:6193",
+    "name": "Godals vei",
+    "latitude": 59.947617,
+    "longitude": 10.76003
+  },
+  {
+    "id": "NSR:StopPlace:6194",
+    "name": "Larsbråten",
+    "latitude": 59.916041,
+    "longitude": 10.860892
+  },
+  {
+    "id": "NSR:StopPlace:6196",
+    "name": "Østhorn",
+    "latitude": 59.956649,
+    "longitude": 10.750155
+  },
+  {
+    "id": "NSR:StopPlace:6197",
+    "name": "Trosterud",
+    "latitude": 59.927175,
+    "longitude": 10.865165
+  },
+  {
+    "id": "NSR:StopPlace:6199",
+    "name": "Havnabakken",
+    "latitude": 59.959224,
+    "longitude": 10.75421
+  },
+  {
+    "id": "NSR:StopPlace:651",
+    "name": "Slependen stasjon",
+    "latitude": 59.885595,
+    "longitude": 10.502321
+  },
+  {
+    "id": "NSR:StopPlace:680",
+    "name": "Solbråtan stasjon",
+    "latitude": 59.800978,
+    "longitude": 10.804343
+  },
+  {
+    "id": "NSR:StopPlace:6220",
+    "name": "Korsvollbakken",
+    "latitude": 59.958078,
+    "longitude": 10.762451
+  },
+  {
+    "id": "NSR:StopPlace:6221",
+    "name": "Rundtjernveien",
+    "latitude": 59.915268,
+    "longitude": 10.850634
+  },
+  {
+    "id": "NSR:StopPlace:6223",
+    "name": "Korsvoll",
+    "latitude": 59.962439,
+    "longitude": 10.765523
+  },
+  {
+    "id": "NSR:StopPlace:6213",
+    "name": "Kringsjå",
+    "latitude": 59.964098,
+    "longitude": 10.734257
+  },
+  {
+    "id": "NSR:StopPlace:6214",
+    "name": "Trasop skole",
+    "latitude": 59.904148,
+    "longitude": 10.851185
+  },
+  {
+    "id": "NSR:StopPlace:6216",
+    "name": "Sognsvann",
+    "latitude": 59.96732,
+    "longitude": 10.733915
+  },
+  {
+    "id": "NSR:StopPlace:6217",
+    "name": "Hellerudfaret",
+    "latitude": 59.905547,
+    "longitude": 10.851217
+  },
+  {
+    "id": "NSR:StopPlace:6218",
+    "name": "Skibakken",
+    "latitude": 59.959281,
+    "longitude": 10.764164
+  },
+  {
+    "id": "NSR:StopPlace:6219",
+    "name": "Trasoppveien",
+    "latitude": 59.910488,
+    "longitude": 10.848463
+  },
+  {
+    "id": "NSR:StopPlace:6210",
+    "name": "Nordbergveien",
+    "latitude": 59.957684,
+    "longitude": 10.732796
+  },
+  {
+    "id": "NSR:StopPlace:6211",
+    "name": "Kringsjå",
+    "latitude": 59.963706,
+    "longitude": 10.734925
+  },
+  {
+    "id": "NSR:StopPlace:6212",
+    "name": "Ole Messelts vei",
+    "latitude": 59.924622,
+    "longitude": 10.872176
+  },
+  {
+    "id": "NSR:StopPlace:6202",
+    "name": "Haukåsen skole",
+    "latitude": 59.92237,
+    "longitude": 10.863531
+  },
+  {
+    "id": "NSR:StopPlace:6203",
+    "name": "Nordberghjemmet",
+    "latitude": 59.961358,
+    "longitude": 10.744562
+  },
+  {
+    "id": "NSR:StopPlace:6204",
+    "name": "Fagerholt",
+    "latitude": 59.923537,
+    "longitude": 10.867671
+  },
+  {
+    "id": "NSR:StopPlace:6205",
+    "name": "Holstein",
+    "latitude": 59.960587,
+    "longitude": 10.74041
+  },
+  {
+    "id": "NSR:StopPlace:6207",
+    "name": "Lutvann skole",
+    "latitude": 59.925747,
+    "longitude": 10.869632
+  },
+  {
+    "id": "NSR:StopPlace:6208",
+    "name": "Kongleveien",
+    "latitude": 59.961183,
+    "longitude": 10.735311
+  },
+  {
+    "id": "NSR:StopPlace:6209",
+    "name": "Lutvannsveien",
+    "latitude": 59.925547,
+    "longitude": 10.872865
+  },
+  {
+    "id": "NSR:StopPlace:6240",
+    "name": "Alnabruveien",
+    "latitude": 59.924013,
+    "longitude": 10.83525
+  },
+  {
+    "id": "NSR:StopPlace:6241",
+    "name": "Risalléen",
+    "latitude": 59.945066,
+    "longitude": 10.704653
+  },
+  {
+    "id": "NSR:StopPlace:6244",
+    "name": "Smalvollveien",
+    "latitude": 59.924485,
+    "longitude": 10.842685
+  },
+  {
+    "id": "NSR:StopPlace:6245",
+    "name": "Vinderen",
+    "latitude": 59.942419,
+    "longitude": 10.704683
+  },
+  {
+    "id": "NSR:StopPlace:6242",
+    "name": "Tittutveien",
+    "latitude": 59.925596,
+    "longitude": 10.843694
+  },
+  {
+    "id": "NSR:StopPlace:6243",
+    "name": "Risbakken",
+    "latitude": 59.943709,
+    "longitude": 10.700136
+  },
+  {
+    "id": "NSR:StopPlace:6237",
+    "name": "Alna senter",
+    "latitude": 59.927573,
+    "longitude": 10.846655
+  },
+  {
+    "id": "NSR:StopPlace:6238",
+    "name": "Steinerud T",
+    "latitude": 59.939138,
+    "longitude": 10.704484
+  },
+  {
+    "id": "NSR:StopPlace:6235",
+    "name": "Frøensalléen",
+    "latitude": 59.935351,
+    "longitude": 10.709865
+  },
+  {
+    "id": "NSR:StopPlace:6236",
+    "name": "Steinerud",
+    "latitude": 59.939135,
+    "longitude": 10.70431
+  },
+  {
+    "id": "NSR:StopPlace:6230",
+    "name": "Grankollveien",
+    "latitude": 59.911686,
+    "longitude": 10.86068
+  },
+  {
+    "id": "NSR:StopPlace:6233",
+    "name": "Frøen",
+    "latitude": 59.934582,
+    "longitude": 10.709103
+  },
+  {
+    "id": "NSR:StopPlace:6234",
+    "name": "Alfaset",
+    "latitude": 59.931087,
+    "longitude": 10.856348
+  },
+  {
+    "id": "NSR:StopPlace:6232",
+    "name": "Landeroveien",
+    "latitude": 59.916022,
+    "longitude": 10.856997
+  },
+  {
+    "id": "NSR:StopPlace:6226",
+    "name": "Hellerudgrenda",
+    "latitude": 59.912897,
+    "longitude": 10.859036
+  },
+  {
+    "id": "NSR:StopPlace:6227",
+    "name": "Brekkekrysset",
+    "latitude": 59.967067,
+    "longitude": 10.766512
+  },
+  {
+    "id": "NSR:StopPlace:6224",
+    "name": "Hellerud terrasse",
+    "latitude": 59.913286,
+    "longitude": 10.856791
+  },
+  {
+    "id": "NSR:StopPlace:6225",
+    "name": "Brekkehagan",
+    "latitude": 59.964995,
+    "longitude": 10.766569
+  },
+  {
+    "id": "NSR:StopPlace:6228",
+    "name": "Krokstien",
+    "latitude": 59.910509,
+    "longitude": 10.860119
+  },
+  {
+    "id": "NSR:StopPlace:6229",
+    "name": "Svensenga",
+    "latitude": 59.963686,
+    "longitude": 10.770303
+  },
+  {
+    "id": "NSR:StopPlace:6263",
+    "name": "Bislett",
+    "latitude": 59.925967,
+    "longitude": 10.731073
+  },
+  {
+    "id": "NSR:StopPlace:6260",
+    "name": "Bislett",
+    "latitude": 59.925747,
+    "longitude": 10.731895
+  },
+  {
+    "id": "NSR:StopPlace:6261",
+    "name": "Gaustadalléen",
+    "latitude": 59.945686,
+    "longitude": 10.717591
+  },
+  {
+    "id": "NSR:StopPlace:6266",
+    "name": "Rikshospitalet",
+    "latitude": 59.947756,
+    "longitude": 10.714843
+  },
+  {
+    "id": "NSR:StopPlace:6267",
+    "name": "Adamstuen",
+    "latitude": 59.932687,
+    "longitude": 10.734721
+  },
+  {
+    "id": "NSR:StopPlace:6264",
+    "name": "Rikshospitalet",
+    "latitude": 59.94876,
+    "longitude": 10.716616
+  },
+  {
+    "id": "NSR:StopPlace:6265",
+    "name": "Stensgata",
+    "latitude": 59.92951,
+    "longitude": 10.733002
+  },
+  {
+    "id": "NSR:StopPlace:6259",
+    "name": "Gaustad",
+    "latitude": 59.945826,
+    "longitude": 10.714044
+  },
+  {
+    "id": "NSR:StopPlace:6257",
+    "name": "Gaustad T",
+    "latitude": 59.946285,
+    "longitude": 10.710766
+  },
+  {
+    "id": "NSR:StopPlace:6258",
+    "name": "Frydenlund",
+    "latitude": 59.920898,
+    "longitude": 10.733055
+  },
+  {
+    "id": "NSR:StopPlace:6250",
+    "name": "Postens verksteder",
+    "latitude": 59.931786,
+    "longitude": 10.844354
+  },
+  {
+    "id": "NSR:StopPlace:6251",
+    "name": "Viggo Hansteens vei",
+    "latitude": 59.943208,
+    "longitude": 10.699557
+  },
+  {
+    "id": "NSR:StopPlace:6255",
+    "name": "Gaustad",
+    "latitude": 59.945835,
+    "longitude": 10.710127
+  },
+  {
+    "id": "NSR:StopPlace:6256",
+    "name": "Dalsbergstien",
+    "latitude": 59.923567,
+    "longitude": 10.731591
+  },
+  {
+    "id": "NSR:StopPlace:6253",
+    "name": "Riddervolds plass",
+    "latitude": 59.918309,
+    "longitude": 10.718826
+  },
+  {
+    "id": "NSR:StopPlace:6248",
+    "name": "Vinderen T",
+    "latitude": 59.942554,
+    "longitude": 10.704128
+  },
+  {
+    "id": "NSR:StopPlace:6249",
+    "name": "Arvesetveien",
+    "latitude": 59.92874,
+    "longitude": 10.847012
+  },
+  {
+    "id": "NSR:StopPlace:6246",
+    "name": "Knud Bryns vei",
+    "latitude": 59.927342,
+    "longitude": 10.82474
+  },
+  {
+    "id": "NSR:StopPlace:6280",
+    "name": "Tråkka",
+    "latitude": 59.945616,
+    "longitude": 10.688807
+  },
+  {
+    "id": "NSR:StopPlace:6281",
+    "name": "Stensberggata",
+    "latitude": 59.922291,
+    "longitude": 10.741185
+  },
+  {
+    "id": "NSR:StopPlace:6284",
+    "name": "Stasjonsveien",
+    "latitude": 59.950114,
+    "longitude": 10.688828
+  },
+  {
+    "id": "NSR:StopPlace:6282",
+    "name": "Dalsveien",
+    "latitude": 59.948259,
+    "longitude": 10.688799
+  },
+  {
+    "id": "NSR:StopPlace:6283",
+    "name": "Nordahl Bruns gate",
+    "latitude": 59.919415,
+    "longitude": 10.743647
+  },
+  {
+    "id": "NSR:StopPlace:6288",
+    "name": "Alexander Kiellands plass",
+    "latitude": 59.928244,
+    "longitude": 10.749489
+  },
+  {
+    "id": "NSR:StopPlace:6289",
+    "name": "Gråkammen",
+    "latitude": 59.955038,
+    "longitude": 10.701613
+  },
+  {
+    "id": "NSR:StopPlace:6286",
+    "name": "Colletts gate",
+    "latitude": 59.927034,
+    "longitude": 10.738727
+  },
+  {
+    "id": "NSR:StopPlace:6287",
+    "name": "Holmenhavna",
+    "latitude": 59.950742,
+    "longitude": 10.680554
+  },
+  {
+    "id": "NSR:StopPlace:6273",
+    "name": "Slemdal",
+    "latitude": 59.950875,
+    "longitude": 10.694423
+  },
+  {
+    "id": "NSR:StopPlace:6274",
+    "name": "St. Hanshaugen",
+    "latitude": 59.923754,
+    "longitude": 10.740155
+  },
+  {
+    "id": "NSR:StopPlace:6271",
+    "name": "Ris T",
+    "latitude": 59.94818,
+    "longitude": 10.704534
+  },
+  {
+    "id": "NSR:StopPlace:6272",
+    "name": "Sofies plass",
+    "latitude": 59.924235,
+    "longitude": 10.734973
+  },
+  {
+    "id": "NSR:StopPlace:6278",
+    "name": "Grimelundsveien",
+    "latitude": 59.944763,
+    "longitude": 10.692693
+  },
+  {
+    "id": "NSR:StopPlace:6275",
+    "name": "Slemdal T",
+    "latitude": 59.95134,
+    "longitude": 10.693613
+  },
+  {
+    "id": "NSR:StopPlace:6268",
+    "name": "Ris",
+    "latitude": 59.94805,
+    "longitude": 10.704548
+  },
+  {
+    "id": "NSR:StopPlace:6269",
+    "name": "Adamstuen",
+    "latitude": 59.932746,
+    "longitude": 10.734756
+  },
+  {
+    "id": "NSR:StopPlace:6292",
+    "name": "Falck Ytters plass",
+    "latitude": 59.925811,
+    "longitude": 10.744763
+  },
+  {
+    "id": "NSR:StopPlace:6290",
+    "name": "Telthusbakken",
+    "latitude": 59.924565,
+    "longitude": 10.750507
+  },
+  {
+    "id": "NSR:StopPlace:6295",
+    "name": "Svenstua",
+    "latitude": 59.957421,
+    "longitude": 10.689737
+  },
+  {
+    "id": "NSR:StopPlace:6296",
+    "name": "Evald Ryghs gate",
+    "latitude": 59.930736,
+    "longitude": 10.748918
+  },
+  {
+    "id": "NSR:StopPlace:6294",
+    "name": "Gulleråsen",
+    "latitude": 59.955753,
+    "longitude": 10.696762
+  },
+  {
+    "id": "NSR:StopPlace:6299",
+    "name": "Skådalen",
+    "latitude": 59.961823,
+    "longitude": 10.690739
+  },
+  {
+    "id": "NSR:StopPlace:6297",
+    "name": "Lovisenberg",
+    "latitude": 59.930683,
+    "longitude": 10.742885
+  },
+  {
+    "id": "NSR:StopPlace:6298",
+    "name": "Vettakollen",
+    "latitude": 59.959888,
+    "longitude": 10.695705
+  },
+  {
+    "id": "NSR:StopPlace:6200",
+    "name": "Doktor Dedichens vei",
+    "latitude": 59.925125,
+    "longitude": 10.859588
+  },
+  {
+    "id": "NSR:StopPlace:6201",
+    "name": "Havnabakken",
+    "latitude": 59.95913,
+    "longitude": 10.754835
+  },
+  {
+    "id": "NSR:StopPlace:6002",
+    "name": "Solbergliveien",
+    "latitude": 59.900428,
+    "longitude": 10.851472
+  },
+  {
+    "id": "NSR:StopPlace:6000",
+    "name": "Vetlandsveien",
+    "latitude": 59.900123,
+    "longitude": 10.846823
+  },
+  {
+    "id": "NSR:StopPlace:6001",
+    "name": "Årvollveien",
+    "latitude": 59.946205,
+    "longitude": 10.812
+  },
+  {
+    "id": "NSR:StopPlace:6020",
+    "name": "Carl Berners plass",
+    "latitude": 59.92652,
+    "longitude": 10.775217
+  },
+  {
+    "id": "NSR:StopPlace:6021",
+    "name": "Lofthus",
+    "latitude": 59.947337,
+    "longitude": 10.803249
+  },
+  {
+    "id": "NSR:StopPlace:6022",
+    "name": "Rosenhoff",
+    "latitude": 59.930397,
+    "longitude": 10.778207
+  },
+  {
+    "id": "NSR:StopPlace:6023",
+    "name": "Årrundveien",
+    "latitude": 59.945526,
+    "longitude": 10.804749
+  },
+  {
+    "id": "NSR:StopPlace:6024",
+    "name": "Sinsenterrassen",
+    "latitude": 59.934152,
+    "longitude": 10.779141
+  },
+  {
+    "id": "NSR:StopPlace:6015",
+    "name": "Østreheimsveien",
+    "latitude": 59.947892,
+    "longitude": 10.81506
+  },
+  {
+    "id": "NSR:StopPlace:6016",
+    "name": "Steinbakken",
+    "latitude": 59.947463,
+    "longitude": 10.809662
+  },
+  {
+    "id": "NSR:StopPlace:6017",
+    "name": "Carl Berners plass",
+    "latitude": 59.926755,
+    "longitude": 10.776622
+  },
+  {
+    "id": "NSR:StopPlace:6019",
+    "name": "Stølsvegen",
+    "latitude": 59.947673,
+    "longitude": 10.806735
+  },
+  {
+    "id": "NSR:StopPlace:6010",
+    "name": "Tonsenhagen torg",
+    "latitude": 59.947278,
+    "longitude": 10.821976
+  },
+  {
+    "id": "NSR:StopPlace:6013",
+    "name": "Stig",
+    "latitude": 59.947207,
+    "longitude": 10.817694
+  },
+  {
+    "id": "NSR:StopPlace:6014",
+    "name": "Carl Berners plass",
+    "latitude": 59.926801,
+    "longitude": 10.776652
+  },
+  {
+    "id": "NSR:StopPlace:6004",
+    "name": "Kampheimveien",
+    "latitude": 59.897811,
+    "longitude": 10.852459
+  },
+  {
+    "id": "NSR:StopPlace:6006",
+    "name": "Bjerke",
+    "latitude": 59.942629,
+    "longitude": 10.809544
+  },
+  {
+    "id": "NSR:StopPlace:6007",
+    "name": "Eftasåsen",
+    "latitude": 59.89622,
+    "longitude": 10.854183
+  },
+  {
+    "id": "NSR:StopPlace:6008",
+    "name": "Tonsenhagen",
+    "latitude": 59.94616,
+    "longitude": 10.828274
+  },
+  {
+    "id": "NSR:StopPlace:6009",
+    "name": "Carl Berners plass",
+    "latitude": 59.925905,
+    "longitude": 10.779682
+  },
+  {
+    "id": "NSR:StopPlace:6042",
+    "name": "Carl Berners plass T",
+    "latitude": 59.925986,
+    "longitude": 10.777462
+  },
+  {
+    "id": "NSR:StopPlace:6044",
+    "name": "Tøyen stasjon",
+    "latitude": 59.91992,
+    "longitude": 10.780694
+  },
+  {
+    "id": "NSR:StopPlace:6045",
+    "name": "Sinsenkrysset",
+    "latitude": 59.939126,
+    "longitude": 10.783368
+  },
+  {
+    "id": "NSR:StopPlace:6046",
+    "name": "Ensjøveien",
+    "latitude": 59.916776,
+    "longitude": 10.780188
+  },
+  {
+    "id": "NSR:StopPlace:6037",
+    "name": "Sinsen T",
+    "latitude": 59.936408,
+    "longitude": 10.78225
+  },
+  {
+    "id": "NSR:StopPlace:6038",
+    "name": "Einars vei",
+    "latitude": 59.924585,
+    "longitude": 10.787905
+  },
+  {
+    "id": "NSR:StopPlace:6039",
+    "name": "Sinsenkrysset",
+    "latitude": 59.937534,
+    "longitude": 10.785629
+  },
+  {
+    "id": "NSR:StopPlace:6030",
+    "name": "Sinsenveien",
+    "latitude": 59.934926,
+    "longitude": 10.791407
+  },
+  {
+    "id": "NSR:StopPlace:6031",
+    "name": "Hasle",
+    "latitude": 59.92392,
+    "longitude": 10.791954
+  },
+  {
+    "id": "NSR:StopPlace:6032",
+    "name": "Lørenvangen",
+    "latitude": 59.932479,
+    "longitude": 10.798776
+  },
+  {
+    "id": "NSR:StopPlace:6035",
+    "name": "Sinsen",
+    "latitude": 59.93718,
+    "longitude": 10.781805
+  },
+  {
+    "id": "NSR:StopPlace:6036",
+    "name": "Haslevangen",
+    "latitude": 59.925421,
+    "longitude": 10.794782
+  },
+  {
+    "id": "NSR:StopPlace:6028",
+    "name": "Aker sykehus",
+    "latitude": 59.940731,
+    "longitude": 10.797509
+  },
+  {
+    "id": "NSR:StopPlace:6029",
+    "name": "Hasle",
+    "latitude": 59.924363,
+    "longitude": 10.794708
+  },
+  {
+    "id": "NSR:StopPlace:6060",
+    "name": "Storo",
+    "latitude": 59.945261,
+    "longitude": 10.778558
+  },
+  {
+    "id": "NSR:StopPlace:6061",
+    "name": "Fyrstikktorget",
+    "latitude": 59.914738,
+    "longitude": 10.800738
+  },
+  {
+    "id": "NSR:StopPlace:6064",
+    "name": "Fyrstikktorget",
+    "latitude": 59.913714,
+    "longitude": 10.800617
+  },
+  {
+    "id": "NSR:StopPlace:6066",
+    "name": "Helsfyr T",
+    "latitude": 59.913004,
+    "longitude": 10.79996
+  },
+  {
+    "id": "NSR:StopPlace:6067",
+    "name": "Storo",
+    "latitude": 59.944896,
+    "longitude": 10.779955
+  },
+  {
+    "id": "NSR:StopPlace:6068",
+    "name": "Helsfyr",
+    "latitude": 59.912678,
+    "longitude": 10.801443
+  },
+  {
+    "id": "NSR:StopPlace:6069",
+    "name": "Nydalen stasjon",
+    "latitude": 59.952915,
+    "longitude": 10.7696
+  },
+  {
+    "id": "NSR:StopPlace:6059",
+    "name": "Valle",
+    "latitude": 59.917675,
+    "longitude": 10.799907
+  },
+  {
+    "id": "NSR:StopPlace:6050",
+    "name": "Grefsen stasjon",
+    "latitude": 59.942077,
+    "longitude": 10.781356
+  },
+  {
+    "id": "NSR:StopPlace:6051",
+    "name": "Ensjø",
+    "latitude": 59.913776,
+    "longitude": 10.787735
+  },
+  {
+    "id": "NSR:StopPlace:6052",
+    "name": "Grefsen stasjon",
+    "latitude": 59.94106,
+    "longitude": 10.781493
+  },
+  {
+    "id": "NSR:StopPlace:6053",
+    "name": "Ensjø T",
+    "latitude": 59.914905,
+    "longitude": 10.787186
+  },
+  {
+    "id": "NSR:StopPlace:6057",
+    "name": "Storo",
+    "latitude": 59.944827,
+    "longitude": 10.778419
+  },
+  {
+    "id": "NSR:StopPlace:6058",
+    "name": "Storo",
+    "latitude": 59.945275,
+    "longitude": 10.77872
+  },
+  {
+    "id": "NSR:StopPlace:6056",
+    "name": "Gladengveien",
+    "latitude": 59.919834,
+    "longitude": 10.793996
+  },
+  {
+    "id": "NSR:StopPlace:6049",
+    "name": "Hasle kirke",
+    "latitude": 59.921947,
+    "longitude": 10.786166
+  },
+  {
+    "id": "NSR:StopPlace:6080",
+    "name": "Etterstad sør",
+    "latitude": 59.907619,
+    "longitude": 10.801883
+  },
+  {
+    "id": "NSR:StopPlace:6081",
+    "name": "Tamburveien",
+    "latitude": 59.950893,
+    "longitude": 10.768412
+  },
+  {
+    "id": "NSR:StopPlace:6083",
+    "name": "Disen",
+    "latitude": 59.946304,
+    "longitude": 10.787692
+  },
+  {
+    "id": "NSR:StopPlace:6084",
+    "name": "Etterstadkroken",
+    "latitude": 59.909751,
+    "longitude": 10.80368
+  },
+  {
+    "id": "NSR:StopPlace:6086",
+    "name": "Brynseng",
+    "latitude": 59.909227,
+    "longitude": 10.812075
+  },
+  {
+    "id": "NSR:StopPlace:6087",
+    "name": "Nordre Åsen",
+    "latitude": 59.944206,
+    "longitude": 10.786634
+  },
+  {
+    "id": "NSR:StopPlace:6088",
+    "name": "Aschehougs vei",
+    "latitude": 59.946491,
+    "longitude": 10.792636
+  },
+  {
+    "id": "NSR:StopPlace:6089",
+    "name": "Brynseng T",
+    "latitude": 59.909685,
+    "longitude": 10.813648
+  },
+  {
+    "id": "NSR:StopPlace:6071",
+    "name": "Helsfyr T",
+    "latitude": 59.912759,
+    "longitude": 10.80114
+  },
+  {
+    "id": "NSR:StopPlace:6072",
+    "name": "Lillo terrasse",
+    "latitude": 59.951352,
+    "longitude": 10.775158
+  },
+  {
+    "id": "NSR:StopPlace:6073",
+    "name": "Nydalen",
+    "latitude": 59.949492,
+    "longitude": 10.765338
+  },
+  {
+    "id": "NSR:StopPlace:6074",
+    "name": "Helsfyr",
+    "latitude": 59.912167,
+    "longitude": 10.800242
+  },
+  {
+    "id": "NSR:StopPlace:6076",
+    "name": "Nydalen T",
+    "latitude": 59.949012,
+    "longitude": 10.767579
+  },
+  {
+    "id": "NSR:StopPlace:6079",
+    "name": "Etterstad vest",
+    "latitude": 59.906999,
+    "longitude": 10.796932
+  },
+  {
+    "id": "NSR:StopPlace:6077",
+    "name": "Etterstad skole",
+    "latitude": 59.909602,
+    "longitude": 10.794419
+  },
+  {
+    "id": "NSR:StopPlace:6078",
+    "name": "Nydalen T",
+    "latitude": 59.948738,
+    "longitude": 10.769669
+  },
+  {
+    "id": "NSR:StopPlace:6091",
+    "name": "Sanatoriet",
+    "latitude": 59.949666,
+    "longitude": 10.793174
+  },
+  {
+    "id": "NSR:StopPlace:6093",
+    "name": "Doktor Smiths vei",
+    "latitude": 59.949827,
+    "longitude": 10.790133
+  },
+  {
+    "id": "NSR:StopPlace:6094",
+    "name": "Brynsengveien",
+    "latitude": 59.91185,
+    "longitude": 10.816035
+  },
+  {
+    "id": "NSR:StopPlace:6095",
+    "name": "Glads vei",
+    "latitude": 59.952347,
+    "longitude": 10.785337
+  },
+  {
+    "id": "NSR:StopPlace:6096",
+    "name": "Bryn brannstasjon",
+    "latitude": 59.912682,
+    "longitude": 10.813782
+  },
+  {
+    "id": "NSR:StopPlace:6097",
+    "name": "Grefsenplatået",
+    "latitude": 59.956004,
+    "longitude": 10.785742
+  },
+  {
+    "id": "NSR:StopPlace:6580",
+    "name": "Jomfrubråten",
+    "latitude": 59.888213,
+    "longitude": 10.770829
+  },
+  {
+    "id": "NSR:StopPlace:6582",
+    "name": "Tryvann",
+    "latitude": 59.987759,
+    "longitude": 10.666716
+  },
+  {
+    "id": "NSR:StopPlace:6583",
+    "name": "Ekeberghallen",
+    "latitude": 59.891176,
+    "longitude": 10.780671
+  },
+  {
+    "id": "NSR:StopPlace:6584",
+    "name": "Engelsrud",
+    "latitude": 59.973019,
+    "longitude": 10.764257
+  },
+  {
+    "id": "NSR:StopPlace:6585",
+    "name": "Brennenga",
+    "latitude": 59.977063,
+    "longitude": 10.761275
+  },
+  {
+    "id": "NSR:StopPlace:6586",
+    "name": "Ekeberg camping",
+    "latitude": 59.897599,
+    "longitude": 10.775657
+  },
+  {
+    "id": "NSR:StopPlace:6576",
+    "name": "Ekebergparken",
+    "latitude": 59.897745,
+    "longitude": 10.759293
+  },
+  {
+    "id": "NSR:StopPlace:6577",
+    "name": "Frognerseteren",
+    "latitude": 59.977874,
+    "longitude": 10.675681
+  },
+  {
+    "id": "NSR:StopPlace:6578",
+    "name": "Kongshavn",
+    "latitude": 59.894255,
+    "longitude": 10.75854
+  },
+  {
+    "id": "NSR:StopPlace:6579",
+    "name": "Frognerseteren",
+    "latitude": 59.979075,
+    "longitude": 10.676278
+  },
+  {
+    "id": "NSR:StopPlace:6571",
+    "name": "Kampen park",
+    "latitude": 59.914645,
+    "longitude": 10.781394
+  },
+  {
+    "id": "NSR:StopPlace:6573",
+    "name": "Ekebergparken",
+    "latitude": 59.897781,
+    "longitude": 10.759734
+  },
+  {
+    "id": "NSR:StopPlace:6566",
+    "name": "Kampen",
+    "latitude": 59.912261,
+    "longitude": 10.779699
+  },
+  {
+    "id": "NSR:StopPlace:6598",
+    "name": "Sportsplassen",
+    "latitude": 59.885987,
+    "longitude": 10.77449
+  },
+  {
+    "id": "NSR:StopPlace:6599",
+    "name": "Maridalen kirke",
+    "latitude": 59.999756,
+    "longitude": 10.771926
+  },
+  {
+    "id": "NSR:StopPlace:6590",
+    "name": "Skjerven",
+    "latitude": 59.986103,
+    "longitude": 10.752771
+  },
+  {
+    "id": "NSR:StopPlace:6591",
+    "name": "Utsikten",
+    "latitude": 59.900386,
+    "longitude": 10.779436
+  },
+  {
+    "id": "NSR:StopPlace:6592",
+    "name": "Saga",
+    "latitude": 59.988575,
+    "longitude": 10.752978
+  },
+  {
+    "id": "NSR:StopPlace:6593",
+    "name": "Simensbrekka",
+    "latitude": 59.900787,
+    "longitude": 10.782099
+  },
+  {
+    "id": "NSR:StopPlace:6594",
+    "name": "Hammeren",
+    "latitude": 59.994012,
+    "longitude": 10.752413
+  },
+  {
+    "id": "NSR:StopPlace:6596",
+    "name": "Ryenbergveien",
+    "latitude": 59.90094,
+    "longitude": 10.786286
+  },
+  {
+    "id": "NSR:StopPlace:6597",
+    "name": "Kirkeby",
+    "latitude": 59.99651,
+    "longitude": 10.766197
+  },
+  {
+    "id": "NSR:StopPlace:6587",
+    "name": "Låkeberget",
+    "latitude": 59.979967,
+    "longitude": 10.757226
+  },
+  {
+    "id": "NSR:StopPlace:6589",
+    "name": "Brannfjellveien",
+    "latitude": 59.900296,
+    "longitude": 10.773567
+  },
+  {
+    "id": "NSR:StopPlace:6520",
+    "name": "Oslo gate",
+    "latitude": 59.908361,
+    "longitude": 10.769347
+  },
+  {
+    "id": "NSR:StopPlace:6510",
+    "name": "Radiumhospitalet",
+    "latitude": 59.928895,
+    "longitude": 10.659361
+  },
+  {
+    "id": "NSR:StopPlace:6513",
+    "name": "Blokkajordet",
+    "latitude": 59.924963,
+    "longitude": 10.64742
+  },
+  {
+    "id": "NSR:StopPlace:6515",
+    "name": "Åsjordet",
+    "latitude": 59.92885,
+    "longitude": 10.648031
+  },
+  {
+    "id": "NSR:StopPlace:6516",
+    "name": "Dyvekes bro",
+    "latitude": 59.905484,
+    "longitude": 10.769235
+  },
+  {
+    "id": "NSR:StopPlace:6517",
+    "name": "Åsjordet T",
+    "latitude": 59.928476,
+    "longitude": 10.646107
+  },
+  {
+    "id": "NSR:StopPlace:6503",
+    "name": "Montebello",
+    "latitude": 59.93483,
+    "longitude": 10.666415
+  },
+  {
+    "id": "NSR:StopPlace:6505",
+    "name": "Oslo bussterminal",
+    "latitude": 59.911768,
+    "longitude": 10.757994
+  },
+  {
+    "id": "NSR:StopPlace:6506",
+    "name": "Husebyveien",
+    "latitude": 59.934853,
+    "longitude": 10.675994
+  },
+  {
+    "id": "NSR:StopPlace:6507",
+    "name": "Montebelloveien",
+    "latitude": 59.931115,
+    "longitude": 10.66711
+  },
+  {
+    "id": "NSR:StopPlace:6509",
+    "name": "Ullernåsen",
+    "latitude": 59.931488,
+    "longitude": 10.655979
+  },
+  {
+    "id": "NSR:StopPlace:6541",
+    "name": "Bogstad gård",
+    "latitude": 59.972825,
+    "longitude": 10.629165
+  },
+  {
+    "id": "NSR:StopPlace:6542",
+    "name": "Vålerenga",
+    "latitude": 59.908771,
+    "longitude": 10.78681
+  },
+  {
+    "id": "NSR:StopPlace:6540",
+    "name": "Galgeberg",
+    "latitude": 59.907746,
+    "longitude": 10.781659
+  },
+  {
+    "id": "NSR:StopPlace:6534",
+    "name": "Wyllerløypa",
+    "latitude": 59.990379,
+    "longitude": 10.631222
+  },
+  {
+    "id": "NSR:StopPlace:6535",
+    "name": "Oslo Hospital",
+    "latitude": 59.903213,
+    "longitude": 10.767492
+  },
+  {
+    "id": "NSR:StopPlace:6532",
+    "name": "Lysakerelva",
+    "latitude": 59.925742,
+    "longitude": 10.632197
+  },
+  {
+    "id": "NSR:StopPlace:6539",
+    "name": "Bogstad badeplass",
+    "latitude": 59.969602,
+    "longitude": 10.638499
+  },
+  {
+    "id": "NSR:StopPlace:6536",
+    "name": "Wyllerveien",
+    "latitude": 59.991027,
+    "longitude": 10.622572
+  },
+  {
+    "id": "NSR:StopPlace:6537",
+    "name": "Galgeberg",
+    "latitude": 59.908246,
+    "longitude": 10.780007
+  },
+  {
+    "id": "NSR:StopPlace:6530",
+    "name": "Møllefaret",
+    "latitude": 59.937658,
+    "longitude": 10.640618
+  },
+  {
+    "id": "NSR:StopPlace:6531",
+    "name": "Loelva",
+    "latitude": 59.895514,
+    "longitude": 10.756015
+  },
+  {
+    "id": "NSR:StopPlace:6523",
+    "name": "Bjørnsletta",
+    "latitude": 59.927451,
+    "longitude": 10.639025
+  },
+  {
+    "id": "NSR:StopPlace:6524",
+    "name": "Politihuset",
+    "latitude": 59.910284,
+    "longitude": 10.767826
+  },
+  {
+    "id": "NSR:StopPlace:6521",
+    "name": "Bjørnsletta",
+    "latitude": 59.926523,
+    "longitude": 10.63446
+  },
+  {
+    "id": "NSR:StopPlace:6527",
+    "name": "Harald Hårdrådes plass",
+    "latitude": 59.907553,
+    "longitude": 10.772686
+  },
+  {
+    "id": "NSR:StopPlace:6528",
+    "name": "Lysejordet",
+    "latitude": 59.93376,
+    "longitude": 10.63973
+  },
+  {
+    "id": "NSR:StopPlace:6526",
+    "name": "Lyseveien",
+    "latitude": 59.930521,
+    "longitude": 10.638651
+  },
+  {
+    "id": "NSR:StopPlace:6529",
+    "name": "Sørenga",
+    "latitude": 59.903816,
+    "longitude": 10.758968
+  },
+  {
+    "id": "NSR:StopPlace:6560",
+    "name": "Eirik Raudes vei",
+    "latitude": 59.902275,
+    "longitude": 10.795811
+  },
+  {
+    "id": "NSR:StopPlace:6555",
+    "name": "Kværner",
+    "latitude": 59.90194,
+    "longitude": 10.787971
+  },
+  {
+    "id": "NSR:StopPlace:6556",
+    "name": "Bjørnsgard",
+    "latitude": 59.985843,
+    "longitude": 10.621529
+  },
+  {
+    "id": "NSR:StopPlace:6557",
+    "name": "Lodalen",
+    "latitude": 59.90336,
+    "longitude": 10.778122
+  },
+  {
+    "id": "NSR:StopPlace:6552",
+    "name": "Kværnerbyen",
+    "latitude": 59.904647,
+    "longitude": 10.785913
+  },
+  {
+    "id": "NSR:StopPlace:6550",
+    "name": "Bakk",
+    "latitude": 59.993467,
+    "longitude": 10.622395
+  },
+  {
+    "id": "NSR:StopPlace:6551",
+    "name": "Søndre Solberg",
+    "latitude": 59.999277,
+    "longitude": 10.619549
+  },
+  {
+    "id": "NSR:StopPlace:6545",
+    "name": "Zinober",
+    "latitude": 59.983256,
+    "longitude": 10.62165
+  },
+  {
+    "id": "NSR:StopPlace:6543",
+    "name": "Strøm",
+    "latitude": 59.978791,
+    "longitude": 10.622264
+  },
+  {
+    "id": "NSR:StopPlace:6544",
+    "name": "Etterstadgata",
+    "latitude": 59.909951,
+    "longitude": 10.791028
+  },
+  {
+    "id": "NSR:StopPlace:6549",
+    "name": "St. Halvards gate",
+    "latitude": 59.906272,
+    "longitude": 10.775063
+  },
+  {
+    "id": "NSR:StopPlace:6547",
+    "name": "Kjølberggata",
+    "latitude": 59.910609,
+    "longitude": 10.777394
+  },
+  {
+    "id": "NSR:StopPlace:6548",
+    "name": "Årnes",
+    "latitude": 59.988083,
+    "longitude": 10.620577
+  },
+  {
+    "id": "NSR:StopPlace:6697",
+    "name": "Knud Øyens vei",
+    "latitude": 59.851322,
+    "longitude": 10.799187
+  },
+  {
+    "id": "NSR:StopPlace:6699",
+    "name": "Ingiers vei",
+    "latitude": 59.849327,
+    "longitude": 10.788688
+  },
+  {
+    "id": "NSR:StopPlace:6698",
+    "name": "Nordstrand kirke",
+    "latitude": 59.857992,
+    "longitude": 10.801591
+  },
+  {
+    "id": "NSR:StopPlace:6692",
+    "name": "Leirskallen",
+    "latitude": 59.862311,
+    "longitude": 10.827345
+  },
+  {
+    "id": "NSR:StopPlace:6690",
+    "name": "Øgården",
+    "latitude": 59.862045,
+    "longitude": 10.823494
+  },
+  {
+    "id": "NSR:StopPlace:6695",
+    "name": "Ljabru",
+    "latitude": 59.853849,
+    "longitude": 10.801779
+  },
+  {
+    "id": "NSR:StopPlace:6694",
+    "name": "Ljabru",
+    "latitude": 59.853809,
+    "longitude": 10.800526
+  },
+  {
+    "id": "NSR:StopPlace:6688",
+    "name": "P. A. Holms vei",
+    "latitude": 59.861134,
+    "longitude": 10.815289
+  },
+  {
+    "id": "NSR:StopPlace:6689",
+    "name": "Munkerudkleiva",
+    "latitude": 59.861461,
+    "longitude": 10.819991
+  },
+  {
+    "id": "NSR:StopPlace:6687",
+    "name": "Munkerud",
+    "latitude": 59.860349,
+    "longitude": 10.811229
+  },
+  {
+    "id": "NSR:StopPlace:6610",
+    "name": "Ulvøybrua",
+    "latitude": 59.87328,
+    "longitude": 10.779229
+  },
+  {
+    "id": "NSR:StopPlace:6614",
+    "name": "Ulvøya",
+    "latitude": 59.870353,
+    "longitude": 10.773214
+  },
+  {
+    "id": "NSR:StopPlace:6618",
+    "name": "Holtet",
+    "latitude": 59.882348,
+    "longitude": 10.783135
+  },
+  {
+    "id": "NSR:StopPlace:6600",
+    "name": "Sportsplassen",
+    "latitude": 59.885964,
+    "longitude": 10.773981
+  },
+  {
+    "id": "NSR:StopPlace:6603",
+    "name": "Bekkelagsveien",
+    "latitude": 59.884257,
+    "longitude": 10.769222
+  },
+  {
+    "id": "NSR:StopPlace:6606",
+    "name": "Nedre Bekkelaget",
+    "latitude": 59.881162,
+    "longitude": 10.772909
+  },
+  {
+    "id": "NSR:StopPlace:6640",
+    "name": "Ormsundbakken",
+    "latitude": 59.881693,
+    "longitude": 10.770188
+  },
+  {
+    "id": "NSR:StopPlace:6631",
+    "name": "Linderudkollen",
+    "latitude": 59.97645,
+    "longitude": 10.810862
+  },
+  {
+    "id": "NSR:StopPlace:6632",
+    "name": "Malmøysundet",
+    "latitude": 59.874634,
+    "longitude": 10.759924
+  },
+  {
+    "id": "NSR:StopPlace:6633",
+    "name": "Setervollveien",
+    "latitude": 59.977244,
+    "longitude": 10.806726
+  },
+  {
+    "id": "NSR:StopPlace:6634",
+    "name": "Kirkebakken",
+    "latitude": 59.87835,
+    "longitude": 10.764173
+  },
+  {
+    "id": "NSR:StopPlace:6635",
+    "name": "Kringlevann",
+    "latitude": 59.97642,
+    "longitude": 10.803683
+  },
+  {
+    "id": "NSR:StopPlace:6637",
+    "name": "Mailand",
+    "latitude": 59.880065,
+    "longitude": 10.765365
+  },
+  {
+    "id": "NSR:StopPlace:6638",
+    "name": "Grefsenkollen",
+    "latitude": 59.95867,
+    "longitude": 10.804118
+  },
+  {
+    "id": "NSR:StopPlace:6639",
+    "name": "Trollvann",
+    "latitude": 59.961593,
+    "longitude": 10.803272
+  },
+  {
+    "id": "NSR:StopPlace:6630",
+    "name": "Malmøya",
+    "latitude": 59.873351,
+    "longitude": 10.758061
+  },
+  {
+    "id": "NSR:StopPlace:6623",
+    "name": "Åsliveien",
+    "latitude": 59.879647,
+    "longitude": 10.790489
+  },
+  {
+    "id": "NSR:StopPlace:6621",
+    "name": "Holtet",
+    "latitude": 59.881769,
+    "longitude": 10.784124
+  },
+  {
+    "id": "NSR:StopPlace:6626",
+    "name": "Solemskogen",
+    "latitude": 59.979235,
+    "longitude": 10.817545
+  },
+  {
+    "id": "NSR:StopPlace:6627",
+    "name": "Bekkelagshjemmet",
+    "latitude": 59.885522,
+    "longitude": 10.785017
+  },
+  {
+    "id": "NSR:StopPlace:6629",
+    "name": "Kalland",
+    "latitude": 59.97848,
+    "longitude": 10.814365
+  },
+  {
+    "id": "NSR:StopPlace:6662",
+    "name": "Katten",
+    "latitude": 59.855335,
+    "longitude": 10.78443
+  },
+  {
+    "id": "NSR:StopPlace:6663",
+    "name": "Ljansbakken",
+    "latitude": 59.850894,
+    "longitude": 10.781692
+  },
+  {
+    "id": "NSR:StopPlace:6660",
+    "name": "Vølund",
+    "latitude": 59.860743,
+    "longitude": 10.785339
+  },
+  {
+    "id": "NSR:StopPlace:6655",
+    "name": "Skogholtveien",
+    "latitude": 59.879835,
+    "longitude": 10.796437
+  },
+  {
+    "id": "NSR:StopPlace:6653",
+    "name": "Karlsrud",
+    "latitude": 59.880428,
+    "longitude": 10.805386
+  },
+  {
+    "id": "NSR:StopPlace:6654",
+    "name": "Karlsrud",
+    "latitude": 59.879532,
+    "longitude": 10.802071
+  },
+  {
+    "id": "NSR:StopPlace:6659",
+    "name": "Nordstrand bad",
+    "latitude": 59.866549,
+    "longitude": 10.783247
+  },
+  {
+    "id": "NSR:StopPlace:6657",
+    "name": "Brattlikollen",
+    "latitude": 59.887377,
+    "longitude": 10.801061
+  },
+  {
+    "id": "NSR:StopPlace:6658",
+    "name": "Brattlikollen T",
+    "latitude": 59.886399,
+    "longitude": 10.800183
+  },
+  {
+    "id": "NSR:StopPlace:6651",
+    "name": "Ekeberg hageby",
+    "latitude": 59.897372,
+    "longitude": 10.781508
+  },
+  {
+    "id": "NSR:StopPlace:6650",
+    "name": "Oluf Onsums vei",
+    "latitude": 59.895589,
+    "longitude": 10.801959
+  },
+  {
+    "id": "NSR:StopPlace:6645",
+    "name": "Lyngveien",
+    "latitude": 59.897411,
+    "longitude": 10.792617
+  },
+  {
+    "id": "NSR:StopPlace:6642",
+    "name": "Simensbråten",
+    "latitude": 59.895637,
+    "longitude": 10.786962
+  },
+  {
+    "id": "NSR:StopPlace:6648",
+    "name": "Benveien",
+    "latitude": 59.897512,
+    "longitude": 10.797099
+  },
+  {
+    "id": "NSR:StopPlace:6646",
+    "name": "Radisson Blu Alna",
+    "latitude": 59.930208,
+    "longitude": 10.868201
+  },
+  {
+    "id": "NSR:StopPlace:6670",
+    "name": "Sørli",
+    "latitude": 59.875335,
+    "longitude": 10.789551
+  },
+  {
+    "id": "NSR:StopPlace:6673",
+    "name": "Nordseter gård",
+    "latitude": 59.871048,
+    "longitude": 10.796708
+  },
+  {
+    "id": "NSR:StopPlace:6671",
+    "name": "Kastellet",
+    "latitude": 59.871036,
+    "longitude": 10.790366
+  },
+  {
+    "id": "NSR:StopPlace:6672",
+    "name": "Kastellet",
+    "latitude": 59.870097,
+    "longitude": 10.791317
+  },
+  {
+    "id": "NSR:StopPlace:6666",
+    "name": "Fiskevollen",
+    "latitude": 59.840701,
+    "longitude": 10.778663
+  },
+  {
+    "id": "NSR:StopPlace:6667",
+    "name": "Siksakveien",
+    "latitude": 59.854816,
+    "longitude": 10.785471
+  },
+  {
+    "id": "NSR:StopPlace:6664",
+    "name": "Gladvollveien",
+    "latitude": 59.848201,
+    "longitude": 10.778732
+  },
+  {
+    "id": "NSR:StopPlace:6668",
+    "name": "Sørli",
+    "latitude": 59.874943,
+    "longitude": 10.787095
+  },
+  {
+    "id": "NSR:StopPlace:6680",
+    "name": "Nordstrandhallen",
+    "latitude": 59.864189,
+    "longitude": 10.809321
+  },
+  {
+    "id": "NSR:StopPlace:6681",
+    "name": "Freidigveien",
+    "latitude": 59.865825,
+    "longitude": 10.809283
+  },
+  {
+    "id": "NSR:StopPlace:6684",
+    "name": "Sæter",
+    "latitude": 59.861396,
+    "longitude": 10.798666
+  },
+  {
+    "id": "NSR:StopPlace:6685",
+    "name": "Sæter",
+    "latitude": 59.860817,
+    "longitude": 10.801771
+  },
+  {
+    "id": "NSR:StopPlace:6683",
+    "name": "Bakkerudveien",
+    "latitude": 59.869136,
+    "longitude": 10.807865
+  },
+  {
+    "id": "NSR:StopPlace:6678",
+    "name": "Skovheim",
+    "latitude": 59.865271,
+    "longitude": 10.79608
+  },
+  {
+    "id": "NSR:StopPlace:6675",
+    "name": "Ringshusveien",
+    "latitude": 59.872105,
+    "longitude": 10.80051
+  },
+  {
+    "id": "NSR:StopPlace:6676",
+    "name": "Bråten",
+    "latitude": 59.867175,
+    "longitude": 10.792475
+  },
+  {
+    "id": "NSR:StopPlace:6679",
+    "name": "Bråten",
+    "latitude": 59.866983,
+    "longitude": 10.793799
+  },
+  {
+    "id": "NSR:StopPlace:6332",
+    "name": "Blindern",
+    "latitude": 59.940205,
+    "longitude": 10.716174
+  },
+  {
+    "id": "NSR:StopPlace:6333",
+    "name": "Voksenkollen",
+    "latitude": 59.980081,
+    "longitude": 10.66508
+  },
+  {
+    "id": "NSR:StopPlace:6330",
+    "name": "Voksenkollen T",
+    "latitude": 59.980127,
+    "longitude": 10.664035
+  },
+  {
+    "id": "NSR:StopPlace:6326",
+    "name": "Soria Moria",
+    "latitude": 59.975073,
+    "longitude": 10.656749
+  },
+  {
+    "id": "NSR:StopPlace:6323",
+    "name": "John Colletts plass",
+    "latitude": 59.940933,
+    "longitude": 10.729702
+  },
+  {
+    "id": "NSR:StopPlace:6324",
+    "name": "Lillevann",
+    "latitude": 59.980556,
+    "longitude": 10.65288
+  },
+  {
+    "id": "NSR:StopPlace:6329",
+    "name": "Ullevålsalléen",
+    "latitude": 59.937902,
+    "longitude": 10.730231
+  },
+  {
+    "id": "NSR:StopPlace:6327",
+    "name": "John Colletts plass",
+    "latitude": 59.940321,
+    "longitude": 10.729024
+  },
+  {
+    "id": "NSR:StopPlace:6328",
+    "name": "Lysebu",
+    "latitude": 59.979165,
+    "longitude": 10.660759
+  },
+  {
+    "id": "NSR:StopPlace:6340",
+    "name": "Universitetet Blindern",
+    "latitude": 59.94205,
+    "longitude": 10.72481
+  },
+  {
+    "id": "NSR:StopPlace:6343",
+    "name": "Holmendammen",
+    "latitude": 59.944557,
+    "longitude": 10.679982
+  },
+  {
+    "id": "NSR:StopPlace:6341",
+    "name": "Bernhard Herres vei",
+    "latitude": 59.941735,
+    "longitude": 10.681715
+  },
+  {
+    "id": "NSR:StopPlace:6342",
+    "name": "Forskningsparken",
+    "latitude": 59.943704,
+    "longitude": 10.720867
+  },
+  {
+    "id": "NSR:StopPlace:6336",
+    "name": "Makrellbekken",
+    "latitude": 59.941705,
+    "longitude": 10.673855
+  },
+  {
+    "id": "NSR:StopPlace:6334",
+    "name": "Thorleif Haugs vei",
+    "latitude": 59.969948,
+    "longitude": 10.669451
+  },
+  {
+    "id": "NSR:StopPlace:6338",
+    "name": "Makrellbekken",
+    "latitude": 59.941844,
+    "longitude": 10.672622
+  },
+  {
+    "id": "NSR:StopPlace:6350",
+    "name": "Holmen",
+    "latitude": 59.946029,
+    "longitude": 10.667379
+  },
+  {
+    "id": "NSR:StopPlace:6351",
+    "name": "Domus Athletica",
+    "latitude": 59.947434,
+    "longitude": 10.721978
+  },
+  {
+    "id": "NSR:StopPlace:6354",
+    "name": "Amagerveien",
+    "latitude": 59.952497,
+    "longitude": 10.660875
+  },
+  {
+    "id": "NSR:StopPlace:6355",
+    "name": "Arkitekt Rivertz plass",
+    "latitude": 59.934367,
+    "longitude": 10.749655
+  },
+  {
+    "id": "NSR:StopPlace:6352",
+    "name": "Arnebråtveien",
+    "latitude": 59.950894,
+    "longitude": 10.665461
+  },
+  {
+    "id": "NSR:StopPlace:6348",
+    "name": "Gressbanen",
+    "latitude": 59.950739,
+    "longitude": 10.675176
+  },
+  {
+    "id": "NSR:StopPlace:6345",
+    "name": "Holmenenga",
+    "latitude": 59.948698,
+    "longitude": 10.676284
+  },
+  {
+    "id": "NSR:StopPlace:6346",
+    "name": "Forskningsparken T",
+    "latitude": 59.943816,
+    "longitude": 10.720894
+  },
+  {
+    "id": "NSR:StopPlace:6349",
+    "name": "Eventyrveien",
+    "latitude": 59.944634,
+    "longitude": 10.731658
+  },
+  {
+    "id": "NSR:StopPlace:6362",
+    "name": "Hovseter",
+    "latitude": 59.9465,
+    "longitude": 10.655842
+  },
+  {
+    "id": "NSR:StopPlace:6360",
+    "name": "Hovseter",
+    "latitude": 59.946392,
+    "longitude": 10.655145
+  },
+  {
+    "id": "NSR:StopPlace:6365",
+    "name": "Hovseter skole",
+    "latitude": 59.949496,
+    "longitude": 10.65654
+  },
+  {
+    "id": "NSR:StopPlace:6366",
+    "name": "Voldsløkka",
+    "latitude": 59.940492,
+    "longitude": 10.750207
+  },
+  {
+    "id": "NSR:StopPlace:6363",
+    "name": "Sagene",
+    "latitude": 59.937932,
+    "longitude": 10.750003
+  },
+  {
+    "id": "NSR:StopPlace:6358",
+    "name": "Vøyenbrua",
+    "latitude": 59.932974,
+    "longitude": 10.758342
+  },
+  {
+    "id": "NSR:StopPlace:6359",
+    "name": "Huseby skole",
+    "latitude": 59.945071,
+    "longitude": 10.655738
+  },
+  {
+    "id": "NSR:StopPlace:6372",
+    "name": "Advokat Dehlis plass",
+    "latitude": 59.939112,
+    "longitude": 10.759172
+  },
+  {
+    "id": "NSR:StopPlace:6373",
+    "name": "Ostadalsveien",
+    "latitude": 59.945649,
+    "longitude": 10.647868
+  },
+  {
+    "id": "NSR:StopPlace:6376",
+    "name": "Badebakken",
+    "latitude": 59.945706,
+    "longitude": 10.760212
+  },
+  {
+    "id": "NSR:StopPlace:6377",
+    "name": "Røa næringspark",
+    "latitude": 59.941397,
+    "longitude": 10.649204
+  },
+  {
+    "id": "NSR:StopPlace:6374",
+    "name": "Arendalsgata",
+    "latitude": 59.937427,
+    "longitude": 10.758618
+  },
+  {
+    "id": "NSR:StopPlace:6375",
+    "name": "Aslakveien",
+    "latitude": 59.942658,
+    "longitude": 10.647047
+  },
+  {
+    "id": "NSR:StopPlace:6369",
+    "name": "Bjølsen",
+    "latitude": 59.942597,
+    "longitude": 10.759649
+  },
+  {
+    "id": "NSR:StopPlace:6367",
+    "name": "Hovseterhjemmet",
+    "latitude": 59.951148,
+    "longitude": 10.657009
+  },
+  {
+    "id": "NSR:StopPlace:6368",
+    "name": "Orebakken",
+    "latitude": 59.953802,
+    "longitude": 10.656997
+  },
+  {
+    "id": "NSR:StopPlace:6380",
+    "name": "Kristoffer Aamots bro",
+    "latitude": 59.946886,
+    "longitude": 10.764163
+  },
+  {
+    "id": "NSR:StopPlace:6383",
+    "name": "Røa T",
+    "latitude": 59.947453,
+    "longitude": 10.643048
+  },
+  {
+    "id": "NSR:StopPlace:6384",
+    "name": "Torshov",
+    "latitude": 59.935103,
+    "longitude": 10.7645
+  },
+  {
+    "id": "NSR:StopPlace:6381",
+    "name": "Røa",
+    "latitude": 59.946745,
+    "longitude": 10.644255
+  },
+  {
+    "id": "NSR:StopPlace:6382",
+    "name": "Torshov",
+    "latitude": 59.934657,
+    "longitude": 10.764593
+  },
+  {
+    "id": "NSR:StopPlace:6387",
+    "name": "Vogts gate",
+    "latitude": 59.931672,
+    "longitude": 10.763305
+  },
+  {
+    "id": "NSR:StopPlace:6388",
+    "name": "Kristian Auberts vei",
+    "latitude": 59.940731,
+    "longitude": 10.641187
+  },
+  {
+    "id": "NSR:StopPlace:6379",
+    "name": "Ullerntoppen",
+    "latitude": 59.938695,
+    "longitude": 10.648217
+  },
+  {
+    "id": "NSR:StopPlace:6390",
+    "name": "Røa kirke",
+    "latitude": 59.949872,
+    "longitude": 10.644405
+  },
+  {
+    "id": "NSR:StopPlace:6391",
+    "name": "Sæveruds plass",
+    "latitude": 59.935199,
+    "longitude": 10.774807
+  },
+  {
+    "id": "NSR:StopPlace:6394",
+    "name": "Sandaker senter",
+    "latitude": 59.938756,
+    "longitude": 10.768541
+  },
+  {
+    "id": "NSR:StopPlace:6395",
+    "name": "Ekraveien",
+    "latitude": 59.951664,
+    "longitude": 10.636564
+  },
+  {
+    "id": "NSR:StopPlace:6392",
+    "name": "Ekraveien",
+    "latitude": 59.950385,
+    "longitude": 10.636997
+  },
+  {
+    "id": "NSR:StopPlace:6398",
+    "name": "Sandaker senter",
+    "latitude": 59.939334,
+    "longitude": 10.769088
+  },
+  {
+    "id": "NSR:StopPlace:6389",
+    "name": "Torshovparken",
+    "latitude": 59.933334,
+    "longitude": 10.768963
+  },
+  {
+    "id": "NSR:StopPlace:6300",
+    "name": "Tannlegehøyskolen",
+    "latitude": 59.932894,
+    "longitude": 10.742221
+  },
+  {
+    "id": "NSR:StopPlace:6320",
+    "name": "Voksenlia",
+    "latitude": 59.966937,
+    "longitude": 10.654713
+  },
+  {
+    "id": "NSR:StopPlace:6321",
+    "name": "Skogen",
+    "latitude": 59.975232,
+    "longitude": 10.647479
+  },
+  {
+    "id": "NSR:StopPlace:6312",
+    "name": "Vestre Aker kirke",
+    "latitude": 59.934866,
+    "longitude": 10.729405
+  },
+  {
+    "id": "NSR:StopPlace:6313",
+    "name": "Midtstuen",
+    "latitude": 59.959403,
+    "longitude": 10.68447
+  },
+  {
+    "id": "NSR:StopPlace:6314",
+    "name": "Marienlyst",
+    "latitude": 59.932267,
+    "longitude": 10.724083
+  },
+  {
+    "id": "NSR:StopPlace:6315",
+    "name": "Besserud T",
+    "latitude": 59.957951,
+    "longitude": 10.674771
+  },
+  {
+    "id": "NSR:StopPlace:6317",
+    "name": "Lindern",
+    "latitude": 59.934524,
+    "longitude": 10.743721
+  },
+  {
+    "id": "NSR:StopPlace:6318",
+    "name": "Holmenkollen",
+    "latitude": 59.960214,
+    "longitude": 10.663099
+  },
+  {
+    "id": "NSR:StopPlace:6319",
+    "name": "Fayes gate",
+    "latitude": 59.935238,
+    "longitude": 10.742358
+  },
+  {
+    "id": "NSR:StopPlace:6311",
+    "name": "Besserud",
+    "latitude": 59.957847,
+    "longitude": 10.673867
+  },
+  {
+    "id": "NSR:StopPlace:6302",
+    "name": "Midtstuen",
+    "latitude": 59.961323,
+    "longitude": 10.68302
+  },
+  {
+    "id": "NSR:StopPlace:6303",
+    "name": "Ullevål sykehus",
+    "latitude": 59.936266,
+    "longitude": 10.731983
+  },
+  {
+    "id": "NSR:StopPlace:6307",
+    "name": "Ullevål sykehus",
+    "latitude": 59.936235,
+    "longitude": 10.732007
+  },
+  {
+    "id": "NSR:StopPlace:6308",
+    "name": "Ryghs vei",
+    "latitude": 59.956148,
+    "longitude": 10.662026
+  },
+  {
+    "id": "NSR:StopPlace:6305",
+    "name": "Lybekkveien",
+    "latitude": 59.952651,
+    "longitude": 10.673867
+  },
+  {
+    "id": "NSR:StopPlace:6306",
+    "name": "Krags vei",
+    "latitude": 59.954908,
+    "longitude": 10.666024
+  },
+  {
+    "id": "NSR:StopPlace:6460",
+    "name": "Ullern",
+    "latitude": 59.924432,
+    "longitude": 10.659292
+  },
+  {
+    "id": "NSR:StopPlace:6462",
+    "name": "Lakkegata skole",
+    "latitude": 59.920564,
+    "longitude": 10.76838
+  },
+  {
+    "id": "NSR:StopPlace:6463",
+    "name": "Maritim",
+    "latitude": 59.918323,
+    "longitude": 10.664409
+  },
+  {
+    "id": "NSR:StopPlace:6464",
+    "name": "Sofienberg",
+    "latitude": 59.922955,
+    "longitude": 10.771698
+  },
+  {
+    "id": "NSR:StopPlace:6465",
+    "name": "Furulund",
+    "latitude": 59.920293,
+    "longitude": 10.650358
+  },
+  {
+    "id": "NSR:StopPlace:6455",
+    "name": "Jarlsborgveien",
+    "latitude": 59.930362,
+    "longitude": 10.675911
+  },
+  {
+    "id": "NSR:StopPlace:6456",
+    "name": "Biermanns gate",
+    "latitude": 59.930474,
+    "longitude": 10.761087
+  },
+  {
+    "id": "NSR:StopPlace:6457",
+    "name": "Smestaddammen",
+    "latitude": 59.934448,
+    "longitude": 10.678958
+  },
+  {
+    "id": "NSR:StopPlace:6458",
+    "name": "Abbediengen",
+    "latitude": 59.925199,
+    "longitude": 10.66721
+  },
+  {
+    "id": "NSR:StopPlace:6459",
+    "name": "Heimdalsgata",
+    "latitude": 59.918394,
+    "longitude": 10.760974
+  },
+  {
+    "id": "NSR:StopPlace:6450",
+    "name": "Hoff",
+    "latitude": 59.925408,
+    "longitude": 10.675256
+  },
+  {
+    "id": "NSR:StopPlace:6451",
+    "name": "Dælenenga",
+    "latitude": 59.928036,
+    "longitude": 10.766426
+  },
+  {
+    "id": "NSR:StopPlace:6452",
+    "name": "Hoff terrasse",
+    "latitude": 59.927887,
+    "longitude": 10.675329
+  },
+  {
+    "id": "NSR:StopPlace:6453",
+    "name": "Københavngata",
+    "latitude": 59.929148,
+    "longitude": 10.769452
+  },
+  {
+    "id": "NSR:StopPlace:6444",
+    "name": "Birkelunden",
+    "latitude": 59.927121,
+    "longitude": 10.760095
+  },
+  {
+    "id": "NSR:StopPlace:6445",
+    "name": "Thune",
+    "latitude": 59.921819,
+    "longitude": 10.687718
+  },
+  {
+    "id": "NSR:StopPlace:6448",
+    "name": "Hoff",
+    "latitude": 59.92488,
+    "longitude": 10.675409
+  },
+  {
+    "id": "NSR:StopPlace:6449",
+    "name": "Sannergata",
+    "latitude": 59.92836,
+    "longitude": 10.759301
+  },
+  {
+    "id": "NSR:StopPlace:6480",
+    "name": "Tøyen skole",
+    "latitude": 59.915039,
+    "longitude": 10.773308
+  },
+  {
+    "id": "NSR:StopPlace:6481",
+    "name": "Vækerøveien",
+    "latitude": 59.923637,
+    "longitude": 10.643231
+  },
+  {
+    "id": "NSR:StopPlace:6484",
+    "name": "Øraker",
+    "latitude": 59.925109,
+    "longitude": 10.629686
+  },
+  {
+    "id": "NSR:StopPlace:6485",
+    "name": "Lysaker bru",
+    "latitude": 59.914104,
+    "longitude": 10.640581
+  },
+  {
+    "id": "NSR:StopPlace:6486",
+    "name": "Tøyenparken",
+    "latitude": 59.916942,
+    "longitude": 10.775918
+  },
+  {
+    "id": "NSR:StopPlace:6487",
+    "name": "Volvat",
+    "latitude": 59.9326,
+    "longitude": 10.704514
+  },
+  {
+    "id": "NSR:StopPlace:6477",
+    "name": "Lilleaker",
+    "latitude": 59.921009,
+    "longitude": 10.63594
+  },
+  {
+    "id": "NSR:StopPlace:6478",
+    "name": "Tøyen",
+    "latitude": 59.914572,
+    "longitude": 10.776906
+  },
+  {
+    "id": "NSR:StopPlace:6479",
+    "name": "CC vest",
+    "latitude": 59.91793,
+    "longitude": 10.63674
+  },
+  {
+    "id": "NSR:StopPlace:6470",
+    "name": "Helgesens gate",
+    "latitude": 59.921661,
+    "longitude": 10.77524
+  },
+  {
+    "id": "NSR:StopPlace:6472",
+    "name": "Sollerud",
+    "latitude": 59.920966,
+    "longitude": 10.643156
+  },
+  {
+    "id": "NSR:StopPlace:6473",
+    "name": "Tøyen",
+    "latitude": 59.915583,
+    "longitude": 10.775796
+  },
+  {
+    "id": "NSR:StopPlace:6474",
+    "name": "Lilleaker",
+    "latitude": 59.92079,
+    "longitude": 10.635832
+  },
+  {
+    "id": "NSR:StopPlace:6468",
+    "name": "Vækerø",
+    "latitude": 59.915577,
+    "longitude": 10.650553
+  },
+  {
+    "id": "NSR:StopPlace:6490",
+    "name": "Borgen",
+    "latitude": 59.934617,
+    "longitude": 10.695657
+  },
+  {
+    "id": "NSR:StopPlace:6492",
+    "name": "Borgen",
+    "latitude": 59.93458,
+    "longitude": 10.69727
+  },
+  {
+    "id": "NSR:StopPlace:6493",
+    "name": "Tøyengata",
+    "latitude": 59.912351,
+    "longitude": 10.764512
+  },
+  {
+    "id": "NSR:StopPlace:6494",
+    "name": "Heggeli",
+    "latitude": 59.935674,
+    "longitude": 10.691073
+  },
+  {
+    "id": "NSR:StopPlace:6498",
+    "name": "Tøyenkirken",
+    "latitude": 59.914812,
+    "longitude": 10.769146
+  },
+  {
+    "id": "NSR:StopPlace:6495",
+    "name": "Norbygata",
+    "latitude": 59.912898,
+    "longitude": 10.764572
+  },
+  {
+    "id": "NSR:StopPlace:6496",
+    "name": "Smestad",
+    "latitude": 59.937212,
+    "longitude": 10.684184
+  },
+  {
+    "id": "NSR:StopPlace:6488",
+    "name": "Grønland",
+    "latitude": 59.912806,
+    "longitude": 10.760162
+  },
+  {
+    "id": "NSR:StopPlace:6499",
+    "name": "Smestad",
+    "latitude": 59.937557,
+    "longitude": 10.683276
+  },
+  {
+    "id": "NSR:StopPlace:6420",
+    "name": "Voksen skog",
+    "latitude": 59.975047,
+    "longitude": 10.644639
+  },
+  {
+    "id": "NSR:StopPlace:6421",
+    "name": "Storo senter",
+    "latitude": 59.946115,
+    "longitude": 10.775563
+  },
+  {
+    "id": "NSR:StopPlace:6412",
+    "name": "Sagstua",
+    "latitude": 59.960358,
+    "longitude": 10.649591
+  },
+  {
+    "id": "NSR:StopPlace:6413",
+    "name": "Lillo gård",
+    "latitude": 59.944866,
+    "longitude": 10.772046
+  },
+  {
+    "id": "NSR:StopPlace:6414",
+    "name": "Himstadplassen",
+    "latitude": 59.96301,
+    "longitude": 10.645849
+  },
+  {
+    "id": "NSR:StopPlace:6416",
+    "name": "Bogstad Camping",
+    "latitude": 59.961998,
+    "longitude": 10.642136
+  },
+  {
+    "id": "NSR:StopPlace:6418",
+    "name": "Fernanda Nissen skole",
+    "latitude": 59.946911,
+    "longitude": 10.769614
+  },
+  {
+    "id": "NSR:StopPlace:6419",
+    "name": "Peder Ankers plass",
+    "latitude": 59.960796,
+    "longitude": 10.640981
+  },
+  {
+    "id": "NSR:StopPlace:6410",
+    "name": "Nordre Jarbakken",
+    "latitude": 59.956612,
+    "longitude": 10.654249
+  },
+  {
+    "id": "NSR:StopPlace:6400",
+    "name": "Nordpolen skole",
+    "latitude": 59.940295,
+    "longitude": 10.772589
+  },
+  {
+    "id": "NSR:StopPlace:6403",
+    "name": "Linhusveien",
+    "latitude": 59.957755,
+    "longitude": 10.641589
+  },
+  {
+    "id": "NSR:StopPlace:6404",
+    "name": "Haarklous plass",
+    "latitude": 59.937721,
+    "longitude": 10.774002
+  },
+  {
+    "id": "NSR:StopPlace:6405",
+    "name": "Grefsenveien",
+    "latitude": 59.942656,
+    "longitude": 10.773269
+  },
+  {
+    "id": "NSR:StopPlace:6406",
+    "name": "Vennerstua",
+    "latitude": 59.954494,
+    "longitude": 10.643593
+  },
+  {
+    "id": "NSR:StopPlace:6407",
+    "name": "Sinsen T",
+    "latitude": 59.938874,
+    "longitude": 10.779626
+  },
+  {
+    "id": "NSR:StopPlace:6408",
+    "name": "Jarbakken",
+    "latitude": 59.954938,
+    "longitude": 10.657137
+  },
+  {
+    "id": "NSR:StopPlace:6409",
+    "name": "Sandaker",
+    "latitude": 59.941972,
+    "longitude": 10.770309
+  },
+  {
+    "id": "NSR:StopPlace:6440",
+    "name": "Møllerveien",
+    "latitude": 59.920748,
+    "longitude": 10.751418
+  },
+  {
+    "id": "NSR:StopPlace:6441",
+    "name": "Skøyen",
+    "latitude": 59.92316,
+    "longitude": 10.681632
+  },
+  {
+    "id": "NSR:StopPlace:6442",
+    "name": "Birkelunden",
+    "latitude": 59.926691,
+    "longitude": 10.761108
+  },
+  {
+    "id": "NSR:StopPlace:6443",
+    "name": "Thune",
+    "latitude": 59.921876,
+    "longitude": 10.687589
+  },
+  {
+    "id": "NSR:StopPlace:6433",
+    "name": "Olaf Ryes plass",
+    "latitude": 59.922978,
+    "longitude": 10.759209
+  },
+  {
+    "id": "NSR:StopPlace:6434",
+    "name": "Sjølyst",
+    "latitude": 59.92087,
+    "longitude": 10.675849
+  },
+  {
+    "id": "NSR:StopPlace:6435",
+    "name": "Jakob kirke",
+    "latitude": 59.917753,
+    "longitude": 10.754186
+  },
+  {
+    "id": "NSR:StopPlace:6439",
+    "name": "Skøyen",
+    "latitude": 59.92341,
+    "longitude": 10.681401
+  },
+  {
+    "id": "NSR:StopPlace:6430",
+    "name": "Schous plass",
+    "latitude": 59.920873,
+    "longitude": 10.759306
+  },
+  {
+    "id": "NSR:StopPlace:6432",
+    "name": "Skøyen stasjon",
+    "latitude": 59.922865,
+    "longitude": 10.678429
+  },
+  {
+    "id": "NSR:StopPlace:6422",
+    "name": "Grindbakken",
+    "latitude": 59.970921,
+    "longitude": 10.644228
+  },
+  {
+    "id": "NSR:StopPlace:6425",
+    "name": "Åsly",
+    "latitude": 59.968642,
+    "longitude": 10.64447
+  },
+  {
+    "id": "NSR:StopPlace:6427",
+    "name": "Liabakken",
+    "latitude": 59.96632,
+    "longitude": 10.644625
+  },
+  {
+    "id": "NSR:StopPlace:6429",
+    "name": "Skøyen stasjon",
+    "latitude": 59.922168,
+    "longitude": 10.6793
+  }
+]
