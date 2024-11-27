@@ -6,7 +6,7 @@
     <title>Map | bilettkontrollVarsler</title>
     <link rel="stylesheet" href="menu.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
     <style>
         body {
             margin: 0;
@@ -34,7 +34,7 @@
     </aside>
 
     <div id="map"></div>
-    <script src="https://unpkg.com/leaflet/dist/leaflet.js" defer></script>
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js" defer></script>
     <script>
         document.addEventListener('DOMContentLoaded', () => {
             // 1. Sett opp Leaflet-kartet
@@ -58,7 +58,7 @@
             // 2. Hent stopp fra osloStops.json
             const fetchStops = async () => {
                 try {
-                    const response = await fetch('osloStops.json'); // Fetch data from the local JSON file
+                    const response = await fetch('osloStops.json', { cache: 'force-cache' }); // Fetch data from the local JSON file with caching
                     const data = await response.json();
 
                     // Valider at dataene er tilgjengelige
