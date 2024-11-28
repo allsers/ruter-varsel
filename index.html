@@ -68,6 +68,30 @@
                 opacity: 1;
             }
         }
+        .popup {
+            position: fixed;
+            font-family: Arial, Helvetica, sans-serif;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            background-color: white;
+            color: black;
+            text-align: center;
+            padding: 0.5rem;
+            font-size: 1.2rem;
+            z-index: 1000;
+            transition: transform 0.3s ease-in-out;
+            transform: translateY(100%);
+            border-radius: 20px 20px 0px 0px;
+        }
+
+        .popup.show {
+            transform: translateY(0);
+        }
+
+        .popup.hidden {
+            transform: translateY(100%);
+        }
     </style>
 </head>
 <body>
@@ -85,10 +109,13 @@
     </aside>
 
     <div id="map"></div>
+    <div id="popup" class="popup hidden">
+        <p id="popup-message"></p>
+    </div>
     <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
     <script>
         // 1. Sett opp Leaflet-kartet
-        const map = L.map('map').setView([59.91, 10.75], 12);
+        const map = L.map('map', { minZoom: 12 }).setView([59.91, 10.75], 12);
         window.map = map;
     
         L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
@@ -125,14 +152,28 @@
         };
     
         const markersMap = new Map();
-    
-        const changeColor = (lat, lng, color) => {
+        const showPopup = (message) => {
+            const popup = document.getElementById('popup');
+            console.log(popup)
+            const popupMessage = document.getElementById('popup-message');
+            popupMessage.textContent = message;
+            popup.classList.remove('hidden');
+            popup.classList.add('show');
+
+            setTimeout(() => {
+                popup.classList.remove('show');
+                popup.classList.add('hidden');
+            }, 1500); 
+        };
+        const changeColor = (lat, lng, color, name) => {
             const marker = markersMap.get(`${lat},${lng}`);
             if (marker) {
                 if (color === 'green') {
                     marker.setIcon(customGreenIcon);
+                    showPopup(`Ingen billettkontroll registrert på ${name}`);
                 } else if (color === 'red') {
                     marker.setIcon(customRedIcon);
+                    showPopup(`Billettkontroll registrert på ${name}`);
                 }
                 marker.closePopup();
     
@@ -143,7 +184,7 @@
                 }
             }
         };
-    
+
         const addMarkers = (allStops) => {
             const bounds = map.getBounds();
             allStops.forEach(stop => {
@@ -158,8 +199,8 @@
                                 <b>${stop.name}</b>
                                  <p>Er det kontroll?</p>
                                 <div class="popup-buttons">
-                                    <button id = "x" onclick="changeColor(${stop.latitude}, ${stop.longitude}, 'green')"><i class="fa-solid fa-xmark"></i></button>
-                                    <button id = "check" onclick="changeColor(${stop.latitude}, ${stop.longitude}, 'red');"><i class="fa-solid fa-check"></i></button>
+                                    <button id = "x" onclick="changeColor(${stop.latitude}, ${stop.longitude}, 'green', '${stop.name}')"><i class="fa-solid fa-xmark"></i></button>
+                                    <button id = "check" onclick="changeColor(${stop.latitude}, ${stop.longitude}, 'red', '${stop.name}')"> <i class="fa-solid fa-check"></i></button>
                                 </div>`;
                             marker.bindPopup(popupContent);
                             const markerElement = marker.getElement();
@@ -195,5 +236,6 @@
     </script>
 
     <script src="menu.js" type="module" defer></script>
+
 </body>
 </html>
