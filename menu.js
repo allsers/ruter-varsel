@@ -58,6 +58,15 @@ document.addEventListener('DOMContentLoaded', () => {
             const searchQuery = searchBar.value.toLowerCase();
             filteredItems = items.filter(item => item.toLowerCase().includes(searchQuery));
             
+            // Sort filtered items to prioritize items that start with the search term
+            filteredItems.sort((a, b) => {
+                const aStartsWith = a.toLowerCase().startsWith(searchQuery);
+                const bStartsWith = b.toLowerCase().startsWith(searchQuery);
+                if (aStartsWith && !bStartsWith) return -1;
+                if (!aStartsWith && bStartsWith) return 1;
+                return a.localeCompare(b, 'nb');
+            });
+
             itemList.innerHTML = '';
             currentPage = 1;
             loadItems(currentPage);
@@ -90,7 +99,7 @@ document.addEventListener('DOMContentLoaded', () => {
             }
         });
 
-        searchBar.addEventListener('input', debounce(updateItemList, 190));
+        searchBar.addEventListener('input', debounce(updateItemList, 300));
 
         itemList.addEventListener('scroll', () => {
             if (itemList.scrollTop + itemList.clientHeight >= itemList.scrollHeight) {
