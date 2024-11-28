@@ -129,8 +129,8 @@ li.touch-feedback {
 
 @media (max-width: 600px) {
     aside {
-        width: 5.5vh;
-        height: 5.5vh;
+        width: 6vh;
+        height: 6vh;
     }
 
     aside.expanded {

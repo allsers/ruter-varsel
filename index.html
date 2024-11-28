@@ -173,6 +173,7 @@
             }, 1500); 
         };
         const changeColor = (lat, lng, color, name) => {
+            navigator.vibrate(300)
             const marker = markersMap.get(`${lat},${lng}`);
             if (marker) {
                 if (color === 'green') {
@@ -206,8 +207,8 @@
                                 <b>${stop.name}</b>
                                  <p>Er det kontroll?</p>
                                 <div class="popup-buttons">
-                                    <button id = "x" onclick="changeColor(${stop.latitude}, ${stop.longitude}, 'green', '${stop.name}'); navigator.vibrate(300)"><i class="fa-solid fa-xmark"></i></button>
-                                    <button id = "check" onclick="changeColor(${stop.latitude}, ${stop.longitude}, 'red', '${stop.name}'); navigator.vibrate(300)"> <i class="fa-solid fa-check"></i></button>
+                                    <button id = "x" onclick="changeColor(${stop.latitude}, ${stop.longitude}, 'green', '${stop.name}'); "><i class="fa-solid fa-xmark"></i></button>
+                                    <button id = "check" onclick="changeColor(${stop.latitude}, ${stop.longitude}, 'red', '${stop.name}');"> <i class="fa-solid fa-check"></i></button>
                                 </div>`;
                             marker.bindPopup(popupContent);
                             const markerElement = marker.getElement();
