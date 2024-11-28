@@ -102,20 +102,13 @@
             font-size: 1.2rem;
         }
         .popup.show {
-            animation: bounceIn 0.3s ease;
+
             transform: translateY(0);
         }
         .popup.hidden {
             transform: translateY(100%);
         }
-        @keyframes bounceIn {
-            0% {
-                transform: translateY(100%);
-            }
-            100% {
-                transform: translateY(0%);
-            }
-        }
+
         @media (max-width: 600px) {
             .popup {
                 font-size: 1rem;
