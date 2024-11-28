@@ -52,7 +52,7 @@ button {
 
 aside.expanded {
     width: 25%;
-    height: 80%;
+    height: 90%;
 }
 
 .content {
@@ -136,7 +136,7 @@ li.touch-feedback {
 
     aside.expanded {
         width: 80vw;
-        height: 80vh;
+        height: 90vh;
     }
 
     #menu-icon {

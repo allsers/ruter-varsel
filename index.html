@@ -31,7 +31,7 @@
             bottom: 0;
             left: 0;
             right: 0;
-            background-color: white;
+            background: linear-gradient(135deg, #fafcff, #d4e0f5);
             color: black;
             text-align: center;
             padding: 0.5rem;
@@ -102,7 +102,7 @@
             font-size: 1.2rem;
         }
         .popup.show {
-            animation: bounceIn 0.5s ease;
+            animation: bounceIn 0.3s ease;
             transform: translateY(0);
         }
         .popup.hidden {
@@ -112,14 +112,8 @@
             0% {
                 transform: translateY(100%);
             }
-            60% {
-                transform: translateY(0%);
-            }
-            80% {
-                transform: translateY(10%);
-            }
             100% {
-                transform: translateY(0);
+                transform: translateY(0%);
             }
         }
         @media (max-width: 600px) {
