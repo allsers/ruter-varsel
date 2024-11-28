@@ -1,6 +1,7 @@
 html, body {
     touch-action: manipulation;
     overflow: hidden;
+    background: linear-gradient(135deg, #f5f7fa, #c3cfe2);
 }
 
 @keyframes fadeIn {
@@ -18,7 +19,7 @@ aside {
     touch-action: none;
     width: 5vh;
     height: 5vh;
-    background: rgba(255, 255, 255, 0.98);
+    background: linear-gradient(135deg, #fafcff, #d4e0f5);
     position: fixed;
     top: 0;
     right: 0;
@@ -41,8 +42,8 @@ button {
 }
 
 #menu-icon {
-    top: 7.5px;
-    right: 7.5px;
+    top: 10px;
+    right: 10px;
     position: absolute;
     font-size: 1.5rem;
     color: black;
@@ -111,7 +112,7 @@ ul {
 li {
     padding: 10px;
     margin-bottom: 5px;
-    background: #f9f9f9;
+    background: linear-gradient(135deg, #f3f5f8, #cedaec);
     border-radius: 5px;
     transition: background-color 0.2s ease, transform 0.2s ease;
     animation: fadeIn 0.3s ease;

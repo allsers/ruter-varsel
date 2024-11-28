@@ -7,24 +7,40 @@
     <link rel="stylesheet" href="menu.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" />
     <style>
         body {
             touch-action: manipulation;
             margin: 0;
             padding: 0;
+            font-family: Arial, Helvetica, sans-serif;
+            font-family: 'Roboto', Arial, Helvetica, sans-serif;
+            background: linear-gradient(135deg, #f5f7fa, #c3cfe2);
         }
         #map {
             z-index: 1;
             height: 100vh;
             width: 100vw;
         }
-        .fa-check{
+        .fa-check, .fa-xmark {
             color: white;
             font-size: 1.5rem;
         }
-        .fa-xmark {
-            color: white;
-            font-size: 1.5rem;
+        .popup {
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            background-color: white;
+            color: black;
+            text-align: center;
+            padding: 0.5rem;
+            font-size: 1.2rem;
+            z-index: 1000;
+            transition: transform 0.3s ease-in-out;
+            transform: translateY(100%);
+            border-radius: 20px 20px 0 0;
+            box-shadow: 0px -4px 15px rgba(0, 0, 0, 0.2);
         }
         .popup-buttons {
             display: flex;
@@ -33,31 +49,33 @@
             align-items: center;
             gap: 0.75rem;
         }
-        #x {
-            width: 5vh;
-            height: 5vh;
-            background: #48ff23;
+        #x, #check {
+            width: 10vw;
+            height: 10vw;
+            max-width: 50px;
+            max-height: 50px;
             display: flex;
             justify-content: center;
             align-items: center;
             border-radius: 5px;
             transition: background 0.2s ease;
+            box-shadow: 0px 0px 4px 0px rgba(0,0,0,0.5);
+        }
+        #x:hover, #check:hover {
+            transition: all 0.1s ease;
+            transform: scale(0.95);
+        }
+        #x {
+            background: linear-gradient(135deg, #48ff23, #3cbf1a);
         }
         #x:active {
-            background: #3cbf1a; 
+            background: linear-gradient(135deg, #3cbf1a, #48ff23); 
         }
         #check {
-            width: 5vh;
-            height: 5vh;
-            background: #c31313;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            border-radius: 5px;
-            transition: background 0.2s ease;
+            background: linear-gradient(135deg, #c31313, #a10f0f);
         }
         #check:active {
-            background: #a10f0f; 
+            background: linear-gradient(135deg, #a10f0f, #c31313); 
         }
         b, p {
             display: flex;
@@ -66,7 +84,6 @@
         .fade-in {
             animation: fadeIn 0.2s ease-in-out;
         }
-
         @keyframes fadeIn {
             from {
                 opacity: 0;
@@ -75,29 +92,47 @@
                 opacity: 1;
             }
         }
-        .popup {
-            position: fixed;
-            font-family: Arial, Helvetica, sans-serif;
-            bottom: 0;
-            left: 0;
-            right: 0;
-            background-color: white;
-            color: black;
-            text-align: center;
-            padding: 0.25rem;
-            font-size: 1.05rem;
-            z-index: 1000;
-            transition: transform 0.3s ease-in-out;
-            transform: translateY(100%);
-            border-radius: 20px 20px 0px 0px;
+        .leaflet-popup-content-wrapper {
+            background: linear-gradient(135deg, #fafcff, #d4e0f5);
+            border-radius: 10px;
+            box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.2);
         }
-
+        .leaflet-popup-close-button {
+            color: #333;
+            font-size: 1.2rem;
+        }
         .popup.show {
+            animation: bounceIn 0.5s ease;
             transform: translateY(0);
         }
-
         .popup.hidden {
             transform: translateY(100%);
+        }
+        @keyframes bounceIn {
+            0% {
+                transform: translateY(100%);
+            }
+            60% {
+                transform: translateY(0%);
+            }
+            80% {
+                transform: translateY(10%);
+            }
+            100% {
+                transform: translateY(0);
+            }
+        }
+        @media (max-width: 600px) {
+            .popup {
+                font-size: 1rem;
+                padding: 0.25rem;
+            }
+            #x, #check {
+                width: 15vw;
+                height: 15vw;
+                max-width: 60px;
+                max-height: 60px;
+            }
         }
     </style>
 </head>
@@ -124,44 +159,49 @@
         // 1. Sett opp Leaflet-kartet
         const map = L.map('map', { minZoom: 12 }).setView([59.91, 10.75], 12);
         window.map = map;
-    
+        const osloBounds = [[59.75, 10.475], [60.05, 11.025]];
+        map.setMaxBounds(osloBounds);
+        map.on('drag', function() {
+            map.panInsideBounds(osloBounds, { animate: true });
+        });
         L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
             attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
         }).addTo(map);
-    
+
         const customGreenIcon = L.icon({
             iconUrl: 'https://cdn3.iconfinder.com/data/icons/flat-pro-basic-set-1-1/32/location-green-512.png',
             iconSize: [40, 40],
         });
-    
+
         const customRedIcon = L.icon({
             iconUrl: 'https://cdn3.iconfinder.com/data/icons/flat-pro-basic-set-1-1/32/location-red-512.png',
             iconSize: [40, 40],
         });
-    
+
         // 2. Hent stopp fra osloStops.json
         const fetchStops = async () => {
             try {
                 const response = await fetch('osloStops.json'); // Fetch data from the local JSON file
                 const data = await response.json();
-    
+
                 // Valider at dataene er tilgjengelige
                 if (!data || !Array.isArray(data)) {
                     console.error('Ingen data returnert fra JSON-filen!');
                     return [];
                 }
-    
+
                 return data;
             } catch (error) {
                 console.error('Feil ved henting av stopp fra JSON-filen:', error);
                 return [];
             }
         };
-    
+
         const markersMap = new Map();
+
+        // Function to show popup message
         const showPopup = (message) => {
             const popup = document.getElementById('popup');
-            console.log(popup)
             const popupMessage = document.getElementById('popup-message');
             popupMessage.textContent = message;
             popup.classList.remove('hidden');
@@ -170,10 +210,15 @@
             setTimeout(() => {
                 popup.classList.remove('show');
                 popup.classList.add('hidden');
-            }, 1500); 
+            }, 1500);
         };
+
+        // Function to change the color of the marker
         const changeColor = (lat, lng, color, name) => {
-            navigator.vibrate(300)
+            if (navigator.vibrate) {
+                navigator.vibrate(300)
+            }
+
             const marker = markersMap.get(`${lat},${lng}`);
             if (marker) {
                 if (color === 'green') {
@@ -184,7 +229,7 @@
                     showPopup(`Billettkontroll registrert på ${name}`);
                 }
                 marker.closePopup();
-    
+
                 // Update the color in the stop object
                 const stop = allStops.find(stop => stop.latitude === lat && stop.longitude === lng);
                 if (stop) {
@@ -207,8 +252,8 @@
                                 <b>${stop.name}</b>
                                  <p>Er det kontroll?</p>
                                 <div class="popup-buttons">
-                                    <button id = "x" onclick="changeColor(${stop.latitude}, ${stop.longitude}, 'green', '${stop.name}'); "><i class="fa-solid fa-xmark"></i></button>
-                                    <button id = "check" onclick="changeColor(${stop.latitude}, ${stop.longitude}, 'red', '${stop.name}');"> <i class="fa-solid fa-check"></i></button>
+                                    <button id="x" onclick="changeColor(${stop.latitude}, ${stop.longitude}, 'green', '${stop.name}')"><i class="fa-solid fa-xmark"></i></button>
+                                    <button id="check" onclick="changeColor(${stop.latitude}, ${stop.longitude}, 'red', '${stop.name}')"><i class="fa-solid fa-check"></i></button>
                                 </div>`;
                             marker.bindPopup(popupContent);
                             const markerElement = marker.getElement();
@@ -226,16 +271,16 @@
                 }
             });
         };
-    
+
         // 4. Legg til stopp som markører på kartet etter at kartet har rendert
         let allStops = [];
         fetchStops().then(stops => {
             allStops = stops;
             const event = new CustomEvent('osloStopsReady', { detail: allStops });
             document.dispatchEvent(event);
-    
+
             addMarkers(allStops); // Add markers initially
-    
+
             // Add markers on map moveend event
             map.on('moveend', () => {
                 addMarkers(allStops);
