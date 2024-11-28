@@ -1,3 +1,8 @@
+html, body {
+    touch-action: manipulation;
+    overflow: hidden;
+}
+
 @keyframes fadeIn {
     from {
         opacity: 0;
@@ -10,8 +15,9 @@
 }
 
 aside {
-    width: 10vh;
-    height: 10vh;
+    touch-action: none;
+    width: 5vh;
+    height: 5vh;
     background: rgba(255, 255, 255, 0.98);
     position: fixed;
     top: 0;

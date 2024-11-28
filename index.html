@@ -2,13 +2,14 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <title>Map | bilettkontrollVarsler</title>
     <link rel="stylesheet" href="menu.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
     <style>
         body {
+            touch-action: manipulation;
             margin: 0;
             padding: 0;
         }
@@ -16,6 +17,87 @@
             z-index: 1;
             height: 100vh;
             width: 100vw;
+        }
+        .fa-check{
+            color: white;
+            font-size: 1.5rem;
+        }
+        .fa-xmark {
+            color: white;
+            font-size: 1.5rem;
+        }
+        .popup-buttons {
+            display: flex;
+            width: 100%;
+            justify-content: center;
+            align-items: center;
+            gap: 0.75rem;
+        }
+        #x {
+            width: 5vh;
+            height: 5vh;
+            background: #48ff23;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            border-radius: 5px;
+            transition: background 0.2s ease;
+        }
+        #x:active {
+            background: #3cbf1a; 
+        }
+        #check {
+            width: 5vh;
+            height: 5vh;
+            background: #c31313;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            border-radius: 5px;
+            transition: background 0.2s ease;
+        }
+        #check:active {
+            background: #a10f0f; 
+        }
+        b, p {
+            display: flex;
+            justify-content: center;
+        }
+        .fade-in {
+            animation: fadeIn 0.2s ease-in-out;
+        }
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+            }
+            to {
+                opacity: 1;
+            }
+        }
+        .popup {
+            position: fixed;
+            font-family: Arial, Helvetica, sans-serif;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            background-color: white;
+            color: black;
+            text-align: center;
+            padding: 0.25rem;
+            font-size: 1.05rem;
+            z-index: 1000;
+            transition: transform 0.3s ease-in-out;
+            transform: translateY(100%);
+            border-radius: 20px 20px 0px 0px;
+        }
+
+        .popup.show {
+            transform: translateY(0);
+        }
+
+        .popup.hidden {
+            transform: translateY(100%);
         }
     </style>
 </head>
@@ -34,61 +116,82 @@
     </aside>
 
     <div id="map"></div>
+    <div id="popup" class="popup hidden">
+        <p id="popup-message"></p>
+    </div>
     <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
     <script>
         // 1. Sett opp Leaflet-kartet
-        const map = L.map('map').setView([59.91, 10.75], 12);
+        const map = L.map('map', { minZoom: 12 }).setView([59.91, 10.75], 12);
         window.map = map;
-
+    
         L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
             attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
         }).addTo(map);
-
-        const customIcon = L.icon({
+    
+        const customGreenIcon = L.icon({
             iconUrl: 'https://cdn3.iconfinder.com/data/icons/flat-pro-basic-set-1-1/32/location-green-512.png',
             iconSize: [40, 40],
         });
-
+    
         const customRedIcon = L.icon({
             iconUrl: 'https://cdn3.iconfinder.com/data/icons/flat-pro-basic-set-1-1/32/location-red-512.png',
             iconSize: [40, 40],
         });
-
+    
         // 2. Hent stopp fra osloStops.json
         const fetchStops = async () => {
             try {
                 const response = await fetch('osloStops.json'); // Fetch data from the local JSON file
                 const data = await response.json();
-
+    
                 // Valider at dataene er tilgjengelige
                 if (!data || !Array.isArray(data)) {
                     console.error('Ingen data returnert fra JSON-filen!');
                     return [];
                 }
-
+    
                 return data;
             } catch (error) {
                 console.error('Feil ved henting av stopp fra JSON-filen:', error);
                 return [];
             }
         };
-
-        // Store markers in a map for easy access
+    
         const markersMap = new Map();
+        const showPopup = (message) => {
+            const popup = document.getElementById('popup');
+            console.log(popup)
+            const popupMessage = document.getElementById('popup-message');
+            popupMessage.textContent = message;
+            popup.classList.remove('hidden');
+            popup.classList.add('show');
 
-        // Function to change the color of the marker
-        const changeColor = (lat, lng, color) => {
+            setTimeout(() => {
+                popup.classList.remove('show');
+                popup.classList.add('hidden');
+            }, 1500); 
+        };
+        const changeColor = (lat, lng, color, name) => {
             const marker = markersMap.get(`${lat},${lng}`);
             if (marker) {
                 if (color === 'green') {
-                    marker.setIcon(customIcon);
+                    marker.setIcon(customGreenIcon);
+                    showPopup(`Ingen billettkontroll registrert på ${name}`);
                 } else if (color === 'red') {
                     marker.setIcon(customRedIcon);
+                    showPopup(`Billettkontroll registrert på ${name}`);
+                }
+                marker.closePopup();
+    
+                // Update the color in the stop object
+                const stop = allStops.find(stop => stop.latitude === lat && stop.longitude === lng);
+                if (stop) {
+                    stop.color = color;
                 }
             }
         };
 
-        // Function to add markers within the current map bounds
         const addMarkers = (allStops) => {
             const bounds = map.getBounds();
             allStops.forEach(stop => {
@@ -96,16 +199,21 @@
                     const latLng = [stop.latitude, stop.longitude];
                     if (bounds.contains(latLng)) {
                         if (!markersMap.has(`${stop.latitude},${stop.longitude}`)) {
-                            const marker = L.marker(latLng, { icon: customIcon }).addTo(map);
+                            const icon = stop.color === 'red' ? customRedIcon : customGreenIcon;
+                            const marker = L.marker(latLng, { icon }).addTo(map);
                             markersMap.set(`${stop.latitude},${stop.longitude}`, marker);
                             const popupContent = `
                                 <b>${stop.name}</b>
                                  <p>Er det kontroll?</p>
                                 <div class="popup-buttons">
-                                    <button onclick="alert('Du registrerte at det ikke er kontroll på ${stop.name}'); changeColor(${stop.latitude}, ${stop.longitude}, 'green'); navigator.vibrate(300);">X</button>
-                                    <button onclick="alert('Du registrerte at det er kontroll på ${stop.name}, takk!'); changeColor(${stop.latitude}, ${stop.longitude}, 'red'); navigator.vibrate(300);">V</button>
+                                    <button id = "x" onclick="changeColor(${stop.latitude}, ${stop.longitude}, 'green', '${stop.name}')"><i class="fa-solid fa-xmark"></i></button>
+                                    <button id = "check" onclick="changeColor(${stop.latitude}, ${stop.longitude}, 'red', '${stop.name}')"> <i class="fa-solid fa-check"></i></button>
                                 </div>`;
                             marker.bindPopup(popupContent);
+                            const markerElement = marker.getElement();
+                            if (markerElement) {
+                                markerElement.classList.add('fade-in');
+                            }
                         }
                     } else {
                         const marker = markersMap.get(`${stop.latitude},${stop.longitude}`);
@@ -117,14 +225,16 @@
                 }
             });
         };
-
+    
         // 4. Legg til stopp som markører på kartet etter at kartet har rendert
-        fetchStops().then(allStops => {
+        let allStops = [];
+        fetchStops().then(stops => {
+            allStops = stops;
             const event = new CustomEvent('osloStopsReady', { detail: allStops });
             document.dispatchEvent(event);
-
+    
             addMarkers(allStops); // Add markers initially
-
+    
             // Add markers on map moveend event
             map.on('moveend', () => {
                 addMarkers(allStops);
@@ -133,5 +243,6 @@
     </script>
 
     <script src="menu.js" type="module" defer></script>
+
 </body>
 </html>
