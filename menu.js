@@ -99,7 +99,7 @@ document.addEventListener('DOMContentLoaded', () => {
             }
         });
 
-        searchBar.addEventListener('input', debounce(updateItemList, 300));
+        searchBar.addEventListener('input', debounce(updateItemList, 250));
 
         itemList.addEventListener('scroll', () => {
             if (itemList.scrollTop + itemList.clientHeight >= itemList.scrollHeight) {
