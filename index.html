@@ -102,8 +102,8 @@
                                 <b>${stop.name}</b>
                                  <p>Er det kontroll?</p>
                                 <div class="popup-buttons">
-                                    <button onclick="alert('Du registrerte at det ikke er kontroll på ${stop.name}'); changeColor(${stop.latitude}, ${stop.longitude}, 'green');">X</button>
-                                    <button onclick="alert('Du registrerte at det er kontroll på ${stop.name}, takk!'); changeColor(${stop.latitude}, ${stop.longitude}, 'red');">V</button>
+                                    <button onclick="alert('Du registrerte at det ikke er kontroll på ${stop.name}'); changeColor(${stop.latitude}, ${stop.longitude}, 'green'); navigator.vibrate(300);">X</button>
+                                    <button onclick="alert('Du registrerte at det er kontroll på ${stop.name}, takk!'); changeColor(${stop.latitude}, ${stop.longitude}, 'red'); navigator.vibrate(300);">V</button>
                                 </div>`;
                             marker.bindPopup(popupContent);
                         }
