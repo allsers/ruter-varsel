@@ -105,7 +105,6 @@
             background:  #d4e0f5;
         }
         .popup.show {
-
             transform: translateY(0);
         }
         .popup.hidden {
@@ -155,7 +154,9 @@
             map.panInsideBounds(osloBounds, { animate: true });
         });
         L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+            updateWhenIdle: false,
+            updateWhenZooming: true
         }).addTo(map);
 
         const customGreenIcon = L.icon({
@@ -272,7 +273,7 @@
             addMarkers(allStops); // Add markers initially
 
             // Add markers on map moveend event
-            map.on('moveend', () => {
+            map.on('move', () => {
                 addMarkers(allStops);
             });
         });
